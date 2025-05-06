@@ -5,10 +5,11 @@ import random
 
 FEEDS = {
     "LOCAL": [
-        "https://www.erienewsnow.com/rss",
-        "https://www.goerie.com/news/rss",
+        "https://rssfeeds.goerie.com/goerie/home",
+        "https://www.erienewsnow.com/category/208145/local-news?clienttype=rss",
         "https://www.milb.com/erie/news/rss",
-        "https://news.google.com/rss/search?q=%22Erie+Otters%22+hockey+-photo+-slideshow+-obituary&hl=en-US&gl=US&ceid=US:en"
+        "https://news.google.com/rss/search?q=%22Erie+Otters%22+hockey+-photo+-slideshow+-obituary&hl=en-US&gl=US&ceid=US:en",
+        "https://www.yourerie.com/feed/"
     ],
     "NFL": "https://www.espn.com/espn/rss/nfl/news",
     "NHL": "https://www.espn.com/espn/rss/nhl/news",
