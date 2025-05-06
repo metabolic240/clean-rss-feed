@@ -1,16 +1,16 @@
-name: Update RSS Feed Daily
+name: Update RSS Feed Every 6 Hours
 
 on:
   schedule:
-      - cron: "0 */6 * * *"
-  workflow_dispatch:     # Optional: manual run button in GitHub UI
+    - cron: "0 */6 * * *"  # Every 6 hours
+  workflow_dispatch:       # Allows manual run from GitHub UI
 
 jobs:
   update-feed:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repo
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Set up Python
