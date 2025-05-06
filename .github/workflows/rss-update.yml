@@ -37,14 +37,3 @@ jobs:
         run: |
           cd /home/runner/work/clean-rss-feed/clean-rss-feed/
           python generate_rss.py
-
-      - name: Add timestamp to force update
-        run: echo "<!-- Updated: $(date -u) -->" >> rss.xml
-
-      - name: Commit and push RSS
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add rss.xml
-          git commit -m "Automated RSS update" || echo "No changes to commit"
-          git push
