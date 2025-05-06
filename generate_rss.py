@@ -27,12 +27,12 @@ EXCLUDE_KEYWORDS = [
 
 # Customize number of stories per category
 STORY_LIMITS = {
-    "LOCAL": 10,
-    "NATIONAL": 8,
-    "NFL": 4,
-    "NHL": 4,
-    "MLB": 4,
-    "NBA": 4
+    "LOCAL": 20,
+    "NATIONAL": 16,
+    "NFL": 8,
+    "NHL": 8,
+    "MLB": 8,
+    "NBA": 8
 }
 
 def clean_and_write_rss():
