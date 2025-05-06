@@ -18,11 +18,12 @@ FEEDS = {
 }
 
 EXCLUDE_KEYWORDS = [
-    "photo", "photos", "click", "slideshow", "gallery", "who", "what", "where",
+    "photo", "photos", "click", "slideshow", "gallery", "who", "what", "where", "here's how",
     "obituary", "see", "top ten", "viral", "sponsored", "buzz", "schedule",
     "ticket", "promo", "advertisement", "sign up", "event", "rankings",
     "preview", "high school", "congratulations", "register", "contest"
 ]
+
 
 # Customize number of stories per category
 STORY_LIMITS = {
