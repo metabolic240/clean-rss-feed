@@ -18,9 +18,6 @@ jobs:
 
       - name: Install dependencies
         run: pip install feedparser
-     
-      - name: Set working directory
-        run: cd $GITHUB_WORKSPACE
 
       - name: Run RSS generator
-        run: python $GITHUB_WORKSPACE/generate_rss.py
+        run: python generate_rss.py
