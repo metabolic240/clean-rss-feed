@@ -1,4 +1,4 @@
-name: Update RSS Feed Every 6 Hours
+name: Update RSS (refreshed)
 
 on:
   schedule:
