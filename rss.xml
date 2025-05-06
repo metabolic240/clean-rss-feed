@@ -1,104 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <rss version="2.0">
         <channel>
-            <title>Filtered Sports Feed</title>
+            <title>Filtered Local + Sports Feed</title>
             <link>https://yourusername.github.io/clean-rss-feed/rss.xml</link>
-            <description>Cleaned sports and local feed</description>
+            <description>Mixed, clean headlines for signage</description>
             
         <item>
-            <title>Ray Fittipaldo&#x27;s Steelers chat: 05.06.25</title>
-            <link>https://www.post-gazette.com/sports/steelers/2025/05/06/nfl-draft-free-agency-steelers-george-pickens/stories/202505060041</link>
-            <pubDate>Tue, 06 May 2025 10:30:00 -0400</pubDate>
-        </item>
-        
-        <item>
-            <title>Pitt lands commitment from 3-star wide receiver Demetrice McCray</title>
-            <link>https://www.post-gazette.com/sports/Pitt/2025/05/06/pitt-football-recruiting-demetrice-mccray/stories/202505060045</link>
-            <pubDate>Tue, 06 May 2025 10:28:40 -0400</pubDate>
-        </item>
-        
-        <item>
-            <title>Steelers NFL draft deep dive: Kaleb Johnson is much more than his 40-yard dash time</title>
-            <link>https://www.post-gazette.com/sports/steelers/2025/05/06/nfl-draft-news-rumors-kaleb-johnson-iowa-hawkeyes/stories/202505060003</link>
-            <pubDate>Tue, 06 May 2025 06:32:49 -0400</pubDate>
-        </item>
-        
-        <item>
-            <title>High school sports results for Monday, May 5, 2025; Playoff tennis schedule</title>
+            <title>[Pittsburgh] High school sports results for Monday, May 5, 2025; Playoff tennis schedule</title>
             <link>https://www.post-gazette.com/sports/highschool/2025/05/05/high-school-sports-results-for-monday-may-5-2025-playoff-tennis-schedule/stories/202505050081</link>
             <pubDate>Tue, 06 May 2025 00:23:08 -0400</pubDate>
         </item>
         
         <item>
-            <title>Kenny Johnson spurns transfer portal, more lucrative NIL offers to remain at Pitt</title>
+            <title>[Pittsburgh] Kenny Johnson spurns transfer portal, more lucrative NIL offers to remain at Pitt</title>
             <link>https://www.post-gazette.com/sports/Pitt/2025/05/05/kenny-johnson-transfer-portal-pitt-wide-receiver-college-football-ncaa/stories/202504170087</link>
             <pubDate>Mon, 05 May 2025 23:23:57 -0400</pubDate>
         </item>
         
         <item>
-            <title>High school highlights: Penn-Trafford softball wins key showdown against Franklin Regional</title>
-            <link>https://www.post-gazette.com/sports/hsother/2025/05/05/wpial-softball-baseball-cameron-ponko-bria-bosiljevac/stories/202505050042</link>
-            <pubDate>Mon, 05 May 2025 22:44:34 -0400</pubDate>
+            <title>[Pittsburgh] Pitt lands commitment from 3-star wide receiver Demetrice McCray</title>
+            <link>https://www.post-gazette.com/sports/Pitt/2025/05/06/pitt-football-recruiting-demetrice-mccray/stories/202505060045</link>
+            <pubDate>Tue, 06 May 2025 10:28:40 -0400</pubDate>
         </item>
         
         <item>
-            <title>Instant analysis: Chase Shugart&#x27;s sixth-inning meltdown leads Pirates to series opening loss in St. Louis</title>
-            <link>https://www.post-gazette.com/sports/pirates/2025/05/05/pittsburgh-pirates-st-louis-cardinals-chase-shugart/stories/202504280145</link>
-            <pubDate>Mon, 05 May 2025 22:43:02 -0400</pubDate>
+            <title>[Pittsburgh] Steelers NFL draft deep dive: Kaleb Johnson is much more than his 40-yard dash time</title>
+            <link>https://www.post-gazette.com/sports/steelers/2025/05/06/nfl-draft-news-rumors-kaleb-johnson-iowa-hawkeyes/stories/202505060003</link>
+            <pubDate>Tue, 06 May 2025 06:32:49 -0400</pubDate>
         </item>
         
         <item>
-            <title>Kavan Markwood ‘up and moving,’ takes first steps since PNC Park fall, GoFundMe organizers say</title>
-            <link>https://www.post-gazette.com/sports/pirates/2025/05/05/kavan-markwood-update-fall-first-steps-pnc-park-clemente-wall/stories/202505050078</link>
-            <pubDate>Mon, 05 May 2025 19:55:26 -0400</pubDate>
-        </item>
-        
-        <item>
-            <title>So close: Penguins will pick 11th in 2025 NHL draft after last lottery ball doesn&#x27;t bounce their way</title>
-            <link>https://www.post-gazette.com/sports/penguins/2025/05/05/nhl-draft-lottery-kyle-dubas-sidney-crosby/stories/202505050037</link>
-            <pubDate>Mon, 05 May 2025 19:44:31 -0400</pubDate>
-        </item>
-        
-        <item>
-            <title>Paul Zeise: Steelers&#x27; Ben Roethlisberger is an all-time great, but his place in history is right where it should be</title>
-            <link>https://www.post-gazette.com/sports/paul-zeise/2025/05/05/roethlisberger-suggs-goat-discussion/stories/202505050076</link>
-            <pubDate>Mon, 05 May 2025 19:31:03 -0400</pubDate>
-        </item>
-        
-        <item>
-            <title>Ravens release kicker Justin Tucker after accusations by massage therapists of inappropriate behavior</title>
-            <link>https://www.post-gazette.com/sports/nfl/2025/05/05/justin-tucker-released-ravens-massage-allegations/stories/202505050073</link>
-            <pubDate>Mon, 05 May 2025 18:08:09 -0400</pubDate>
-        </item>
-        
-        <item>
-            <title>Former Steelers LB Devin Bush accused of assaulting girlfriend in his Pittsburgh home</title>
-            <link>https://www.post-gazette.com/sports/nfl/2025/05/05/devin-bush-arrested-assault/stories/202505050071</link>
-            <pubDate>Mon, 05 May 2025 17:12:52 -0400</pubDate>
-        </item>
-        
-        <item>
-            <title>Paul Zeise Live: Is Steelers&#x27; Ben Roethlisberger underrated like ex-Ravens rival Terrell Suggs says?</title>
-            <link>https://www.post-gazette.com/sports/paul-zeise/2025/05/05/nfl-news-rumors-podcast-nfl-ben-roethlisberger-terrell-suggs/stories/202505050064</link>
-            <pubDate>Mon, 05 May 2025 15:52:07 -0400</pubDate>
-        </item>
-        
-        <item>
-            <title>NHL to hold international event at Islanders&#x27; UBS Arena in 2026 in place of All-Star weekend, AP source says</title>
-            <link>https://www.post-gazette.com/sports/nhl/2025/05/05/nations-faceoff-allstar-weekend-replacement-international-tournament/stories/202505050059</link>
-            <pubDate>Mon, 05 May 2025 15:23:18 -0400</pubDate>
-        </item>
-        
-        <item>
-            <title>Michigan to suspend coach Sherrone Moore for 2 games to address NCAA allegations, AP sources say</title>
-            <link>https://www.post-gazette.com/sports/NCAA/2025/05/05/michigan-sherrone-moore-suspended-violations/stories/202505050058</link>
-            <pubDate>Mon, 05 May 2025 15:18:04 -0400</pubDate>
-        </item>
-        
-        <item>
-            <title>Athletes of the week: Woodland Hills&#x27; Scoop Smith and Upper St. Clair&#x27;s Anna Capobres</title>
-            <link>https://www.post-gazette.com/sports/high-school-athlete-of-the-week/2025/05/05/wpial-scoop-smith-woodland-hills-capobres-upper-st-clair-lacrosse/stories/202504280148</link>
-            <pubDate>Mon, 05 May 2025 13:52:08 -0400</pubDate>
+            <title>[Pittsburgh] Ray Fittipaldo&#x27;s Steelers chat: 05.06.25</title>
+            <link>https://www.post-gazette.com/sports/steelers/2025/05/06/nfl-draft-free-agency-steelers-george-pickens/stories/202505060041</link>
+            <pubDate>Tue, 06 May 2025 10:30:00 -0400</pubDate>
         </item>
         
         </channel>
