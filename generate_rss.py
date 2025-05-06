@@ -21,7 +21,7 @@ EXCLUDE_KEYWORDS = [
     "photo", "photos", "click", "slideshow", "gallery", "who", "what", "where", "here's how",
     "obituary", "see", "top ten", "viral", "sponsored", "buzz", "schedule",
     "ticket", "promo", "advertisement", "sign up", "event", "rankings",
-    "preview", "high school", "congratulations", "register", "contest"
+    "preview", "high school", "congratulations", "register", "contest", "birthday"
 ]
 
 
