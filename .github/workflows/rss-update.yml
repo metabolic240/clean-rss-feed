@@ -1,8 +1,6 @@
-name: Update RSS Feed (Refreshed)
+name: Update RSS Feed (Test Mode)
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"  # Every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -10,27 +8,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: pip install feedparser
-
-      - name: Run RSS generator
-        run: python generate_rss.py
-
-      - name: Add timestamp to force update
-        run: echo "<!-- Updated: $(date -u) -->" >> rss.xml
-
-      - name: Commit and push RSS
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add rss.xml
-          git commit -m "Automated RSS update" || echo "No changes to commit"
-          git push
+      - name: Hello from RSS update
+        run: echo "🧪 RSS workflow loads correctly"
