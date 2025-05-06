@@ -8,6 +8,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
       - name: Hello from RSS workflow
         run: echo "✅ RSS workflow loads correctly"
 
