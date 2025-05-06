@@ -1,39 +1,99 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <rss version="2.0">
-        <channel>
-            <title>Filtered Local + Sports Feed</title>
-            <link>https://yourusername.github.io/clean-rss-feed/rss.xml</link>
-            <description>Mixed, clean headlines for signage</description>
-            
+    <channel>
+        <title>Metabolic Signage Feed</title>
+        <link>https://yourusername.github.io/clean-rss-feed/rss.xml</link>
+        <description>Filtered national sports and local Erie headlines</description>
+        
         <item>
-            <title>[Pittsburgh] High school sports results for Monday, May 5, 2025; Playoff tennis schedule</title>
-            <link>https://www.post-gazette.com/sports/highschool/2025/05/05/high-school-sports-results-for-monday-may-5-2025-playoff-tennis-schedule/stories/202505050081</link>
-            <pubDate>Tue, 06 May 2025 00:23:08 -0400</pubDate>
+            <title>[MLB] Shildt, irate over Tatis ejection, throws his glasses</title>
+            <link>https://www.espn.com/mlb/story/_/id/45018264/ejected-manager-mike-shildt-throws-glasses-padres-win</link>
+            <pubDate>Tue, 6 May 2025 10:49:08 EST</pubDate>
         </item>
         
         <item>
-            <title>[Pittsburgh] Kenny Johnson spurns transfer portal, more lucrative NIL offers to remain at Pitt</title>
-            <link>https://www.post-gazette.com/sports/Pitt/2025/05/05/kenny-johnson-transfer-portal-pitt-wide-receiver-college-football-ncaa/stories/202504170087</link>
-            <pubDate>Mon, 05 May 2025 23:23:57 -0400</pubDate>
+            <title>[NBA] OKC&#x27;s Presti named NBA&#x27;s executive of the year</title>
+            <link>https://www.espn.com/nba/story/_/id/45025579/okc-sam-presti-picked-nba-executive-year</link>
+            <pubDate>Tue, 6 May 2025 13:43:17 EST</pubDate>
         </item>
         
         <item>
-            <title>[Pittsburgh] Pitt lands commitment from 3-star wide receiver Demetrice McCray</title>
-            <link>https://www.post-gazette.com/sports/Pitt/2025/05/06/pitt-football-recruiting-demetrice-mccray/stories/202505060045</link>
-            <pubDate>Tue, 06 May 2025 10:28:40 -0400</pubDate>
+            <title>[LOCAL] Erie Otters Announce Changes in Hockey Operations Department - Canadian Hockey League</title>
+            <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxONWVzeG81ZGV0cUs2R0xOMVhIY1B2X3V2Y2hxY1JMS2FqLWhMbW9ScTZ5cGd6WjgwWFdJeDBzbmRUZV9mZTB3cnZVR1NHSHROVHlLWnZ4SmtCeWNQck1VNmZ3a1F6UENMT05GbHM5WDZDM0o2LWdQYXNJWWxmdjF0U2VTajBFVzZLRk5fWk9SdHgtLUpVWmtrVTNpVQ?oc=5</link>
+            <pubDate>Tue, 29 Apr 2025 16:00:54 GMT</pubDate>
         </item>
         
         <item>
-            <title>[Pittsburgh] Steelers NFL draft deep dive: Kaleb Johnson is much more than his 40-yard dash time</title>
-            <link>https://www.post-gazette.com/sports/steelers/2025/05/06/nfl-draft-news-rumors-kaleb-johnson-iowa-hawkeyes/stories/202505060003</link>
-            <pubDate>Tue, 06 May 2025 06:32:49 -0400</pubDate>
+            <title>[NHL] Biggest lessons of the Stanley Cup playoffs so far -- and why they matter for Round 2 and beyond</title>
+            <link>https://www.espn.com/nhl/story/_/id/45012663/nhl-playoffs-2024-stanley-cup-lessons-favorites-scoring-top-players-trends</link>
+            <pubDate>Tue, 6 May 2025 13:27:34 EST</pubDate>
         </item>
         
         <item>
-            <title>[Pittsburgh] Ray Fittipaldo&#x27;s Steelers chat: 05.06.25</title>
-            <link>https://www.post-gazette.com/sports/steelers/2025/05/06/nfl-draft-free-agency-steelers-george-pickens/stories/202505060041</link>
-            <pubDate>Tue, 06 May 2025 10:30:00 -0400</pubDate>
+            <title>[NBA] &#x27;I knew it wasn&#x27;t a miss&#x27;: Gordon&#x27;s 3 stuns OKC</title>
+            <link>https://www.espn.com/nba/story/_/id/45017692/nuggets-steal-game-1-thunder-aaron-gordon-game-winner-nikola-jokic-42-points-22-rebounds</link>
+            <pubDate>Tue, 6 May 2025 13:43:18 EST</pubDate>
         </item>
         
-        </channel>
-    </rss>
+        <item>
+            <title>[NHL] Islanders win draft lottery for first time since &#x27;09</title>
+            <link>https://www.espn.com/nhl/story/_/id/45014170/new-york-islanders-win-draft-lottery-1st-2009</link>
+            <pubDate>Tue, 6 May 2025 12:55:53 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] Reds left fielder Callihan suffers broken forearm</title>
+            <link>https://www.espn.com/mlb/story/_/id/45015180/cincinnati-reds-rookie-tyler-callihan-exits-injured-arm</link>
+            <pubDate>Tue, 6 May 2025 10:49:08 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NFL] NFL experts debate the draft: Which teams have the most impactful rookie classes?</title>
+            <link>https://www.espn.com/nfl/story/_/id/44936474/nfl-draft-2025-experts-big-questions-best-worst-picks-awards-predictions</link>
+            <pubDate>Tue, 6 May 2025 10:06:48 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NBA] &#x27;Job well done&#x27;: Inside Gregg Popovich&#x27;s unparalleled NBA legacy</title>
+            <link>https://www.espn.com/nba/story/_/id/45011012/inside-gregg-popovich-unparalleled-nba-legacy-san-antonio-spurs</link>
+            <pubDate>Tue, 6 May 2025 11:48:44 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Where the Erie Otters&#x27; Matthew Schaefer could go as the NHL&#x27;s projected No. 1 draft pick - Erie Times-News</title>
+            <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMURKN21QeE9IN000Vzh5UHJWTWpzOHVzalhfcmxqZDBqOTFzNHdkYjRfX0dMN2d0VkFRYTJla3h2M3ljaFZNSm9pSnNvRmROWENQeTNncjl6R0o0c2FGamxDY3hqOWVWb3hoM2xiSWlSV1d4aGhPczI4aXY3ZUFiRnJJS3Q0elV5VWZNUUdXcFh3Mzd2bGhsbTRKTjVSYWNwdEtiRUgwQlBvUmRPQXdwcVh5eGtpbnBfRTk1WE1obzh4M2tQQ3hDOFpGWDZkZlhXOGhybw?oc=5</link>
+            <pubDate>Tue, 06 May 2025 04:47:39 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NHL] Panthers&#x27; Bennett: No &#x27;ill intent&#x27; toward Stolarz</title>
+            <link>https://www.espn.com/nhl/story/_/id/45024994/panthers-bennett-no-ill-intent-elbow-leafs-stolarz</link>
+            <pubDate>Tue, 6 May 2025 12:55:53 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NFL] Browns&#x27; Sanders to wear 12, like mentor Brady</title>
+            <link>https://www.espn.com/nfl/story/_/id/45025047/browns-shedeur-sanders-start-nfl-career-wearing-no-12</link>
+            <pubDate>Tue, 6 May 2025 12:34:03 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NFL] Power 4 coaches on the NFL draft: Intel on Shedeur Sanders&#x27; slide, sleeper picks and six schools&#x27; classes</title>
+            <link>https://www.espn.com/nfl/story/_/id/44968808/nfl-draft-2022-college-coaches-confidential-sleepers-surprises-shedeur-sanders</link>
+            <pubDate>Tue, 6 May 2025 10:06:48 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] Dodgers OF Hernández set for MRI on hamstring</title>
+            <link>https://www.espn.com/mlb/story/_/id/45014979/dodgers-teoscar-hernandez-leaves-game-vs-marlins-hamstring-tightness</link>
+            <pubDate>Tue, 6 May 2025 10:49:08 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Erie Otters Announce Changes in Communications Department - Canadian Hockey League</title>
+            <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPSml4MFN0UWFYX3JOZ3ZQYVRnanpTUjFHWE9ZRkV0SjhNLVdueTI4NGN6LWRqbzBlSjBEOHZjNlA0MUg0VTJ4b2o4SkRsSmpIRmFTUnQ4azhlYXljTkxFNGxUcV9JOTlrN0MtUElPVXBzcGV4VEpIQm9SS2d4aUtZQWtfZF9RMmpDWWpIdVdKdURzajBSMFlz?oc=5</link>
+            <pubDate>Thu, 24 Apr 2025 16:30:54 GMT</pubDate>
+        </item>
+        
+    </channel>
+    </rss><!-- Updated: Tue May  6 18:27:46 UTC 2025 -->
