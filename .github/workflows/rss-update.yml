@@ -25,8 +25,7 @@ jobs:
         run: pip install feedparser
 
       - name: Run RSS generator
-        run: |
-          python generate_rss.py
+        run: python generate_rss.py
 
       - name: Add timestamp to force update
         run: echo "<!-- Updated: $(date -u) -->" >> rss.xml
