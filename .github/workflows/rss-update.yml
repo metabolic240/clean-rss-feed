@@ -8,5 +8,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Hello from RSS update
-        run: echo "🧪 RSS workflow loads correctly"
+      - name: Hello from RSS workflow
+        run: echo "✅ RSS workflow loads correctly"
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
