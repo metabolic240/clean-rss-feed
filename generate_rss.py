@@ -3,18 +3,19 @@ from datetime import datetime
 import html
 import random
 
-# Feeds: label => RSS URL
 FEEDS = {
-    "SeaWolves": "https://www.milb.com/erie/news/rss",
-    "Erie Otters": "https://news.google.com/rss/search?q=%22Erie+Otters%22+hockey+-photo+-slideshow+-obituary&hl=en-US&gl=US&ceid=US:en",
-    "MLB": "https://www.espn.com/espn/rss/mlb/news",
+    "LOCAL": [
+        "https://www.erienewsnow.com/rss",
+        "https://www.goerie.com/news/rss",
+        "https://www.milb.com/erie/news/rss",
+        "https://news.google.com/rss/search?q=%22Erie+Otters%22+hockey+-photo+-slideshow+-obituary&hl=en-US&gl=US&ceid=US:en"
+    ],
     "NFL": "https://www.espn.com/espn/rss/nfl/news",
     "NHL": "https://www.espn.com/espn/rss/nhl/news",
-    "NBA": "https://www.espn.com/espn/rss/nba/news",
-    "Erie News": "https://www.goerie.com/news/rss"
+    "MLB": "https://www.espn.com/espn/rss/mlb/news",
+    "NBA": "https://www.espn.com/espn/rss/nba/news"
 }
 
-# Global headline filter
 EXCLUDE_KEYWORDS = [
     "photo", "photos", "click", "slideshow", "gallery", "who", "what",
     "obituary", "see", "top ten", "viral", "sponsored", "buzz", "schedule",
@@ -22,40 +23,32 @@ EXCLUDE_KEYWORDS = [
     "preview", "high school", "congratulations", "register", "contest"
 ]
 
-# Target team filter per ESPN feed
-TEAM_KEYWORDS = {
-    "NFL": ["steelers", "bills", "browns"],
-    "NHL": ["penguins", "sabres", "monsters"],
-    "MLB": ["pirates", "guardians"],
-    "NBA": ["cavaliers"]
-}
-
 def clean_and_write_rss():
     entries = []
 
-    for label, url in FEEDS.items():
-        try:
-            feed = feedparser.parse(url)
-            clean = []
+    for label, sources in FEEDS.items():
+        # Normalize single string vs. list of feeds
+        urls = sources if isinstance(sources, list) else [sources]
 
-            for entry in feed.entries:
-                title = entry.get("title", "").lower()
-                if any(bad in title for bad in EXCLUDE_KEYWORDS):
-                    continue
-                if label in TEAM_KEYWORDS:
-                    if not any(team in title for team in TEAM_KEYWORDS[label]):
-                        continue  # Skip unrelated national story
-                entry.label = label
-                clean.append(entry)
+        clean = []
+        for url in urls:
+            try:
+                feed = feedparser.parse(url)
+                for entry in feed.entries:
+                    title = entry.get("title", "").lower()
+                    if any(bad in title for bad in EXCLUDE_KEYWORDS):
+                        continue
+                    entry.label = label
+                    clean.append(entry)
+            except Exception as e:
+                print(f"[{label}] Error reading feed {url}: {e}")
 
-            selected = clean[:5]  # Take top 5 valid entries
-            entries.extend(selected)
-            print(f"[{label}] {len(selected)} items included.")
-        except Exception as e:
-            print(f"[{label}] Error: {e}")
+        selected = clean[:3]
+        entries.extend(selected)
+        print(f"[{label}] {len(selected)} entries included.")
 
     if not entries:
-        print("⚠️ No entries found after filtering. Check feed sources or filters.")
+        print("⚠️ No entries found. Check filters or feed URLs.")
 
     random.shuffle(entries)
 
@@ -74,9 +67,9 @@ def clean_and_write_rss():
     rss_feed = f"""<?xml version="1.0" encoding="UTF-8" ?>
     <rss version="2.0">
     <channel>
-        <title>Filtered Erie + Sports Feed</title>
+        <title>Metabolic Signage Feed</title>
         <link>https://yourusername.github.io/clean-rss-feed/rss.xml</link>
-        <description>Mixed, clean news headlines for signage</description>
+        <description>Filtered national sports and local Erie headlines</description>
         {rss_items}
     </channel>
     </rss>"""
@@ -86,3 +79,4 @@ def clean_and_write_rss():
 
 if __name__ == "__main__":
     clean_and_write_rss()
+
