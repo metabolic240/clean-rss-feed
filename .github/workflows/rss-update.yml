@@ -1,4 +1,4 @@
-name: Update RSS Feed (Refreshed)
+name: Update RSS Feed
 
 on:
   schedule:
@@ -13,11 +13,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
-
-      - name: Hello from RSS workflow
-        run: echo "✅ RSS workflow loads correctly"
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -27,28 +24,18 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser
 
-      - name: Debug current directory
-        run: |
-          echo "PWD: $(pwd)"
-          echo "Listing:"
-          ls -la
-
       - name: Run RSS generator
-        run: |
-          cd /home/runner/work/clean-rss-feed/clean-rss-feed/
-          python generate_rss.py
+        run: python generate_rss.py
 
       - name: Add timestamp to force update
         run: echo "<!-- Updated: $(date -u) -->" >> rss.xml
 
-      - name: Commit changes
+      - name: Commit and push updated RSS
+        env:
+          TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add rss.xml
           git commit -m "Automated RSS update" || echo "No changes to commit"
-
-      - name: Push to repository
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
