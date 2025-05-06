@@ -41,7 +41,7 @@ jobs:
                  - name: Add timestamp to force update
         run: echo "<!-- Updated: $(date -u) -->" >> rss.xml
 
-      - name: Commit and push updated RSS
+            - name: Commit and push updated RSS
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
@@ -51,5 +51,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Automated RSS update"
-            git push
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           fi
