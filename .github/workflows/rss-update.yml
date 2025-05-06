@@ -3,7 +3,7 @@ name: Update RSS Feed Every 6 Hours
 on:
   schedule:
     - cron: "0 */6 * * *"  # Every 6 hours
-  workflow_dispatch:       # Allows manual run from GitHub UI
+  workflow_dispatch:       # Allow manual runs
 
 jobs:
   update-feed:
@@ -23,6 +23,9 @@ jobs:
 
       - name: Run RSS generator
         run: python generate_rss.py
+
+      - name: Add timestamp to force update
+        run: echo "<!-- Updated: $(date -u) -->" >> rss.xml
 
       - name: Commit and push RSS
         run: |
