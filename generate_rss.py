@@ -3,7 +3,7 @@ from datetime import datetime
 import html
 import random
 
-# Curated sources: label => RSS URL
+# Feeds: label => RSS URL
 FEEDS = {
     "SeaWolves": "https://www.milb.com/erie/news/rss",
     "Erie Otters": "https://news.google.com/rss/search?q=%22Erie+Otters%22+hockey+-photo+-slideshow+-obituary&hl=en-US&gl=US&ceid=US:en",
@@ -14,6 +14,7 @@ FEEDS = {
     "Erie News": "https://www.goerie.com/news/rss"
 }
 
+# Global headline filter
 EXCLUDE_KEYWORDS = [
     "photo", "photos", "click", "slideshow", "gallery", "who", "what",
     "obituary", "see", "top ten", "viral", "sponsored", "buzz", "schedule",
@@ -21,19 +22,40 @@ EXCLUDE_KEYWORDS = [
     "preview", "high school", "congratulations", "register", "contest"
 ]
 
+# Target team filter per ESPN feed
+TEAM_KEYWORDS = {
+    "NFL": ["steelers", "bills", "browns"],
+    "NHL": ["penguins", "sabres", "monsters"],
+    "MLB": ["pirates", "guardians"],
+    "NBA": ["cavaliers"]
+}
+
 def clean_and_write_rss():
     entries = []
 
     for label, url in FEEDS.items():
-        feed = feedparser.parse(url)
-        clean = []
-        for entry in feed.entries:
-            title = entry.get("title", "").lower()
-            if any(word in title for word in EXCLUDE_KEYWORDS):
-                continue
-            entry.label = label  # Add label for later use
-            clean.append(entry)
-        entries.extend(clean[:5])  # Top 5 per source
+        try:
+            feed = feedparser.parse(url)
+            clean = []
+
+            for entry in feed.entries:
+                title = entry.get("title", "").lower()
+                if any(bad in title for bad in EXCLUDE_KEYWORDS):
+                    continue
+                if label in TEAM_KEYWORDS:
+                    if not any(team in title for team in TEAM_KEYWORDS[label]):
+                        continue  # Skip unrelated national story
+                entry.label = label
+                clean.append(entry)
+
+            selected = clean[:5]  # Take top 5 valid entries
+            entries.extend(selected)
+            print(f"[{label}] {len(selected)} items included.")
+        except Exception as e:
+            print(f"[{label}] Error: {e}")
+
+    if not entries:
+        print("⚠️ No entries found after filtering. Check feed sources or filters.")
 
     random.shuffle(entries)
 
@@ -51,12 +73,12 @@ def clean_and_write_rss():
 
     rss_feed = f"""<?xml version="1.0" encoding="UTF-8" ?>
     <rss version="2.0">
-        <channel>
-            <title>Filtered Erie + Sports Feed</title>
-            <link>https://yourusername.github.io/clean-rss-feed/rss.xml</link>
-            <description>Mixed, clean news headlines for signage</description>
-            {rss_items}
-        </channel>
+    <channel>
+        <title>Filtered Erie + Sports Feed</title>
+        <link>https://yourusername.github.io/clean-rss-feed/rss.xml</link>
+        <description>Mixed, clean news headlines for signage</description>
+        {rss_items}
+    </channel>
     </rss>"""
 
     with open("rss.xml", "w", encoding="utf-8") as f:
