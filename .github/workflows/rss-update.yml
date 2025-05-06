@@ -19,5 +19,13 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser
 
+      - name: Debug current directory
+        run: |
+          echo "PWD: $(pwd)"
+          echo "Listing:"
+          ls -la
+
       - name: Run RSS generator
-        run: python generate_rss.py
+        run: |
+          cd /home/runner/work/clean-rss-feed/clean-rss-feed/
+          python generate_rss.py
