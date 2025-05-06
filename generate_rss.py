@@ -5,13 +5,10 @@ import random
 
 FEEDS = {
     "LOCAL": [
-        "https://rssfeeds.goerie.com/goerie/home",
-        "https://www.erienewsnow.com/category/208145/local-news?clienttype=rss",
+        "https://rssfeeds.goerie.com/_/20/108376814/goerie/localnews",
+        "https://www.erienewsnow.com/rss?categoryId=208145",
         "https://www.milb.com/erie/news/rss",
         "https://news.google.com/rss/search?q=%22Erie+Otters%22+hockey+-photo+-slideshow+-obituary&hl=en-US&gl=US&ceid=US:en",
-        "https://www.yourerie.com/feed/"
-    ],
-    "NATIONAL": [
         "https://www.yourerie.com/feed/"
     ],
     "NFL": "https://www.espn.com/espn/rss/nfl/news",
@@ -20,50 +17,31 @@ FEEDS = {
     "NBA": "https://www.espn.com/espn/rss/nba/news"
 }
 
-# Apply filtering only to LOCAL and NATIONAL feeds
 EXCLUDE_KEYWORDS = [
     "photo", "photos", "click", "slideshow", "gallery", "who", "what",
     "obituary", "see", "top ten", "viral", "sponsored", "buzz", "schedule",
     "ticket", "promo", "advertisement", "sign up", "event", "rankings",
     "preview", "high school", "congratulations", "register", "contest",
-    "birthday", "cooking", "recipe", "this", "that", "why", "how",
-    "here's", "what's", "live at", "celebration", "review", "gig",
-    "super suppers", "on our air", "community", "local love", "segment",
-    "chef", "dish", "video", "clip"
+    "where"
 ]
-
-# Tag-based filtering for YourErie.com
-ALLOWED_CATEGORIES = {
-    "LOCAL": ["local news", "crime"],
-    "NATIONAL": ["national news", "politics"]
-}
 
 def clean_and_write_rss():
     entries = []
 
     for label, sources in FEEDS.items():
+        # Normalize single string vs. list of feeds
         urls = sources if isinstance(sources, list) else [sources]
-        clean = []
 
+        clean = []
         for url in urls:
             try:
                 feed = feedparser.parse(url)
-
                 for entry in feed.entries:
                     title = entry.get("title", "").lower()
-
-                    # Restrict YourErie feed to specific tags
-                    if "yourerie.com" in url and label in ALLOWED_CATEGORIES:
-                        categories = [tag.term.lower() for tag in entry.get("tags", []) if hasattr(tag, 'term')]
-                        if not any(cat in categories for cat in ALLOWED_CATEGORIES[label]):
-                            continue
-
-                    if label in ["LOCAL", "NATIONAL"] and any(bad in title for bad in EXCLUDE_KEYWORDS):
+                    if any(bad in title for bad in EXCLUDE_KEYWORDS):
                         continue
-
                     entry.label = label
                     clean.append(entry)
-
             except Exception as e:
                 print(f"[{label}] Error reading feed {url}: {e}")
 
