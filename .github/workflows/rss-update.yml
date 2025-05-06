@@ -1,41 +1,12 @@
-name: Update RSS Feed
+name: Test Workflow Visibility
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"  # Every 6 hours
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  update-feed:
+  test:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: pip install feedparser
-
-      - name: Run RSS generator
-        run: python generate_rss.py
-
-      - name: Add timestamp to force update
-        run: echo "<!-- Updated: $(date -u) -->" >> rss.xml
-
-      - name: Commit and push updated RSS
-        env:
-          TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add rss.xml
-          git commit -m "Automated RSS update" || echo "No changes to commit"
-          git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
+      - name: Test Step
+        run: echo "✅ This workflow is valid and visible."
