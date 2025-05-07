@@ -10,7 +10,7 @@ FEEDS = {
         "https://www.milb.com/erie/news/rss",
         "https://news.google.com/rss/search?q=%22Erie+Otters%22+hockey+-photo+-slideshow+-obituary&hl=en-US&gl=US&ceid=US:en"
     ],
-    "NATIONAL": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",  # WSJ World as proxy national news feed
+    "NATIONAL": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",  # WSJ World
     "NFL": "https://www.espn.com/espn/rss/nfl/news",
     "NHL": "https://www.espn.com/espn/rss/nhl/news",
     "MLB": "https://www.espn.com/espn/rss/mlb/news",
@@ -24,15 +24,14 @@ EXCLUDE_KEYWORDS = [
     "preview", "high school", "congratulations", "register", "contest", "birthday", "why"
 ]
 
-
-# Customize number of stories per category
+# Story limits per feed label
 STORY_LIMITS = {
-    "LOCAL": 20,
-    "NATIONAL": 16,
-    "NFL": 8,
-    "NHL": 8,
-    "MLB": 8,
-    "NBA": 8
+    "LOCAL": 10,
+    "NATIONAL": 8,
+    "NFL": 4,
+    "NHL": 4,
+    "MLB": 4,
+    "NBA": 4
 }
 
 def clean_and_write_rss():
@@ -58,7 +57,31 @@ def clean_and_write_rss():
             except Exception as e:
                 print(f"[{label}] Error reading feed {url}: {e}")
 
-        selected = clean[:STORY_LIMITS.get(label, 3)]
+        if label == "LOCAL":
+            otters_added = False
+            seawolves_added = False
+            filtered = []
+
+            for entry in clean:
+                title = entry.get("title", "").lower()
+                if "erie otters" in title:
+                    if not otters_added:
+                        filtered.append(entry)
+                        otters_added = True
+                elif "seawolves" in title or "sea wolves" in title:
+                    if not seawolves_added:
+                        filtered.append(entry)
+                        seawolves_added = True
+                else:
+                    filtered.append(entry)
+
+                if len(filtered) >= STORY_LIMITS.get(label, 10):
+                    break
+
+            selected = filtered
+        else:
+            selected = clean[:STORY_LIMITS.get(label, 3)]
+
         entries.extend(selected)
         print(f"[{label}] {len(selected)} entries included.")
 
@@ -94,3 +117,4 @@ def clean_and_write_rss():
 
 if __name__ == "__main__":
     clean_and_write_rss()
+
