@@ -1,14 +1,12 @@
 import feedparser
 from datetime import datetime, timezone, timedelta
-from email.utils import parsedate_to_datetime
 import html
 import random
 
-# ── Define UTC date thresholds ─────────────────────────────────────────────────
+# ── Define UTC thresholds ───────────────────────────────────────────────────────
 NOW_UTC = datetime.now(timezone.utc)
-TODAY_UTC = NOW_UTC.date()
-YESTERDAY_UTC = TODAY_UTC - timedelta(days=1)
-TWO_DAYS_AGO_UTC = TODAY_UTC - timedelta(days=2)
+LOCAL_CUTOFF_UTC = NOW_UTC - timedelta(days=1)      # last 24 hours for LOCAL
+NATIONAL_CUTOFF_UTC = NOW_UTC - timedelta(days=2)   # last 48 hours for NATIONAL and sports
 
 # ── RSS source feeds ───────────────────────────────────────────────────────────
 FEEDS = {
@@ -19,9 +17,9 @@ FEEDS = {
         "https://news.google.com/rss/search?q=%22Erie+Otters%22+hockey+-photo+-slideshow+-obituary&hl=en-US&gl=US&ceid=US:en"
     ],
     "NATIONAL": [
-        "http://rss.cnn.com/rss/cnn_topstories.rss",          
-        "https://www.usatoday.com/rss/topstories/",           
-        "http://feeds.reuters.com/reuters/topNews"            
+        "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "https://www.usatoday.com/rss/topstories/",
+        "http://feeds.reuters.com/reuters/topNews"
     ],
     "NFL": "https://www.espn.com/espn/rss/nfl/news",
     "NHL": "https://www.espn.com/espn/rss/nhl/news",
@@ -59,47 +57,23 @@ def clean_and_write_rss():
             try:
                 feed = feedparser.parse(url)
                 for entry in feed.entries:
-
-                    # ── 1) Parse published/updated into UTC datetime ───────────────────
-                    published_str = entry.get("published")
-                    updated_str = entry.get("updated")
-
-                    if published_str:
-                        try:
-                            dt = parsedate_to_datetime(published_str)
-                            if dt.tzinfo is None:
-                                dt = dt.replace(tzinfo=timezone.utc)
-                            entry_dt_utc = dt.astimezone(timezone.utc)
-                        except Exception:
-                            continue  # skip if published cannot be parsed
-                    elif updated_str:
-                        try:
-                            dt = parsedate_to_datetime(updated_str)
-                            if dt.tzinfo is None:
-                                dt = dt.replace(tzinfo=timezone.utc)
-                            entry_dt_utc = dt.astimezone(timezone.utc)
-                        except Exception:
-                            continue  # skip if updated cannot be parsed
+                    # ── 1) Extract publication time from entry.published_parsed or entry.updated_parsed ──
+                    entry_time = None
+                    if getattr(entry, "published_parsed", None):
+                        entry_time = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+                    elif getattr(entry, "updated_parsed", None):
+                        entry_time = datetime(*entry.updated_parsed[:6], tzinfo=timezone.utc)
                     else:
-                        continue  # no date → skip
+                        continue  # no parseable date → skip
 
-                    entry_date = entry_dt_utc.date()
-
-                    # ── 2) Date filter by category ──────────────────────────────────────
+                    # ── 2) Date‐filter by category ──────────────────────────────────────
                     if label == "LOCAL":
-                        # require within last 24 hours
-                        if entry_dt_utc < NOW_UTC - timedelta(days=1):
-                            continue
-
-                    elif label == "NATIONAL":
-                        # require date ≥ two days ago
-                        if entry_date < TWO_DAYS_AGO_UTC:
-                            continue
-
+                        if entry_time < LOCAL_CUTOFF_UTC:
+                            continue  # older than 24 hours → skip
                     else:
-                        # for sports (NFL/NHL/MLB/NBA), also require date ≥ two days ago
-                        if entry_date < TWO_DAYS_AGO_UTC:
-                            continue
+                        # NATIONAL and sports: require within last 48 hours
+                        if entry_time < NATIONAL_CUTOFF_UTC:
+                            continue  # older than 48 hours → skip
 
                     # ── 3) Title filter & deduplication ─────────────────────────────────
                     title = entry.get("title", "").strip()
@@ -115,7 +89,7 @@ def clean_and_write_rss():
                     clean.append(entry)
 
             except Exception as e:
-                print(f"[{label}] Error reading feed {url}: {e}")
+                print(f"[{label}] Error parsing feed {url}: {e}")
 
         # ── 5) Apply story limits ───────────────────────────────────────────────
         if label == "LOCAL":
@@ -124,20 +98,17 @@ def clean_and_write_rss():
             filtered = []
             for entry in clean:
                 t_lower = entry.get("title", "").lower()
-                if "erie otters" in t_lower:
-                    if not otters_added:
-                        filtered.append(entry)
-                        otters_added = True
-                elif "seawolves" in t_lower or "sea wolves" in t_lower:
-                    if not seawolves_added:
-                        filtered.append(entry)
-                        seawolves_added = True
+                if "erie otters" in t_lower and not otters_added:
+                    filtered.append(entry)
+                    otters_added = True
+                elif ("seawolves" in t_lower or "sea wolves" in t_lower) and not seawolves_added:
+                    filtered.append(entry)
+                    seawolves_added = True
                 else:
                     filtered.append(entry)
                 if len(filtered) >= STORY_LIMITS[label]:
                     break
             selected = filtered
-
         else:
             selected = clean[:STORY_LIMITS[label]]
 
