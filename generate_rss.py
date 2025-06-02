@@ -12,10 +12,11 @@ NATIONAL_CUTOFF_UTC = NOW_UTC - timedelta(days=2)   # last 48 hours for NATIONAL
 # ── RSS source feeds ───────────────────────────────────────────────────────────
 FEEDS = {
     "LOCAL": [
-        "https://www.yourerie.com/feed/",
-        "https://www.erienewsnow.com/rss?path=%2Fnews%2Flocal",
-        "https://www.milb.com/erie/news/rss",
-        "https://news.google.com/rss/search?q=%22Erie+Otters%22+hockey+-photo+-slideshow+-obituary&hl=en-US&gl=US&ceid=US:en"
+        "https://www.goerie.com/rss/top-stories",
+        "https://rss.eriereader.com/all",
+        "https://talkerie.com/category/erie/feed",
+        "https://www.goerie.com/rss/politics",
+        "https://www.erienewsnow.com/rss?path=/news/weather"
     ],
     # Use Google News (U.S.), AP Top News, and Reuters Top News for concise, current headlines
     "NATIONAL": [
