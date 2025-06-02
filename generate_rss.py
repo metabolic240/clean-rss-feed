@@ -1,11 +1,12 @@
 import feedparser
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 import html
 import random
 
-# ── Define “today” in UTC ─────────────────────────────────────────────────────
-TODAY_UTC = datetime.now(timezone.utc).date()
+# ── Define a 24-hour cutoff (UTC) ───────────────────────────────────────────────
+NOW_UTC = datetime.now(timezone.utc)
+CUTOFF_UTC = NOW_UTC - timedelta(days=1)  # only keep items published within the last 24 hours
 
 # ── RSS source feeds ───────────────────────────────────────────────────────────
 FEEDS = {
@@ -15,7 +16,12 @@ FEEDS = {
         "https://www.milb.com/erie/news/rss",
         "https://news.google.com/rss/search?q=%22Erie+Otters%22+hockey+-photo+-slideshow+-obituary&hl=en-US&gl=US&ceid=US:en"
     ],
-    "NATIONAL": "http://rss.cnn.com/rss/cnn_topstories.rss",  # CNN Top Stories
+    # Multiple national sources to broaden coverage
+    "NATIONAL": [
+        "http://rss.cnn.com/rss/cnn_topstories.rss",          
+        "https://www.usatoday.com/rss/topstories/",           
+        "http://feeds.reuters.com/reuters/topNews"            
+    ],
     "NFL": "https://www.espn.com/espn/rss/nfl/news",
     "NHL": "https://www.espn.com/espn/rss/nhl/news",
     "MLB": "https://www.espn.com/espn/rss/mlb/news",
@@ -26,7 +32,8 @@ EXCLUDE_KEYWORDS = [
     "photo", "photos", "click", "slideshow", "gallery", "who", "what", "where", "here's how",
     "obituary", "see", "top ten", "viral", "sponsored", "buzz", "schedule",
     "ticket", "promo", "advertisement", "sign up", "event", "rankings",
-    "preview", "high school", "congratulations", "register", "contest", "birthday", "why", "?"
+    "preview", "high school", "congratulations", "register", "contest", "birthday", "why", "?",
+    "pet", "wall of honor", "tips"
 ]
 
 STORY_LIMITS = {
@@ -52,17 +59,16 @@ def clean_and_write_rss():
                 feed = feedparser.parse(url)
                 for entry in feed.entries:
 
-                    # ── 1) DATE FILTER: parse <pubDate> (or <updated>) and compare to TODAY_UTC ──
+                    # ── 1) DATE FILTER: keep if within last 24 hours (UTC) ───────────────
                     published_str = entry.get("published")
                     updated_str = entry.get("updated")
 
                     if published_str:
                         try:
                             dt = parsedate_to_datetime(published_str)
-                            # Convert to UTC if it has a timezone; if naive, assume UTC
                             if dt.tzinfo is None:
                                 dt = dt.replace(tzinfo=timezone.utc)
-                            entry_date = dt.astimezone(timezone.utc).date()
+                            entry_datetime = dt.astimezone(timezone.utc)
                         except Exception:
                             continue  # couldn't parse published → skip
                     elif updated_str:
@@ -70,14 +76,14 @@ def clean_and_write_rss():
                             dt = parsedate_to_datetime(updated_str)
                             if dt.tzinfo is None:
                                 dt = dt.replace(tzinfo=timezone.utc)
-                            entry_date = dt.astimezone(timezone.utc).date()
+                            entry_datetime = dt.astimezone(timezone.utc)
                         except Exception:
                             continue  # couldn't parse updated → skip
                     else:
                         continue  # no <pubDate> or <updated> → skip
 
-                    if entry_date != TODAY_UTC:
-                        continue  # not published “today” UTC → skip
+                    if entry_datetime < CUTOFF_UTC:
+                        continue  # older than 24 hours → skip
 
                     # ── 2) TITLE FILTER & DEDUPLICATION ──────────────────────────────────
                     title = entry.get("title", "").strip()
