@@ -12,16 +12,16 @@ NATIONAL_CUTOFF_UTC = NOW_UTC - timedelta(days=2)   # last 48 hours for NATIONAL
 # ── RSS source feeds ───────────────────────────────────────────────────────────
 FEEDS = {
     "LOCAL": [
-        # Erie News Now – Local Stories (updated frequently)
-        "https://www.erienewsnow.com/rss?path=/news/local",
-        # GoErie (Erie Times-News) – Erie Section
-        "https://www.goerie.com/section/erie?rss",
-        # Erie Reader – All Articles (alt-weekly)
-        "https://rss.eriereader.com/all"
+        # YourErie.com (JET 24) – Erie local news
+        "https://yourerie.com/feed",
+        # GoErie (Erie Times-News) – general feed (includes Erie section)
+        "https://www.goerie.com/feed",
+        # TalkErie.com – Erie-specific talk/news
+        "https://talkerie.com/category/erie/feed"
     ],
     "NATIONAL": [
-        "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en", 
-        "https://apnews.com/hub/ap-top-news?format=rss", 
+        "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
+        "https://apnews.com/hub/ap-top-news?format=rss",
         "http://feeds.reuters.com/reuters/topNews"
     ],
     "NFL": "https://www.espn.com/espn/rss/nfl/news",
@@ -50,7 +50,7 @@ STORY_LIMITS = {
 
 def parse_entry_datetime(entry):
     """
-    Attempt to parse an entry's publication datetime in UTC.
+    Attempt to parse an entry’s publication datetime in UTC.
     Check entry.published_parsed, then entry.published string,
     then entry.updated_parsed, then entry.updated string.
     Return a timezone-aware datetime in UTC, or None if parsing fails.
@@ -123,7 +123,7 @@ def clean_and_write_rss():
 
         # ── Apply story limits ───────────────────────────────────────────────
         if label == "LOCAL":
-            # prioritize Erie Otters & SeaWolves if present (still allowed)
+            # prioritize Erie Otters & SeaWolves if present
             otters_added = False
             seawolves_added = False
             filtered = []
