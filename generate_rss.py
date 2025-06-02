@@ -1,12 +1,10 @@
 import feedparser
-from datetime import datetime
-from zoneinfo import ZoneInfo
+from datetime import datetime, timezone
 import html
 import random
 
-# ── Define “today” in America/New York ─────────────────────────────────────────
-NY_ZONE = ZoneInfo("America/New_York")
-TODAY_NY = datetime.now(NY_ZONE).date()
+# ── Define “today” in UTC ─────────────────────────────────────────────────────
+TODAY_UTC = datetime.now(timezone.utc).date()
 
 # ── RSS source feeds ───────────────────────────────────────────────────────────
 FEEDS = {
@@ -27,8 +25,7 @@ EXCLUDE_KEYWORDS = [
     "photo", "photos", "click", "slideshow", "gallery", "who", "what", "where", "here's how",
     "obituary", "see", "top ten", "viral", "sponsored", "buzz", "schedule",
     "ticket", "promo", "advertisement", "sign up", "event", "rankings",
-    "preview", "high school", "congratulations", "register", "contest", "birthday",
-    "why", "?", "pet", "wall of honor", "tips"
+    "preview", "high school", "congratulations", "register", "contest", "birthday", "why", "?"
 ]
 
 STORY_LIMITS = {
@@ -54,18 +51,16 @@ def clean_and_write_rss():
                 feed = feedparser.parse(url)
                 for entry in feed.entries:
 
-                    # ── 1) DATE FILTER: skip any entry not published “today” in NY ────────────
+                    # ── 1) DATE FILTER: skip any entry not published “today” (UTC) ───────
                     if hasattr(entry, "published_parsed") and entry.published_parsed:
-                        entry_utc = datetime(*entry.published_parsed[:6], tzinfo=ZoneInfo("UTC"))
-                        entry_dt = entry_utc.astimezone(NY_ZONE).date()
+                        entry_dt = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc).date()
                     elif hasattr(entry, "updated_parsed") and entry.updated_parsed:
-                        entry_utc = datetime(*entry.updated_parsed[:6], tzinfo=ZoneInfo("UTC"))
-                        entry_dt = entry_utc.astimezone(NY_ZONE).date()
+                        entry_dt = datetime(*entry.updated_parsed[:6], tzinfo=timezone.utc).date()
                     else:
                         continue  # no valid timestamp → skip
 
-                    if entry_dt != TODAY_NY:
-                        continue  # not from “today” → skip
+                    if entry_dt != TODAY_UTC:
+                        continue  # not “today” (UTC) → skip
 
                     # ── 2) TITLE FILTER & DEDUPLICATION ─────────────────────────────────────
                     title = entry.get("title", "").strip()
