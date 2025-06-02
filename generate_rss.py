@@ -35,7 +35,7 @@ EXCLUDE_KEYWORDS = [
     "obituary", "see", "top ten", "viral", "sponsored", "buzz", "schedule",
     "ticket", "promo", "advertisement", "sign up", "event", "rankings",
     "preview", "high school", "congratulations", "register", "contest", "birthday", "why", "?",
-    "pet", "wall of honor", "tips"
+    "pet", "wall of honor", "tips", "review"
 ]
 
 STORY_LIMITS = {
