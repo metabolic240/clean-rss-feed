@@ -6,7 +6,7 @@ import random
 
 # ── Define UTC thresholds ───────────────────────────────────────────────────────
 NOW_UTC = datetime.now(timezone.utc)
-LOCAL_CUTOFF_UTC = NOW_UTC - timedelta(days=1)      # last 24 hours for LOCAL
+LOCAL_CUTOFF_UTC = NOW_UTC - timedelta(days=2)      # last 48 hours for LOCAL
 NATIONAL_CUTOFF_UTC = NOW_UTC - timedelta(days=2)   # last 48 hours for NATIONAL and sports
 
 # ── RSS source feeds ───────────────────────────────────────────────────────────
@@ -18,7 +18,6 @@ FEEDS = {
         "https://www.goerie.com/rss/politics",
         "https://www.erienewsnow.com/rss?path=/news/weather"
     ],
-    # Use Google News (U.S.), AP Top News, and Reuters Top News for concise, current headlines
     "NATIONAL": [
         "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
         "https://apnews.com/hub/ap-top-news?format=rss",
@@ -55,10 +54,8 @@ def parse_entry_datetime(entry):
     then entry.updated_parsed, then entry.updated string.
     Return a timezone-aware datetime in UTC, or None if parsing fails.
     """
-    # 1) published_parsed (a struct_time)
     if getattr(entry, "published_parsed", None):
         return datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
-    # 2) published string
     pub_str = entry.get("published")
     if pub_str:
         try:
@@ -68,10 +65,8 @@ def parse_entry_datetime(entry):
             return dt.astimezone(timezone.utc)
         except Exception:
             pass
-    # 3) updated_parsed
     if getattr(entry, "updated_parsed", None):
         return datetime(*entry.updated_parsed[:6], tzinfo=timezone.utc)
-    # 4) updated string
     upd_str = entry.get("updated")
     if upd_str:
         try:
@@ -96,21 +91,19 @@ def clean_and_write_rss():
             try:
                 feed = feedparser.parse(url)
                 for entry in feed.entries:
-                    # ── 1) Robustly parse entry's datetime in UTC ───────────────────
                     entry_dt_utc = parse_entry_datetime(entry)
                     if not entry_dt_utc:
-                        continue  # no parseable date → skip
+                        continue  # skip if no parseable date
 
-                    # ── 2) Date‐filter by category ──────────────────────────────────────
+                    # ── Date‐filter by category ───────────────────────────────────────
                     if label == "LOCAL":
                         if entry_dt_utc < LOCAL_CUTOFF_UTC:
-                            continue  # older than 24 hours → skip
+                            continue  # older than 48 hours → skip
                     else:
-                        # NATIONAL and sports: require within last 48 hours
                         if entry_dt_utc < NATIONAL_CUTOFF_UTC:
                             continue  # older than 48 hours → skip
 
-                    # ── 3) Title filter & deduplication ─────────────────────────────────
+                    # ── Title filter & deduplication ─────────────────────────────────
                     title = entry.get("title", "").strip()
                     lower_title = title.lower()
                     if not title or lower_title in seen_titles:
@@ -119,14 +112,14 @@ def clean_and_write_rss():
                         continue
                     seen_titles.add(lower_title)
 
-                    # ── 4) Tag and collect ───────────────────────────────────────────────
+                    # ── Tag and collect ───────────────────────────────────────────────
                     entry.label = label
                     clean.append(entry)
 
             except Exception as e:
                 print(f"[{label}] Error parsing feed {url}: {e}")
 
-        # ── 5) Apply story limits ───────────────────────────────────────────────
+        # ── Apply story limits ───────────────────────────────────────────────
         if label == "LOCAL":
             otters_added = False
             seawolves_added = False
@@ -155,7 +148,7 @@ def clean_and_write_rss():
 
     random.shuffle(entries)
 
-    # ── 6) Build RSS items block ──────────────────────────────────────────────
+    # ── Build RSS items block ──────────────────────────────────────────────
     rss_items = ""
     for e in entries:
         label_prefix = f"[{e.label}] " if hasattr(e, "label") else ""
