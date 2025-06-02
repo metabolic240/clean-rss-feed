@@ -6,21 +6,22 @@ import random
 
 # ── Define UTC thresholds ───────────────────────────────────────────────────────
 NOW_UTC = datetime.now(timezone.utc)
-LOCAL_CUTOFF_UTC = NOW_UTC - timedelta(days=2)      # last 48 hours for LOCAL
-NATIONAL_CUTOFF_UTC = NOW_UTC - timedelta(days=2)   # last 48 hours for NATIONAL and sports
+LOCAL_CUTOFF_UTC = NOW_UTC - timedelta(days=7)      # last 7 days for LOCAL
+NATIONAL_CUTOFF_UTC = NOW_UTC - timedelta(days=2)   # last 48 hours for NATIONAL & sports
 
 # ── RSS source feeds ───────────────────────────────────────────────────────────
 FEEDS = {
     "LOCAL": [
-        "https://www.goerie.com/rss/top-stories",
-        "https://rss.eriereader.com/all",
-        "https://talkerie.com/category/erie/feed",
-        "https://www.goerie.com/rss/politics",
-        "https://www.erienewsnow.com/rss?path=/news/weather"
+        # Erie News Now – Local Stories (updated frequently)
+        "https://www.erienewsnow.com/rss?path=/news/local",
+        # GoErie (Erie Times-News) – Erie Section
+        "https://www.goerie.com/section/erie?rss",
+        # Erie Reader – All Articles (alt-weekly)
+        "https://rss.eriereader.com/all"
     ],
     "NATIONAL": [
-        "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
-        "https://apnews.com/hub/ap-top-news?format=rss",
+        "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en", 
+        "https://apnews.com/hub/ap-top-news?format=rss", 
         "http://feeds.reuters.com/reuters/topNews"
     ],
     "NFL": "https://www.espn.com/espn/rss/nfl/news",
@@ -88,33 +89,24 @@ def clean_and_write_rss():
         clean = []
 
         for url in urls:
-            print(f"\n[DEBUG] Fetching {label} feed: {url}")
             try:
                 feed = feedparser.parse(url)
-                if feed.bozo:
-                    print(f"[DEBUG]  → parse error: {feed.bozo_exception}")
                 for entry in feed.entries:
                     entry_dt_utc = parse_entry_datetime(entry)
-                    title = entry.get("title", "").strip()
-                    # Print debug info for LOCAL before filtering:
-                    if label == "LOCAL":
-                        if entry_dt_utc:
-                            print(f"[DEBUG-LOCAL] Title={title!r}, ParsedUTC={entry_dt_utc.isoformat()}")
-                        else:
-                            print(f"[DEBUG-LOCAL] Title={title!r}, ParsedUTC=NONE")
-
                     if not entry_dt_utc:
                         continue  # skip if no parseable date
 
-                    # ── 2) Date‐filter by category ──────────────────────────────────────
+                    # ── Date‐filter by category ──────────────────────────────────────
                     if label == "LOCAL":
                         if entry_dt_utc < LOCAL_CUTOFF_UTC:
-                            continue  # older than 48 hours → skip
+                            continue  # older than 7 days → skip
                     else:
+                        # NATIONAL & sports: require within last 48 hours
                         if entry_dt_utc < NATIONAL_CUTOFF_UTC:
                             continue  # older than 48 hours → skip
 
-                    # ── 3) Title filter & deduplication ─────────────────────────────────
+                    # ── Title filter & deduplication ─────────────────────────────────
+                    title = entry.get("title", "").strip()
                     lower_title = title.lower()
                     if not title or lower_title in seen_titles:
                         continue
@@ -122,15 +114,16 @@ def clean_and_write_rss():
                         continue
                     seen_titles.add(lower_title)
 
-                    # ── 4) Tag and collect ───────────────────────────────────────────────
+                    # ── Tag and collect ───────────────────────────────────────────────
                     entry.label = label
                     clean.append(entry)
 
             except Exception as e:
                 print(f"[{label}] Error parsing feed {url}: {e}")
 
-        # ── 5) Apply story limits ───────────────────────────────────────────────
+        # ── Apply story limits ───────────────────────────────────────────────
         if label == "LOCAL":
+            # prioritize Erie Otters & SeaWolves if present (still allowed)
             otters_added = False
             seawolves_added = False
             filtered = []
@@ -158,7 +151,7 @@ def clean_and_write_rss():
 
     random.shuffle(entries)
 
-    # ── 6) Build RSS items block ──────────────────────────────────────────────
+    # ── Build RSS items block ──────────────────────────────────────────────
     rss_items = ""
     for e in entries:
         label_prefix = f"[{e.label}] " if hasattr(e, "label") else ""
