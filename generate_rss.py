@@ -1,12 +1,11 @@
 import feedparser
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 import html
 import random
 
-# ── Define “today” in UTC and allowable date range ─────────────────────────────
+# ── Define “today” in UTC ─────────────────────────────────────────────────────
 TODAY_UTC = datetime.now(timezone.utc).date()
-YESTERDAY_UTC = TODAY_UTC - timedelta(days=1)
-TOMORROW_UTC = TODAY_UTC + timedelta(days=1)
 
 # ── RSS source feeds ───────────────────────────────────────────────────────────
 FEEDS = {
@@ -16,7 +15,7 @@ FEEDS = {
         "https://www.milb.com/erie/news/rss",
         "https://news.google.com/rss/search?q=%22Erie+Otters%22+hockey+-photo+-slideshow+-obituary&hl=en-US&gl=US&ceid=US:en"
     ],
-    "NATIONAL": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",  # WSJ World
+    "NATIONAL": "http://rss.cnn.com/rss/cnn_topstories.rss",  # CNN Top Stories
     "NFL": "https://www.espn.com/espn/rss/nfl/news",
     "NHL": "https://www.espn.com/espn/rss/nhl/news",
     "MLB": "https://www.espn.com/espn/rss/mlb/news",
@@ -27,8 +26,7 @@ EXCLUDE_KEYWORDS = [
     "photo", "photos", "click", "slideshow", "gallery", "who", "what", "where", "here's how",
     "obituary", "see", "top ten", "viral", "sponsored", "buzz", "schedule",
     "ticket", "promo", "advertisement", "sign up", "event", "rankings",
-    "preview", "high school", "congratulations", "register", "contest", "birthday",
-    "why", "?", "pet", "wall of honor", "tips"
+    "preview", "high school", "congratulations", "register", "contest", "birthday", "why", "?"
 ]
 
 STORY_LIMITS = {
@@ -54,17 +52,32 @@ def clean_and_write_rss():
                 feed = feedparser.parse(url)
                 for entry in feed.entries:
 
-                    # ── 1) DATE FILTER: allow entries from yesterday, today, or tomorrow (UTC) ─
-                    if hasattr(entry, "published_parsed") and entry.published_parsed:
-                        entry_dt = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc).date()
-                    elif hasattr(entry, "updated_parsed") and entry.updated_parsed:
-                        entry_dt = datetime(*entry.updated_parsed[:6], tzinfo=timezone.utc).date()
-                    else:
-                        continue  # no valid timestamp → skip
+                    # ── 1) DATE FILTER: parse <pubDate> (or <updated>) and compare to TODAY_UTC ──
+                    published_str = entry.get("published")
+                    updated_str = entry.get("updated")
 
-                    # Keep if entry_dt is YESTERDAY_UTC, TODAY_UTC, or TOMORROW_UTC
-                    if entry_dt not in {YESTERDAY_UTC, TODAY_UTC, TOMORROW_UTC}:
-                        continue  # skip if outside the desired date range
+                    if published_str:
+                        try:
+                            dt = parsedate_to_datetime(published_str)
+                            # Convert to UTC if it has a timezone; if naive, assume UTC
+                            if dt.tzinfo is None:
+                                dt = dt.replace(tzinfo=timezone.utc)
+                            entry_date = dt.astimezone(timezone.utc).date()
+                        except Exception:
+                            continue  # couldn't parse published → skip
+                    elif updated_str:
+                        try:
+                            dt = parsedate_to_datetime(updated_str)
+                            if dt.tzinfo is None:
+                                dt = dt.replace(tzinfo=timezone.utc)
+                            entry_date = dt.astimezone(timezone.utc).date()
+                        except Exception:
+                            continue  # couldn't parse updated → skip
+                    else:
+                        continue  # no <pubDate> or <updated> → skip
+
+                    if entry_date != TODAY_UTC:
+                        continue  # not published “today” UTC → skip
 
                     # ── 2) TITLE FILTER & DEDUPLICATION ──────────────────────────────────
                     title = entry.get("title", "").strip()
@@ -88,12 +101,12 @@ def clean_and_write_rss():
             filtered = []
 
             for entry in clean:
-                t = entry.get("title", "").lower()
-                if "erie otters" in t:
+                t_lower = entry.get("title", "").lower()
+                if "erie otters" in t_lower:
                     if not otters_added:
                         filtered.append(entry)
                         otters_added = True
-                elif "seawolves" in t or "sea wolves" in t:
+                elif "seawolves" in t_lower or "sea wolves" in t_lower:
                     if not seawolves_added:
                         filtered.append(entry)
                         seawolves_added = True
