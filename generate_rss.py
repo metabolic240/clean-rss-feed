@@ -1,10 +1,12 @@
 import feedparser
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 import html
 import random
 
-# ── Define “today” in UTC ─────────────────────────────────────────────────────
+# ── Define “today” in UTC and allowable date range ─────────────────────────────
 TODAY_UTC = datetime.now(timezone.utc).date()
+YESTERDAY_UTC = TODAY_UTC - timedelta(days=1)
+TOMORROW_UTC = TODAY_UTC + timedelta(days=1)
 
 # ── RSS source feeds ───────────────────────────────────────────────────────────
 FEEDS = {
@@ -25,8 +27,7 @@ EXCLUDE_KEYWORDS = [
     "photo", "photos", "click", "slideshow", "gallery", "who", "what", "where", "here's how",
     "obituary", "see", "top ten", "viral", "sponsored", "buzz", "schedule",
     "ticket", "promo", "advertisement", "sign up", "event", "rankings",
-    "preview", "high school", "congratulations", "register", "contest", "birthday",
-    "why", "?", "pet" "wall of honor", "tips"
+    "preview", "high school", "congratulations", "register", "contest", "birthday", "why", "?"
 ]
 
 STORY_LIMITS = {
@@ -52,7 +53,7 @@ def clean_and_write_rss():
                 feed = feedparser.parse(url)
                 for entry in feed.entries:
 
-                    # ── 1) DATE FILTER: skip any entry not published “today” (UTC) ───────
+                    # ── 1) DATE FILTER: allow entries from yesterday, today, or tomorrow (UTC) ─
                     if hasattr(entry, "published_parsed") and entry.published_parsed:
                         entry_dt = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc).date()
                     elif hasattr(entry, "updated_parsed") and entry.updated_parsed:
@@ -60,10 +61,11 @@ def clean_and_write_rss():
                     else:
                         continue  # no valid timestamp → skip
 
-                    if entry_dt != TODAY_UTC:
-                        continue  # not “today” (UTC) → skip
+                    # Keep if entry_dt is YESTERDAY_UTC, TODAY_UTC, or TOMORROW_UTC
+                    if entry_dt not in {YESTERDAY_UTC, TODAY_UTC, TOMORROW_UTC}:
+                        continue  # skip if outside the desired date range
 
-                    # ── 2) TITLE FILTER & DEDUPLICATION ─────────────────────────────────────
+                    # ── 2) TITLE FILTER & DEDUPLICATION ──────────────────────────────────
                     title = entry.get("title", "").strip()
                     if not title or title.lower() in seen_titles:
                         continue
@@ -71,14 +73,14 @@ def clean_and_write_rss():
                         continue
                     seen_titles.add(title.lower())
 
-                    # ── 3) TAG THE ENTRY WITH ITS LABEL AND COLLECT ─────────────────────────
+                    # ── 3) TAG THE ENTRY WITH ITS LABEL AND COLLECT ──────────────────────
                     entry.label = label
                     clean.append(entry)
 
             except Exception as e:
                 print(f"[{label}] Error reading feed {url}: {e}")
 
-        # ── 4) APPLY STORY LIMITS PER LABEL ────────────────────────────────────────
+        # ── 4) APPLY STORY LIMITS PER LABEL ───────────────────────────────────────
         if label == "LOCAL":
             otters_added = False
             seawolves_added = False
