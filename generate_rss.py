@@ -1,5 +1,6 @@
 import feedparser
 from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 import html
 import random
 
@@ -16,9 +17,10 @@ FEEDS = {
         "https://www.milb.com/erie/news/rss",
         "https://news.google.com/rss/search?q=%22Erie+Otters%22+hockey+-photo+-slideshow+-obituary&hl=en-US&gl=US&ceid=US:en"
     ],
+    # Use Google News (U.S.), AP Top News, and Reuters Top News for concise, current headlines
     "NATIONAL": [
-        "http://rss.cnn.com/rss/cnn_topstories.rss",
-        "https://www.usatoday.com/rss/topstories/",
+        "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
+        "https://apnews.com/hub/ap-top-news?format=rss",
         "http://feeds.reuters.com/reuters/topNews"
     ],
     "NFL": "https://www.espn.com/espn/rss/nfl/news",
@@ -45,6 +47,42 @@ STORY_LIMITS = {
 }
 
 
+def parse_entry_datetime(entry):
+    """
+    Attempt to parse an entry's publication datetime in UTC.
+    Check entry.published_parsed, then entry.published string,
+    then entry.updated_parsed, then entry.updated string.
+    Return a timezone-aware datetime in UTC, or None if parsing fails.
+    """
+    # 1) published_parsed (a struct_time)
+    if getattr(entry, "published_parsed", None):
+        return datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+    # 2) published string
+    pub_str = entry.get("published")
+    if pub_str:
+        try:
+            dt = parsedate_to_datetime(pub_str)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(timezone.utc)
+        except Exception:
+            pass
+    # 3) updated_parsed
+    if getattr(entry, "updated_parsed", None):
+        return datetime(*entry.updated_parsed[:6], tzinfo=timezone.utc)
+    # 4) updated string
+    upd_str = entry.get("updated")
+    if upd_str:
+        try:
+            dt = parsedate_to_datetime(upd_str)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(timezone.utc)
+        except Exception:
+            pass
+    return None
+
+
 def clean_and_write_rss():
     entries = []
     seen_titles = set()
@@ -57,22 +95,18 @@ def clean_and_write_rss():
             try:
                 feed = feedparser.parse(url)
                 for entry in feed.entries:
-                    # ── 1) Extract publication time from entry.published_parsed or entry.updated_parsed ──
-                    entry_time = None
-                    if getattr(entry, "published_parsed", None):
-                        entry_time = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
-                    elif getattr(entry, "updated_parsed", None):
-                        entry_time = datetime(*entry.updated_parsed[:6], tzinfo=timezone.utc)
-                    else:
+                    # ── 1) Robustly parse entry's datetime in UTC ───────────────────
+                    entry_dt_utc = parse_entry_datetime(entry)
+                    if not entry_dt_utc:
                         continue  # no parseable date → skip
 
                     # ── 2) Date‐filter by category ──────────────────────────────────────
                     if label == "LOCAL":
-                        if entry_time < LOCAL_CUTOFF_UTC:
+                        if entry_dt_utc < LOCAL_CUTOFF_UTC:
                             continue  # older than 24 hours → skip
                     else:
                         # NATIONAL and sports: require within last 48 hours
-                        if entry_time < NATIONAL_CUTOFF_UTC:
+                        if entry_dt_utc < NATIONAL_CUTOFF_UTC:
                             continue  # older than 48 hours → skip
 
                     # ── 3) Title filter & deduplication ─────────────────────────────────
