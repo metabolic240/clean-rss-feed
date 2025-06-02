@@ -8,8 +8,7 @@ import random
 NOW_UTC = datetime.now(timezone.utc)
 TODAY_UTC = NOW_UTC.date()
 YESTERDAY_UTC = TODAY_UTC - timedelta(days=1)
-LOCAL_CUTOFF_UTC = NOW_UTC - timedelta(days=1)      # last 24 hours for LOCAL
-NATIONAL_CUTOFF_DATE = YESTERDAY_UTC                # include items from yesterday onward
+TWO_DAYS_AGO_UTC = TODAY_UTC - timedelta(days=2)
 
 # ── RSS source feeds ───────────────────────────────────────────────────────────
 FEEDS = {
@@ -89,17 +88,17 @@ def clean_and_write_rss():
                     # ── 2) Date filter by category ──────────────────────────────────────
                     if label == "LOCAL":
                         # require within last 24 hours
-                        if entry_dt_utc < LOCAL_CUTOFF_UTC:
+                        if entry_dt_utc < NOW_UTC - timedelta(days=1):
                             continue
 
                     elif label == "NATIONAL":
-                        # require date ≥ yesterday’s date
-                        if entry_date < NATIONAL_CUTOFF_DATE:
+                        # require date ≥ two days ago
+                        if entry_date < TWO_DAYS_AGO_UTC:
                             continue
 
                     else:
-                        # for sports (NFL/NHL/MLB/NBA), also use yesterday cutoff
-                        if entry_date < NATIONAL_CUTOFF_DATE:
+                        # for sports (NFL/NHL/MLB/NBA), also require date ≥ two days ago
+                        if entry_date < TWO_DAYS_AGO_UTC:
                             continue
 
                     # ── 3) Title filter & deduplication ─────────────────────────────────
