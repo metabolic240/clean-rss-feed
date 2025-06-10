@@ -6,9 +6,39 @@
         <description>Filtered national sports and local Erie headlines</description>
         
         <item>
-            <title>[NFL] Packers cut CB Alexander after contract impasse</title>
-            <link>https://www.espn.com/nfl/story/_/id/45478431/packers-plan-release-cb-jaire-alexander-source-says</link>
-            <pubDate>Tue, 10 Jun 2025 07:33:44 EST</pubDate>
+            <title>[LOCAL] EMTA, Erie Downtown Partnership work together to host annual 14th Fest</title>
+            <link>https://www.yourerie.com/news/local-news/emta-erie-downtown-partnership-work-together-to-host-annual-14th-fest/</link>
+            <pubDate>Tue, 10 Jun 2025 18:05:47 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Man arrested after allegedly pointing gun at child, woman during road rage incident</title>
+            <link>https://www.yourerie.com/news/crime/man-arrested-after-allegedly-pointing-gun-at-child-woman-during-road-rage-incident/</link>
+            <pubDate>Tue, 10 Jun 2025 15:38:39 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Gunman opens fire in Austrian school, killing nine and throwing country into shock - CNN</title>
+            <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTDBpNDdWbzV5RjA5ZU9yZEozb3VUV1hDanluLU83aGJaODh6cnhtTEN1MTc3WUtHdzZqWDNqbVlWYllFNmw5aVNZWmdQMjF4alFhQ2w1UkRzd0FqTUlWRkRYb2VfRFNJRFVSSFd1bmxscjMzd0VZa2hhUnlqek13SUVzVTZZTjRacnpB?oc=5</link>
+            <pubDate>Tue, 10 Jun 2025 12:28:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NHL] Overhead at the NHL draft combine: Draft wild cards, surprises ... and the X factor team</title>
+            <link>https://www.espn.com/nhl/story/_/id/45480920/nhl-draft-2025-combine-scouting-top-prospects-testing-trades-free-agency</link>
+            <pubDate>Tue, 10 Jun 2025 13:26:13 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Britain sanctions Israeli far-right ministers over Gaza comments - Reuters</title>
+            <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTElXZ0ZUMWhIR1YzMWpTTmxvaXBKT0JMcUZlcWVMNkhKTGFRT044dlFMbTB4dUZmT0NSeGJzSFF6cDdkLVN0cjdsZDcwRS1qajRmTDhFdW5SZnM0aFdvNXNUYkYycVdqZDNMM3VuckxNSTdyS3M5TGs1LWNVUnpWUWlMQkYzc2x6RnF6SmZMS1ljUEJwcTMyaWlPWk9vTzA0b2dNMWQ3aUY?oc=5</link>
+            <pubDate>Tue, 10 Jun 2025 15:47:03 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NFL] Morris not worried about Cousins disrupting Penix</title>
+            <link>https://www.espn.com/nfl/story/_/id/45485701/falcons-raheem-morris-not-worried-kirk-cousins-disrupting-michael-penix-jr</link>
+            <pubDate>Tue, 10 Jun 2025 14:16:20 EST</pubDate>
         </item>
         
         <item>
@@ -18,63 +48,15 @@
         </item>
         
         <item>
-            <title>[LOCAL] Lakers fall 2-0 to Freedom in PIAA 2A baseball state semifinals</title>
-            <link>https://www.yourerie.com/sports/local-sports/lakers-fall-2-0-to-freedom-in-piaa-2a-baseball-state-semifinals/</link>
-            <pubDate>Tue, 10 Jun 2025 03:58:56 +0000</pubDate>
+            <title>[MLB] Top prospect Anthony goes hitless in MLB debut</title>
+            <link>https://www.espn.com/mlb/story/_/id/45483136/red-sox-roman-anthony-rbi-groundout-mlb-debut</link>
+            <pubDate>Tue, 10 Jun 2025 12:31:38 EST</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Erie Sports Commission awards Facility Matching Funds Grant</title>
-            <link>https://talkerie.com/2025/06/04/erie-sports-commission-awards-facility-matching-funds-grant/</link>
-            <pubDate>Wed, 04 Jun 2025 18:05:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Governor Josh Shapiro announces Amazon plans to invest $20 Billion in Pennsylvania for AI infrastructure in largest capital investment in Commonwealth history</title>
-            <link>https://talkerie.com/2025/06/09/governor-josh-shapiro-announces-amazon-plans-to-invest-20-billion-in-pennsylvania-for-ai-infrastructure-in-largest-capital-investment-in-commonwealth-history/</link>
-            <pubDate>Mon, 09 Jun 2025 16:03:43 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Bison, Blue Devils go down in PIAA softball state semifinals</title>
-            <link>https://www.yourerie.com/sports/local-sports/bison-blue-devils-go-down-in-piaa-softball-state-semifinals/</link>
-            <pubDate>Tue, 10 Jun 2025 03:58:33 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Greta Thunberg departs Israel on flight to Paris after detention aboard aid ship - CNN</title>
-            <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDRSaG5Ob000WlM5MmRxRjgwVk16M1dqOFQwLS1QWFl0QUwyNEpZMXd3ZGpVX1M3aEdEank5REZYMHUweTFMQkctRUFQbVJsZk9rUVNSNXJzZEpYUDd4dElYeGtDZ0JHanIwekpqWUR3U3BKOGRtVV9KYVBXUmdRVl9vT1plQWFRemNGeHZqel9SNUlXVG9QWNIBngFBVV95cUxPbkxFZTRxQ1AxYVBjN20xNWl5Y0IySUhFdXZTeFJqUFJaTVdhYUVqTTJIb1ZhejM4OENqdkhmMEVWZHFLLWhSaUNtSVJ2bnRWY3V0a2RCbG1Wek5IU0k3YVNFZVNpV0R4dVNKQ3ZKY2lCTFVsVFdaNmt1UUp2RkpnNDBlcFNOeUdtUm1acHBEdnVfZWtBMk1pQUM1cEcyUQ?oc=5</link>
-            <pubDate>Tue, 10 Jun 2025 10:17:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Massive Russian drone attack slams Kyiv and hits maternity hospital in Odesa, Ukrainian officials say - CNN</title>
-            <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWIwWnJVUjhyWUFCanMwR1k2WWRHUDdoa2wxNFJURjhPYTVlbDE0NC1lU1gtYU5JZTR0Yk83TWpyOW91b0k3dV9RbURSSndubkE0QXdLMlFyYTFVaDlRTUsxRVJ6d2xYS1l4ZE93S2NENzlTV21SaHFNZnRWa1ZVR1E5LS1VOUFVXzZPd2VB0gGTAUFVX3lxTE1xMVhQSUFmT1JwejBKeXdYUXVFQWpWVGF0N09MV2FSUDVNT1BGSGQyV1ZhZU1lUkJYQlNrdEFYX3lCenVHT3dfLVBFbkhJM3E0alBGR3Z3dERMT1N3SFp2QmlTRkdZWUE3QVdzZnpMT3dpOXFsYXZ4RUNlU2VpMmJYYjhVeFZkRXRJZTJNNEtxSnhfOA?oc=5</link>
-            <pubDate>Tue, 10 Jun 2025 09:08:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Fort LeBoeuf trap shooting team wins third state championship in last four years</title>
-            <link>https://www.yourerie.com/sports/local-sports/fort-leboeuf-trap-shooting-team-wins-third-state-championship-in-last-four-years/</link>
-            <pubDate>Tue, 10 Jun 2025 03:57:20 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NBA] Trae, KAT, Luka and the NBA&#x27;s biggest extension decisions</title>
-            <link>https://www.espn.com/nba/story/_/id/45437085/nba-offseason-2025-sga-jokic-luka-top-extension-candidates</link>
-            <pubDate>Mon, 9 Jun 2025 15:22:20 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Erie Insurance awards $900,000 to education nonprofits through Pennsylvania’s Educational Improvement Tax Credit (EITC) program</title>
-            <link>https://talkerie.com/2025/06/04/erie-insurance-awards-900000-to-education-nonprofits-through-pennsylvanias-educational-improvement-tax-credit-eitc-program/</link>
-            <pubDate>Wed, 04 Jun 2025 18:40:40 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] &#x27;This is devastating&#x27; Erie farm torn apart after by severe weather Monday</title>
-            <link>https://www.yourerie.com/news/local-news/this-is-devastating-erie-farm-torn-apart-after-by-severe-weather-monday/</link>
-            <pubDate>Tue, 10 Jun 2025 03:10:04 +0000</pubDate>
+            <title>[NATIONAL] 72 hours in LA: Immigration sweeps, protests and a historic National Guard deployment - CalMatters</title>
+            <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQWnhJV19ZRDROTFFqUkVqTm5UY0laYy1EbDNVdEF0cVRobV9oR0dXcUU3WUlLbE1CTGdFYnp1UVo2b0s3Y1dHcWNNNmZzXzRPbngyREd4ck90THA3dkc5U1R3M3BsTWdRZ2M3c1JYZ3c3UnBSSG5Qc1FoSDZDM2FIQQ?oc=5</link>
+            <pubDate>Tue, 10 Jun 2025 12:30:00 GMT</pubDate>
         </item>
         
         <item>
@@ -84,33 +66,63 @@
         </item>
         
         <item>
+            <title>[LOCAL] Erie Sports Commission awards Facility Matching Funds Grant</title>
+            <link>https://talkerie.com/2025/06/04/erie-sports-commission-awards-facility-matching-funds-grant/</link>
+            <pubDate>Wed, 04 Jun 2025 18:05:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NBA] Cavs&#x27; Garland has toe surgery, out 4-5 months</title>
+            <link>https://www.espn.com/nba/story/_/id/45480086/cavs-darius-garland-toe-surgery-4-5-months</link>
+            <pubDate>Tue, 10 Jun 2025 12:08:33 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Trump–Xi call boosts Chinese president’s tough man image — and may have handed him the upper hand in future talks - The Conversation</title>
+            <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd2FGZ0gxbU1NaHpMeUEzb3ZqM0xrR1pJNWJEbFY3aHNLaDB1MU82ZFdyS09zaE5LdEFsWHZKTGQ3WE54eHJ5Yi1NZzEtZDJqZE42b3B5UE9nTXlEaEJVbUdLdUt5bTczenpRa01JNndYV1U1NC1ZMlQ2aGU0UEJyazljVXRCc1B5X04wbDVMN0ltVUQ4bWRJZkNWUXRWZHp4eHJMbmc1Ym5ja05OZXl0N3A5Mk4zb0tfTHJsdjl5ZGk2SE41UWgyaG5KUF9zdFRPV3BuQjV6SXpOMWdHT1E?oc=5</link>
+            <pubDate>Tue, 10 Jun 2025 12:20:58 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Erie Insurance awards $900,000 to education nonprofits through Pennsylvania’s Educational Improvement Tax Credit (EITC) program</title>
+            <link>https://talkerie.com/2025/06/04/erie-insurance-awards-900000-to-education-nonprofits-through-pennsylvanias-educational-improvement-tax-credit-eitc-program/</link>
+            <pubDate>Wed, 04 Jun 2025 18:40:40 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] Kemp sparks rally in his 1st Phillies home game</title>
+            <link>https://www.espn.com/mlb/story/_/id/45484151/undrafted-otto-kemp-sparks-rally-1st-phillies-home-game</link>
+            <pubDate>Tue, 10 Jun 2025 12:31:38 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] NAMI to host movie night at UPMC Park this Friday</title>
+            <link>https://www.yourerie.com/digital-first/digital-exclusive/nami-to-host-movie-night-at-upmc-park-this-friday/</link>
+            <pubDate>Tue, 10 Jun 2025 15:55:14 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Governor Josh Shapiro announces Amazon plans to invest $20 Billion in Pennsylvania for AI infrastructure in largest capital investment in Commonwealth history</title>
+            <link>https://talkerie.com/2025/06/09/governor-josh-shapiro-announces-amazon-plans-to-invest-20-billion-in-pennsylvania-for-ai-infrastructure-in-largest-capital-investment-in-commonwealth-history/</link>
+            <pubDate>Mon, 09 Jun 2025 16:03:43 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NFL] Stroud throws at minicamp, says shoulder &#x27;fine&#x27;</title>
+            <link>https://www.espn.com/nfl/story/_/id/45486445/texans-cj-stroud-throws-minicamp-downplays-soreness</link>
+            <pubDate>Tue, 10 Jun 2025 14:16:18 EST</pubDate>
+        </item>
+        
+        <item>
             <title>[NHL] Oilers unravel as &#x27;penalty chaos&#x27; reigns in Game 3</title>
             <link>https://www.espn.com/nhl/story/_/id/45483446/oilers-unravel-penalty-chaos-reigns-game-3-stanley-cup-final-loss-panthers</link>
-            <pubDate>Tue, 10 Jun 2025 01:53:41 EST</pubDate>
+            <pubDate>Tue, 10 Jun 2025 13:26:17 EST</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] SeaWolves announce 2025 Chace Numata Scholarship winners</title>
-            <link>https://talkerie.com/2025/06/04/seawolves-announce-2025-chace-numata-scholarship-winners/</link>
-            <pubDate>Wed, 04 Jun 2025 20:25:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] Top prospect Anthony goes hitless in MLB debut</title>
-            <link>https://www.espn.com/mlb/story/_/id/45483136/red-sox-roman-anthony-rbi-groundout-mlb-debut</link>
-            <pubDate>Tue, 10 Jun 2025 08:00:28 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] US and China Talk Trade as Fight Over Rare Earths Escalates - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNaXpFX2FwNm9SczZrQnRmNkYwSHRPaElyYWtUclZHeHdzb3BfU1VIb1YzbEljdm42QmgyVUE5VXBMQTdQbXdwX3VDY21jaGZ2UnRaMGl4NDc3UzRoeEhyaXpVa2I0U2VmclBoWVVEMzZUN0drcTg1enpndjNmVTVUNTdtYw?oc=5</link>
-            <pubDate>Tue, 10 Jun 2025 09:03:29 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Long-time GM wrestling coach Cook to lead new Edinboro women&#x27;s program</title>
-            <link>https://www.yourerie.com/sports/local-sports/long-time-gm-wrestling-coach-cook-to-lead-new-edinboro-womens-program/</link>
-            <pubDate>Tue, 10 Jun 2025 03:58:01 +0000</pubDate>
+            <title>[LOCAL] &#x27;This is devastating&#x27; Erie farm torn apart after by severe weather Monday</title>
+            <link>https://www.yourerie.com/news/local-news/this-is-devastating-erie-farm-torn-apart-after-by-severe-weather-monday/</link>
+            <pubDate>Tue, 10 Jun 2025 03:10:04 +0000</pubDate>
         </item>
         
         <item>
@@ -120,39 +132,21 @@
         </item>
         
         <item>
-            <title>[NFL] Colts formalize transition to Irsay&#x27;s daughters</title>
-            <link>https://www.espn.com/nfl/story/_/id/45480405/colts-reveal-ownership-transition-jim-irsay-daughters</link>
-            <pubDate>Tue, 10 Jun 2025 07:33:33 EST</pubDate>
+            <title>[NATIONAL] Trump team plans to send thousands of migrants to Guantanamo starting as soon as this week - Politico</title>
+            <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOa1lrd2VJVmdkSHhJX0wyM2xrMlZLUnB4SGFhOFlPQ3RSS2JiTlJPaGMyaTkyVDQzRXNCaGJUcXdFWTZ0YUNHcUp2RE9YRHRzVlpIV0czYUhLNTVqZF9YNWVSZFplajVITXA5N196TDFMZjVGRjd1Z01VT1RFVHEyc2ZOeWR6VGNUX0V2UDB3?oc=5</link>
+            <pubDate>Tue, 10 Jun 2025 16:33:54 GMT</pubDate>
         </item>
         
         <item>
-            <title>[MLB] Kemp sparks rally in his 1st Phillies home game</title>
-            <link>https://www.espn.com/mlb/story/_/id/45484151/undrafted-otto-kemp-sparks-rally-1st-phillies-home-game</link>
-            <pubDate>Tue, 10 Jun 2025 08:00:26 EST</pubDate>
+            <title>[NATIONAL] At a troubled fashion company, workers found community. Then ICE came - Los Angeles Times</title>
+            <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQR2VyYmJZRV9ISUJtbHpPeVNkc1NvTVN0ejVYcTVFY2xZa2lCSWsydVNnSmQ5NlprRncxakJYVlZmOUZjS2xtSjZ3ZVRYQlJFb3E5TkI1VW82amtwZEFQNkg0RkFya1kxMGtfODBmamRnNkVhRVBSbUFZUXlQSENQNGFJMHpqemRESWlnaF9PMFJJc1Fqa0xuVG8yV2w2QQ?oc=5</link>
+            <pubDate>Tue, 10 Jun 2025 14:19:12 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NBA] NBA offseason: 10 teams to watch this summer</title>
-            <link>https://www.espn.com/nba/story/_/id/45458847/nba-offseason-2025-suns-bucks-lakers-teams-watch-summer</link>
-            <pubDate>Mon, 9 Jun 2025 15:22:20 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Erie Insurance ranked #323 on the 2025 Fortune 500 list of America’s largest corporations</title>
-            <link>https://talkerie.com/2025/06/03/erie-insurance-ranked-323-on-the-2025-fortune-500-list-of-americas-largest-corporations/</link>
-            <pubDate>Tue, 03 Jun 2025 15:26:39 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] RFK Jr. purges every vaccine adviser on CDC panel; will pick replacements - The Washington Post</title>
-            <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPd2tOSUIxeV85djg5YURaeFNRdXBZQjYtc2NMeWpaQmpwcE11Rk9MNktqbGszanRya1Q5TXBPX0lvUVBjV28taWNuVE92UmM2OW5iWnlhZ3RidWlmbnp6bnJoa0Vhb0Q1eWNhSkN1ZHlpdHNVVmJkZVp5VHR6UFYtbkZISTNNWlp4Q29mYU9ybUhyLWZYR0E?oc=5</link>
-            <pubDate>Tue, 10 Jun 2025 06:27:56 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NHL] Panthers clobber Oilers: Grades, key players, big questions for both teams</title>
-            <link>https://www.espn.com/nhl/story/_/id/45479112/nhl-2025-playoffs-stanley-cup-final-game-3-panthers-oilers-grades-three-stars</link>
-            <pubDate>Tue, 10 Jun 2025 07:42:58 EST</pubDate>
+            <title>[NATIONAL] Greta Thunberg deported from Israel after Gaza boat seized - Reuters</title>
+            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0loT2hNeFVOMGpTOTdoRjdDaVQ4TkEtNFVaRzdSYWhaaGg2dWEwTFNzckdtcnN1Y0NqVHdJTXpPTEo2SDNfNmNnaTJZRTJuYnNvV3hPRG8wY1VZUm9jXzVJWnZEcFAzNHMtaFBXWWU5N19KT3l2ZzNtamtoRU02ZlVkUDkxYWFvVkFPSzI4ZzZCNE1hOE10N2NlbEh6NHlXWTZPUlRzMklPZEktVkRHcg?oc=5</link>
+            <pubDate>Tue, 10 Jun 2025 14:02:36 GMT</pubDate>
         </item>
         
         <item>
@@ -162,40 +156,34 @@
         </item>
         
         <item>
-            <title>[NATIONAL] Ten dead in Austria school shooting, police say - BBC</title>
-            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YMkx5WTAtVFFfQW1CTklfNTc3ODlmRGFfWTFic0QtTFgwZkxXQ3BwLXgtWWFnNW9VTlhXTHdpZjZTYzlGWEsxdmlseUtjUno2Sy1XamtwSlVTUdIBX0FVX3lxTE5GLUhHMmpZNXNTeEZlNHRwMVpaSEhsajFwX0lVTUJMZXdxT2FZSzlQV1pwR1VjSnhhcXMxMmx1dndNZnJaZGpCbTByNW9qUUNJZFIyYWNjQUFPMzNVWHNB?oc=5</link>
-            <pubDate>Tue, 10 Jun 2025 11:48:40 GMT</pubDate>
+            <title>[NATIONAL] California governor says Trump is sowing &#x27;more chaos&#x27; by ordering Marines to LA - NPR</title>
+            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQa0k1Q0s5RURUVTBRV2kzX2Eyc0JKbDhDajl2UGFNOVdsdUQyVEEyV2ItMnhVM0pnVGl3X3lwbGpjODc1UUthNjNwS0tIVGVzdWJ6MFJobF84cUstY0dpaC1YaERzSk9ibVZ2TERYLTljOTRFNXF4bGxva09mdXJCTWo0dEI1bWgtX09yWEpOV3hXdDhlamg3dkU0Rl9xWGdXTW8zMXQ0ajFMTld4OEMxamV3czJuWkdacUE?oc=5</link>
+            <pubDate>Mon, 09 Jun 2025 23:30:22 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Trump said it would be &#x27;great&#x27; to arrest Newsom. Their stormy relationship and the politics at play. - ABC News</title>
-            <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPa08xLXd2NUlhRUxoNjRRX0tBTXRnMThSanNYcDNXM2FtTk5fNW1PUTFoakc5M1FzaGI1SWYyYjdpSjB0ZEsyd3RnX2lUZGRabDdONnZlU2ZBZkRRS0Fma2VOazJ1aFZUcHh1eVRsSG9FQllEelJpOTJVUnY5S2tDcHo2Tzd2a1R4N1IzM3lQVHlfcFRhMEdSRkdIRkFOYnZGdXh2MkU3bEFFWlRxRzE00gG0AUFVX3lxTFB0dHFGSWt5SHcwNVpQMFpULVR0bml5U1UtRlpsQjdBRTAwMnphTXFsSTZKVHl4cmYzNWxUWENQZ0c5RUR0eGxQYkF2a2dEY195cGdYMjNHczFacWJ5SlZyQk1BSDJkOWl5Z2hYYldfM0lRcEc3RUtCUmdobWNJakVSbGYyMGc5bjlMbnJIMm90YkQ5VkxLSTV2X2h5UkpYamUtSUw4eGZLbnR2YWV2alBBQUdBZQ?oc=5</link>
-            <pubDate>Mon, 09 Jun 2025 23:15:00 GMT</pubDate>
+            <title>[NBA] Our latest NBA mock draft: Back-and-forth on team need vs. best value</title>
+            <link>https://www.espn.com/nba/story/_/id/45470775/2025-nba-mock-draft-debating-30-round-1-picks-need-value-cooper-flagg</link>
+            <pubDate>Tue, 10 Jun 2025 12:08:29 EST</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] The global impact of Trump vs. Musk - Politico</title>
-            <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNMGpULXlKRHBRV3NtRGJzdjlHU2R2SmJ1LXVKUDhCMFd2RzJFREduQ1ZIWFRyR052WU93QmhSSlluZUVrZ2FlTUpCRXpkSG93RFlPY3lMRjJhS3Q5TFg4MDczM2VrOHJ1YU1FdFduMzFYbXJ2VE5YNHB4cXZwS0xrbTdLcXZUeTZQTUxvdA?oc=5</link>
-            <pubDate>Mon, 09 Jun 2025 23:32:19 GMT</pubDate>
+            <title>[LOCAL] WATCH: National Weather Service Cleveland in Erie Co. to investigate storm damage</title>
+            <link>https://www.yourerie.com/wx/watch-national-weather-service-cleveland-in-erie-co-to-investigate-storm-damage/</link>
+            <pubDate>Tue, 10 Jun 2025 16:26:26 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] OPM recommends telework, other flexibilities for D.C.-area feds ahead of military parade - Government Executive</title>
-            <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPaWMxTFl2RzJ5VGdFaDJTNEljTHJzM3hHc1I3d2Fuc3pRcEQ0U3AxNlZjcmU1QUlDcFloVjRrUmlaQ0NsSERXY0lkdUQzc3U0dHRqLW9DeU5PTExiLUx0LTJYTE9SdktfaGd0LTZaSFYwSXo3VElneTBTbDdYS2tFX1pIQUhSOTQzMlZGbHB5b0FHcEcxdlpBaG01UXdldnhMeTFDS0w1dFBOVmk0MFdWc05zZi1GLVFKTlpyakR0clQ4ZVpwdUpv?oc=5</link>
-            <pubDate>Mon, 09 Jun 2025 21:23:00 GMT</pubDate>
+            <title>[NATIONAL] Zelenskyy demands &#x27;action from America&#x27; after latest Russian drone, missile attack - ABC News</title>
+            <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQdnZsVEhtNk9iVjFuOGg5eDE5ZEtCOWVPeEZPRHZGUDI2ZXdFeW9rNE4wUGJMVGpOTFhlVWZYdXVOS09vMVkwbFBkZnVYQ1NRdGZFSUNqdHY1TTVPY0F4R0EtRGxtRW1fTXMySENOX1FLN3d0aXVEa0EyMTlybkszTllrOXMwbHZkcTRaWkZBdVE1RXJoVTF3bXlpUGdRc0FWaXfSAacBQVVfeXFMTS1GdTVnczRPblZDWUN2amd3QXNRdUJYNmRRam5YajV2UTBLYno5V01iYmZXVVltajVxR29sNUtxdkozT01BTmY2RXMzR2wteUdkMDlORVE2ZklrdDBPUHRCVjlTbGJRWks1Y3pLbk0yczgydE00bk9hMlFfR3FJZFZHbDJHUnhudFAyVmhidnlRX3JEeTNRLThlLWlvWkZXS3NKSExVSUU?oc=5</link>
+            <pubDate>Tue, 10 Jun 2025 11:23:26 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Conservative Sen. Josh Hawley wants to raise federal minimum wage - CBS News</title>
-            <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1CTlRlU0owYVhpcWptMTJWOGZUTmhaWnZTT0VEeFJYNnhQUDViQ3BwTk5NZElycVRQT21iR3FYVGhHZ1JybVMzRkhVQzhKc3NwRWktMXZoYWFjbG9KYkpqWEMxc2d4MDg2OHUtLWN3RFdJWWlBc2dZ0gF8QVVfeXFMT3pyS01SeEZHUkRBRGMtT2pFbjdXNjJlNzd3ZWt4ZEVDdzExTnRFVlBKRHhWNW1EWVNkWUFrZm1WY1M5SldiR1lKZjVKelVCWEpScmxGLUZkM1FUak1TcjJPY1NaeFdtYU5OekV3RktSLWhneFVlMGh4cTIzdw?oc=5</link>
-            <pubDate>Tue, 10 Jun 2025 10:03:25 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] SeaWolves&#x27; Valencia named Eastern League player of the week for first time</title>
-            <link>https://www.yourerie.com/sports/erie-seawolves/seawolves-valencia-named-eastern-league-player-of-the-week-for-first-time/</link>
-            <pubDate>Tue, 10 Jun 2025 03:57:41 +0000</pubDate>
+            <title>[LOCAL] SeaWolves announce 2025 Chace Numata Scholarship winners</title>
+            <link>https://talkerie.com/2025/06/04/seawolves-announce-2025-chace-numata-scholarship-winners/</link>
+            <pubDate>Wed, 04 Jun 2025 20:25:00 +0000</pubDate>
         </item>
         
     </channel>
-    </rss><!-- Updated: Tue Jun 10 12:31:36 UTC 2025 -->
+    </rss><!-- Updated: Tue Jun 10 18:20:50 UTC 2025 -->
