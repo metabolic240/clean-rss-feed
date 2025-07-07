@@ -6,105 +6,27 @@
         <description>Filtered national sports and local Erie headlines</description>
         
         <item>
-            <title>[LOCAL] Felines &amp; Wines returns to the Erie Zoo August 9</title>
-            <link>https://talkerie.com/2025/07/01/felines-wines-returns-to-the-erie-zoo-august-9/</link>
-            <pubDate>Tue, 01 Jul 2025 17:11:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] &#x27;We need justice for Chello now&#x27; Protesters call for transparency after fatal shooting of Erie man</title>
-            <link>https://www.yourerie.com/news/local-news/we-need-justice-for-chello-now-protesters-call-for-transparency-from-law-enforcement-after-fatal-shooting-of-erie-man/</link>
-            <pubDate>Fri, 04 Jul 2025 02:19:44 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Road team takes each game as SeaWolves close Akron six-game series with 7-3 win</title>
-            <link>https://www.yourerie.com/sports/erie-seawolves/road-team-takes-each-game-as-seawolves-close-akron-six-game-series-with-7-3-win/</link>
-            <pubDate>Sun, 06 Jul 2025 22:39:43 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Knives, bullets and thieves: the quest for food in Gaza - NPR</title>
-            <link>https://news.google.com/rss/articles/CBMib0FVX3lxTFA1aFNDS1l4a0RHY2FBRG80NGFIYnhxMUlRWHBSRVJBOXE1ejBialBydUd0Uk5DWF9HOTROMnBvTzRRMW5CUkJaR3k5YUczUFhZMjNMMDBYQmRCS0VtRnVFLUNXQ2NZamV5TkVoOXJEQQ?oc=5</link>
-            <pubDate>Sun, 06 Jul 2025 13:40:57 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NBA] Durant to Rockets part of NBA-first 7-team trade</title>
-            <link>https://www.espn.com/nba/story/_/id/45683702/keven-durant-rockets-part-complex-seven-team-trade</link>
-            <pubDate>Mon, 7 Jul 2025 00:16:09 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Rural hospitals will be hit hard by Trump’s signature spending package - The Conversation</title>
-            <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQdkk5SGEtcjlDNUNQT3Zmc2dBZ2tUNXFrTDc0U01XZFFBMXlVSldaSkw2TnZZTk5PTU1ZOXByNDk1RU5ySDdxSzVKd2E1RGFjZ1ItYmNtRWFMRWFmUnNicDNGUGwyTFpCU19Obk42ME83OVk1VktLR1QtVWpiMFg3SGI1TWdqVGtISDRfZUJuY3psQjFPUE1CaFBnR3A0Z1VSc3NNWmFRRQ?oc=5</link>
-            <pubDate>Sun, 06 Jul 2025 18:38:11 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Commodores beat Cleveland SC 2-0 on two PK goals, clinch playoff berth</title>
-            <link>https://www.yourerie.com/sports/local-sports/commodores-beat-cleveland-sc-2-0-on-two-pk-goals-clinch-playoff-berth/</link>
-            <pubDate>Sun, 06 Jul 2025 03:13:30 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] State Police issue update on officer involved shooting</title>
-            <link>https://talkerie.com/2025/07/03/state-police-issue-update-on-officer-involved-shooting/</link>
-            <pubDate>Fri, 04 Jul 2025 01:31:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] EPD statement regarding shooting involving PA State Parole agent</title>
-            <link>https://talkerie.com/2025/07/03/epd-statement-regarding-shooting-involving-pa-state-parole-agent/</link>
-            <pubDate>Thu, 03 Jul 2025 15:34:45 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] PennDOT employees honored for their response to record-breaking snow in Erie County</title>
-            <link>https://talkerie.com/2025/07/03/penndot-employees-honored-for-their-response-to-record-breaking-snow-in-erie-county/</link>
-            <pubDate>Thu, 03 Jul 2025 15:21:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] Ex-Texans, Eagles LB Braman in cancer treatment</title>
-            <link>https://www.espn.com/nfl/story/_/id/45675050/former-texans-eagles-lb-bryan-braman-rare-form-cancer</link>
-            <pubDate>Sun, 6 Jul 2025 15:03:37 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] ‘Change of Control’ approved in Gannon-Ursuline merger</title>
-            <link>https://talkerie.com/2025/07/01/change-of-control-approved-in-gannon-ursuline-merger/</link>
-            <pubDate>Tue, 01 Jul 2025 13:52:02 +0000</pubDate>
-        </item>
-        
-        <item>
             <title>[MLB] Kershaw gets special ASG invite; no Soto, Betts</title>
             <link>https://www.espn.com/mlb/story/_/id/45684950/dodgers-clayton-kershaw-19-1st-rs-fill-mlb-all-star-rosters</link>
             <pubDate>Mon, 7 Jul 2025 00:11:28 EST</pubDate>
         </item>
         
         <item>
-            <title>[NBA] Rollins agrees to 3-year deal to return to Bucks</title>
-            <link>https://www.espn.com/nba/story/_/id/45686492/ryan-rollins-agrees-3-year-12m-deal-return-bucks</link>
-            <pubDate>Sun, 6 Jul 2025 22:34:26 EST</pubDate>
+            <title>[NATIONAL] Tesla shares drop 7% in premarket trading after Elon Musk says he is launching a political party - CNBC</title>
+            <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE9lVktjUG9aZkFUcmE4V25BRm9YNG8tZGlGY090UjktRjE0bmhBXzNHeXZ6NlcyMEFyX2p6cjVRSG1WYWpaM19PWWFJamktd1NlTDZlbmNhQ19sN01vR2ZJNlh4aWVTWlZRU0dOddIBckFVX3lxTE1EdXhZT2poeDZneEszaXpmV0wzbVd6X2RQZnlJY1U0QnJ3VDdqcEhoOGtySnVYanR1LVpqUjljMWIyU0gybDhJd3I1NjRNVk5icmRqZ3VhNEVMcUVWcDVpdVJIQXV5M1dhalE5YnJ5RFVCUQ?oc=5</link>
+            <pubDate>Mon, 07 Jul 2025 08:29:07 GMT</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Pennsylvania State Police provide update on fatal shooting of Erie man</title>
-            <link>https://www.yourerie.com/news/local-news/pennsylvania-state-police-provide-update-on-fatal-shooting-of-erie-man/</link>
-            <pubDate>Fri, 04 Jul 2025 01:19:11 +0000</pubDate>
+            <title>[NATIONAL] Oil prices fall as OPEC+ ramps up production; U.S. stock futures decline as tariffs to go into effect Aug. 1 - MarketWatch</title>
+            <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYk94bTd0MVNRVjl0eTY0aDBmbTBrTlpZVzVJY3RMREVlNk1vdUdIT1NrNTVBb0Jfc3ZFNFhyOVJsMHBYMHdGWTJGdUl2R0dLTGRLY3RRMXpNc3JZRllXOFZ5MlZMaW5kZHhQY1BnZFhqUHBNWTdWQVBDeUladEFsdUJsZUVINnFValR6TVVPSGhNU1VUakFBU1JLRTY0YURGNGhqaU9Sb2I?oc=5</link>
+            <pubDate>Mon, 07 Jul 2025 03:00:00 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NHL] Canes sign coveted Ehlers to 6-year, $51M deal</title>
-            <link>https://www.espn.com/nhl/story/_/id/45660847/hurricanes-sign-nik-ehlers-6-year-51-million-deal</link>
-            <pubDate>Sat, 5 Jul 2025 16:38:37 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] SeaWolves bounce back for 2-0 win at Akron and more in FNL part one (7-4-25)</title>
-            <link>https://www.yourerie.com/sports/friday-night-lights/seawolves-bounce-back-for-2-0-win-at-akron-and-more-in-fnl-part-one-7-4-25/</link>
-            <pubDate>Sat, 05 Jul 2025 04:04:46 +0000</pubDate>
+            <title>[NFL] Ex-Texans, Eagles LB Braman in cancer treatment</title>
+            <link>https://www.espn.com/nfl/story/_/id/45675050/former-texans-eagles-lb-bryan-braman-rare-form-cancer</link>
+            <pubDate>Mon, 7 Jul 2025 07:06:16 EST</pubDate>
         </item>
         
         <item>
@@ -114,51 +36,15 @@
         </item>
         
         <item>
-            <title>[NATIONAL] Trump hopes to align with Netanyahu on Gaza war endgame during visit - Axios</title>
-            <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2QzTVNEOUxzeHdtaVpKOVJKZjNGZ1lIZElnd2VTZzFLWUZUV0ZLWl96d3BhcWNVMFlrMjROQ2xENFJGZjJGdU8wT29aVUY1LWpEcm1ZbmVvZkJ3REd6RExDQi04V1ZqRVVkTkZzSnp2SzJ4cWJfQnoxM0VqTW54ZUln?oc=5</link>
-            <pubDate>Mon, 07 Jul 2025 02:16:35 GMT</pubDate>
+            <title>[LOCAL] Pennsylvania State Police provide update on fatal shooting of Erie man</title>
+            <link>https://www.yourerie.com/news/local-news/pennsylvania-state-police-provide-update-on-fatal-shooting-of-erie-man/</link>
+            <pubDate>Fri, 04 Jul 2025 01:19:11 +0000</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Four Generations Gather for 4th of July Holiday Celebration</title>
-            <link>https://www.yourerie.com/news/four-generations-gather-for-4th-of-july-holiday-celebration/</link>
-            <pubDate>Sat, 05 Jul 2025 22:18:25 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] MLB All-Star rosters: Biggest snubs and other takeaways</title>
-            <link>https://www.espn.com/mlb/story/_/id/45671743/mlb-2025-all-star-game-roster-al-nl-reaction-snubs-oversights-takeaways-juan-soto</link>
-            <pubDate>Mon, 7 Jul 2025 00:33:42 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Pressure from Trump for trade deals before Wednesday deadline, but hints of more time for talks - AP News</title>
-            <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPVXNvaHNZNkFmX3hqYzhiZk94STV6d085V2FmTmxaWjNoaW9rcmJWVUJ3d0k1Z0dtS2VhLTNCeERsdGgwdVlzQVMyRlNlYTlsUkpfaUlaWjZvb0JvY3BoOFdVdHJLWk9xc2VnSWxqNUJvendHWHhNX1hfMEE1WHhFZU44WDJzd2ZDZGNiT0ZzNFFQajZmblZjNzhidU5nOGQ5NUdaaXdB?oc=5</link>
-            <pubDate>Mon, 07 Jul 2025 03:18:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Israel carries out strikes on Houthi-controlled power station, ports across Yemen - The Times of Israel</title>
-            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQaEpLZTh4S1lqOEF4VllXcmRkbWd4dkVITzFYQ19CMF9HUnZuRDE1LVliTEtpRHRiS180eDU5Z1FaRXFobXZRSU5aTVpSNnk2V01KTHZ6WjgtMFF2VEttaU5yQ19yTGR0UHhneDZlaDJOZE9RRWlqcndEQndBak5fU1o2SXdyMUxUbEhyeXFtc1BqS3RnWTdDcEdReks4T25GdWdlb3ExZEEwbHBTa3dhedIBtgFBVV95cUxNZGdKSy1SUmJvSThtcGtYdmhEVHg4SkNadzdmczF2LWY5cXl4aGpNNktoczBVaGtvNXJCNVgzc1Y0NEZ5YlpaZEc4Q2pFYU1Qa3FNSnFMWThvV2xsMm9UeVhBd3g2SUp6LU1Va0dDSXE5OUlfQkVXSV9uUVRpSkRnZWNYYkpzXzE5djF5NHh3RTF6Z2wtX3Nock1pay1wdExvd2FHVHNsSXQzdlBDMmkwVVU3Tl9UZw?oc=5</link>
-            <pubDate>Mon, 07 Jul 2025 00:07:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] Cowboys All-Pro KR Turpin arrested on 2 charges</title>
-            <link>https://www.espn.com/nfl/story/_/id/45684009/cowboys-kavontae-turpin-arrested-two-misdemeanor-charges</link>
-            <pubDate>Sun, 6 Jul 2025 15:03:38 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NHL] NHL offseason trade grades: Report cards on Miller, Marner, Dobson, more</title>
-            <link>https://www.espn.com/nhl/story/_/id/45598843/nhl-2025-trades-grades-offseason-free-agency-top-players</link>
-            <pubDate>Sat, 5 Jul 2025 16:37:55 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Trump Says Musk Is ‘Off the Rails’ With America Party Effort - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPcjBGSzRWX09YbXVrUkd0WW5YajNTRXV6NW1vbTNfQU5ydWk5QWpHY1E3b25rNHk5bDFwLXZ5Zk5MLVNETk0xeGRrdDUzMXJUMC1Haml4Z1BVTU1tdEx0b1UweWhabFdrS2E2a3pmYzdEWFB0SF9Lc1JjTDlfckVCZlRB?oc=5</link>
-            <pubDate>Mon, 07 Jul 2025 02:46:32 GMT</pubDate>
+            <title>[LOCAL] &#x27;We need justice for Chello now&#x27; Protesters call for transparency after fatal shooting of Erie man</title>
+            <link>https://www.yourerie.com/news/local-news/we-need-justice-for-chello-now-protesters-call-for-transparency-from-law-enforcement-after-fatal-shooting-of-erie-man/</link>
+            <pubDate>Fri, 04 Jul 2025 02:19:44 +0000</pubDate>
         </item>
         
         <item>
@@ -168,9 +54,21 @@
         </item>
         
         <item>
-            <title>[LOCAL] Shapiro Administration reminds SNAP recipients to lock EBT cards, change PINs as skimmers found across the commonwealth</title>
-            <link>https://talkerie.com/2025/07/03/shapiro-administration-reminds-snap-recipients-to-lock-ebt-cards-change-pins-as-skimmers-found-across-the-commonwealth/</link>
-            <pubDate>Thu, 03 Jul 2025 16:10:00 +0000</pubDate>
+            <title>[NATIONAL] Bodies of all 7 missing people found at California fireworks warehouse that exploded - NPR</title>
+            <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQd1JuOUh6LVoxaUQwaGFZMUU3OXFwTTBVM1dsLUdBNm9vVFYxclRPd1JQVjFOUWhTclJ2b1VzSV9mXy1BTl9GYlJyU2FXZVcyVmZXb2RKejBUcEZGNVhDcEhsMWJFVXB2eUdGcFB4Q2VTX3lsNWxBS2ZRZ3p6N3YtZVJDb3QxUzB0V0R6TTZhU0lBYjctbG9IMWh2UWQzZDA?oc=5</link>
+            <pubDate>Mon, 07 Jul 2025 05:09:30 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] MLB All-Star rosters: Biggest snubs and other takeaways</title>
+            <link>https://www.espn.com/mlb/story/_/id/45671743/mlb-2025-all-star-game-roster-al-nl-reaction-snubs-oversights-takeaways-juan-soto</link>
+            <pubDate>Mon, 7 Jul 2025 00:33:42 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] BRICS leaders meet amid Trump&#x27;s tariff threats - DW</title>
+            <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPUXMzeXpla3VodExyd3dMdm9kX3dBblBjZmxieDZnWV90RmZSc1hDU1ZyQVJqNE55WFZZYzhGY1hnYnl3VHhwZm0tZkh0WGFFa3hqa3puaklldW40ek1VRERhRWxUN05NdFV5NXl1a1RyWENQNExPaV9GWS1jR09EZ2lYcmPSAYQBQVVfeXFMUEhtOG9KUmJWclA4b1YzU0RRbEJnbEQzWmZfa3NLVFBNeUVPeHAyQ1BnZjNnUDVjU3ZBRER0bHFjZTN1Wl9HallhbXZhZjlnZFNEX21YZFlmYW1sN3NqdmhtdmZ0bnJNclFrM2M5NU5HQTZZNVlkd3MtVkZ3WVkyMklZYlJK?oc=5</link>
+            <pubDate>Mon, 07 Jul 2025 04:25:35 GMT</pubDate>
         </item>
         
         <item>
@@ -180,28 +78,130 @@
         </item>
         
         <item>
-            <title>[NATIONAL] N.J. weather: Tropical Storm Chantal remnants to hit state Monday with thunderstorms, heavy downpours - NJ.com</title>
-            <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVndwZFZsTnVQZ20zbkU0YlFBVDF6WGV0TDE4ZHdxRE80ZU16d082NTViSDBGandOelByanhYTGlZcHVVU0J6cUlmaGNoWk9xNnVwWllxT2ROaHZFT3c4MnVWZUNaYlNDbWw5MmRVOEFTYXgzY1VPblgyY19SOVBVdkhST1FrNktaYy10c05WUFVLbTQ3ZXZKTDVEZVVsTHR5SThzQ0NsNWZXOHZnWFlhemJ3UGJUVnRYR3EyeXlCa3A1V25qcXhqLTF3QTliVFZJaEhn0gHnAUFVX3lxTE1iWkhuMmRkSVNvSjk5MGZtUWRZcGFZRWFYTlBJWEVTNFpwa2t1T0xXMjloakctblFDbjdDZTJmSndZMlY4R3I5WFgxNzFwY3AzWWFWZUoxVWEwMXZ3dko5anF6XzFPRkI5bWdvUHhJWVlmWWFrckVWdUhMc0p6eDJUMXAwMkRHcFJEQkt1QTBPOWhxNGtfNzhzcHJpbGRyekVuSnFXaHIxZ1NETjU2MnN6bnR5N1NqWDl1cDJxcFdlU081RVR6TFhxOE1KSUFEdHZrOWdOSHg4djNiQTlmNVNwajZMSkJwdw?oc=5</link>
-            <pubDate>Sun, 06 Jul 2025 20:52:00 GMT</pubDate>
+            <title>[LOCAL] Four Generations Gather for 4th of July Holiday Celebration</title>
+            <link>https://www.yourerie.com/news/four-generations-gather-for-4th-of-july-holiday-celebration/</link>
+            <pubDate>Sat, 05 Jul 2025 22:18:25 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Paris reopens Seine River to public swimming after century-long ban - The Guardian</title>
-            <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPRF9DZ2R4RWZiVEh1ZEktVjVMTXZKY3lMVXBjNFd5RW5mRUl3cEFEQy1UR1p2N20zS1gwTnBnMnJZczI0NFNJYWh2Tm9hTGJrdlExYUhEWGZsb3haa0ZkeVRwRXRvVUFKVldyc3RKMXlEYVhrVFZvZDk5OUx4emFmbVV2VWd5Qm95SnBtdmI1UFZVeWpEOVc3N2E5ckM3ZlBIaHVabw?oc=5</link>
-            <pubDate>Sun, 06 Jul 2025 22:01:00 GMT</pubDate>
+            <title>[NBA] Durant to Rockets part of NBA-first 7-team trade</title>
+            <link>https://www.espn.com/nba/story/_/id/45683702/keven-durant-rockets-part-complex-seven-team-trade</link>
+            <pubDate>Mon, 7 Jul 2025 00:16:09 EST</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Google DeepMind has grand ambitions to &#x27;cure all diseases&#x27; with AI. Now, it&#x27;s gearing up for its first human trials - Fortune</title>
-            <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOX1lPYnRTNkxEbDNyNWRJeFRtVTVscjNzMmtXZWc0NER4QVJHbkRYOVEtcDBvZUptMTF0QWR3eWh4Rmo4Y3ZuRmg0QlVzU3J3cXlqblhuRDg1bWVTY3hJamVWVTdTQ1JYSkpiVkYycW5lR3JlT2xMUmRNZ2RfWV9uMEh0UHNVZGRXcTB6aU0tb3d1U0lncFdOamtpSFVGUGc4Snc?oc=5</link>
-            <pubDate>Sun, 06 Jul 2025 13:00:00 GMT</pubDate>
+            <title>[NFL] Cowboys All-Pro KR Turpin arrested on 2 charges</title>
+            <link>https://www.espn.com/nfl/story/_/id/45684009/cowboys-kavontae-turpin-arrested-two-misdemeanor-charges</link>
+            <pubDate>Mon, 7 Jul 2025 07:06:17 EST</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Texas lawmakers failed to pass a bill to improve local disaster warning systems this year - The Texas Tribune</title>
-            <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOS2JhRmpVek43MTBPTWlEcVpSUURyc25MQ0s0a2VZTlhkVWpXRDdRRGxXS3dCRktKX3pEdTk5WTl3UHloamtld3NtN3pERGJJaHU3ZDFMcUMzTFFOT3Y4TG83MUZXLTZXVzNRZmEtR3U4TTVzN3ZyUWEzdkhpdmdqVXhMZTVIelZjMVBXYW9NbWF5c3NZVVdNcW5NRGtXdFEwZ1lRYkxRbzd5QXpwdGc?oc=5</link>
-            <pubDate>Sun, 06 Jul 2025 22:46:42 GMT</pubDate>
+            <title>[NHL] NHL offseason trade grades: Report cards on Miller, Marner, Dobson, more</title>
+            <link>https://www.espn.com/nhl/story/_/id/45598843/nhl-2025-trades-grades-offseason-free-agency-top-players</link>
+            <pubDate>Sat, 5 Jul 2025 16:37:55 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] EPD statement regarding shooting involving PA State Parole agent</title>
+            <link>https://talkerie.com/2025/07/03/epd-statement-regarding-shooting-involving-pa-state-parole-agent/</link>
+            <pubDate>Thu, 03 Jul 2025 15:34:45 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Australian woman convicted on all counts in mushroom murders case - NBC News</title>
+            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXJXQW54dzhqUENjR0dRX29Xck9OaktoUS03Z1hHV0NMRjA0QjYzUFhQbjVhZk1qMVYzOUlvVC1wbGR6UTl3Z080XzdvdDUzVHM2R3NRTWhPbWoyajlUUWFrYmt0dVIyRTNYQWF4bFUzMXBOZnZ1N0psbkd3RWM3endUcmtqZ1lBbVdjak9lR3M4Q01DQ0QxLU5PX1hVc3dpR3hUeGJ6WkJuUdIBVkFVX3lxTE1oUDBpWHZjajdweVNOUGd2NEZxRnlSRWUxbVc2alY2b2J3TFNqbUllMGllTFNzMV9LSVpBM1RnWHh0S1JITG5qTjllSVViVzlHTHJQMUln?oc=5</link>
+            <pubDate>Mon, 07 Jul 2025 09:21:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Trump hopes to align with Netanyahu on Gaza war endgame during visit - Axios</title>
+            <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2QzTVNEOUxzeHdtaVpKOVJKZjNGZ1lIZElnd2VTZzFLWUZUV0ZLWl96d3BhcWNVMFlrMjROQ2xENFJGZjJGdU8wT29aVUY1LWpEcm1ZbmVvZkJ3REd6RExDQi04V1ZqRVVkTkZzSnp2SzJ4cWJfQnoxM0VqTW54ZUln?oc=5</link>
+            <pubDate>Mon, 07 Jul 2025 08:41:03 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Commodores beat Cleveland SC 2-0 on two PK goals, clinch playoff berth</title>
+            <link>https://www.yourerie.com/sports/local-sports/commodores-beat-cleveland-sc-2-0-on-two-pk-goals-clinch-playoff-berth/</link>
+            <pubDate>Sun, 06 Jul 2025 03:13:30 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] PennDOT employees honored for their response to record-breaking snow in Erie County</title>
+            <link>https://talkerie.com/2025/07/03/penndot-employees-honored-for-their-response-to-record-breaking-snow-in-erie-county/</link>
+            <pubDate>Thu, 03 Jul 2025 15:21:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Dollar drifts near multi-year lows as investors brace for Trump tariff deadline - Reuters</title>
+            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQakdHY1VUV2NiNmpQam81eHVmWW5iSkRhemY4MlZ1UFl4TFpiTHJYb0tQeHdGYTZ6X2lac1JUUV9uTVA3d084OTlsVGpGSm1tUS1LM2ZKTHJaMmVEcGZIc29HZjBTTFZ6OW51Sy1fOERPTHJTTFRBbHR0ZzY3eXRIWlJLTmxIQnRfVTEzSGV4TWRsMGFDcE1BbjFROVB0NlRzNS00NnJfbmRXdGNsRTR4TQ?oc=5</link>
+            <pubDate>Mon, 07 Jul 2025 08:10:12 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NHL] Canes sign coveted Ehlers to 6-year, $51M deal</title>
+            <link>https://www.espn.com/nhl/story/_/id/45660847/hurricanes-sign-nik-ehlers-6-year-51-million-deal</link>
+            <pubDate>Sat, 5 Jul 2025 16:38:37 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Felines &amp; Wines returns to the Erie Zoo August 9</title>
+            <link>https://talkerie.com/2025/07/01/felines-wines-returns-to-the-erie-zoo-august-9/</link>
+            <pubDate>Tue, 01 Jul 2025 17:11:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Israel says it struck Houthi ports and seized cargo ship in Yemen - BBC</title>
+            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hWEt3NVA0SFNuU3h6RFdyeEFUdXVCbXJRc29DZzRIakdjeFFDSEhQTkMxd1NpOEZ2OEZKRWdxcl9TdlBPT0JZUHJEZ204WTduVEFSSlhNRk9lZ9IBX0FVX3lxTE5Ib3RYbFZwUlJwTnVjcHdUanpSTXBvZVdwUm0xWmJwclVXdWdPVXhUc2VNQzRFU3dzaThCRXZxajVRajRkVm1NU1EyU2xrQkY1WmNlODluZ3hJa1Eybjhv?oc=5</link>
+            <pubDate>Mon, 07 Jul 2025 10:29:47 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Flash Flooding Hits Orange County; Chapel Hill Evacuates Dozens of Residents - Chapelboro.com</title>
+            <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmg3ZzFHWEl0THZURndIa0JOUkpVR3kwYTdEbkt4SzBma05tUmxYTmdYS0J3aWxDY0EtMEdwbmpKU00yYmN5SWsxeXpxa3lKYnRPRTZyQnhfZDN6eDZZYjlqZFJySlctRXE3c0ZSSmZ5N1FpdThUajljdnpCRXZxSGJ4SWFYZVo0M2c1U0x6WHRkMXptMThEU1JMd082ekRaVU9rVDRXeldGOGtVd1dhRTZ6OA?oc=5</link>
+            <pubDate>Mon, 07 Jul 2025 04:41:15 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NBA] Rollins agrees to 3-year deal to return to Bucks</title>
+            <link>https://www.espn.com/nba/story/_/id/45686492/ryan-rollins-agrees-3-year-12m-deal-return-bucks</link>
+            <pubDate>Sun, 6 Jul 2025 22:34:26 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] SeaWolves bounce back for 2-0 win at Akron and more in FNL part one (7-4-25)</title>
+            <link>https://www.yourerie.com/sports/friday-night-lights/seawolves-bounce-back-for-2-0-win-at-akron-and-more-in-fnl-part-one-7-4-25/</link>
+            <pubDate>Sat, 05 Jul 2025 04:04:46 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] State Police issue update on officer involved shooting</title>
+            <link>https://talkerie.com/2025/07/03/state-police-issue-update-on-officer-involved-shooting/</link>
+            <pubDate>Fri, 04 Jul 2025 01:31:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Road team takes each game as SeaWolves close Akron six-game series with 7-3 win</title>
+            <link>https://www.yourerie.com/sports/erie-seawolves/road-team-takes-each-game-as-seawolves-close-akron-six-game-series-with-7-3-win/</link>
+            <pubDate>Sun, 06 Jul 2025 22:39:43 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Shapiro Administration reminds SNAP recipients to lock EBT cards, change PINs as skimmers found across the commonwealth</title>
+            <link>https://talkerie.com/2025/07/03/shapiro-administration-reminds-snap-recipients-to-lock-ebt-cards-change-pins-as-skimmers-found-across-the-commonwealth/</link>
+            <pubDate>Thu, 03 Jul 2025 16:10:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Stock Market Today: Dow Futures, Global Stocks Fall After Trump Dials Up Trade Tensions — Live Updates - WSJ</title>
+            <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPekRicnFUT1E2N1VXWEZ0Q0lyTUJwekVHTlpUNXlZRW9naGtmSWdiUVZ2OUpEU081LWtYdzhIbVdHY3l2dXlBZG9QUlh2bVkyTUN4YmZMMUtGYVBuYWRoWVl4b2E1MUQ1cjV3YjBHc0NKUmt1XzZqYkQ1aTRPZWlfZDNZQmRfUkE?oc=5</link>
+            <pubDate>Mon, 07 Jul 2025 08:09:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] ‘Change of Control’ approved in Gannon-Ursuline merger</title>
+            <link>https://talkerie.com/2025/07/01/change-of-control-approved-in-gannon-ursuline-merger/</link>
+            <pubDate>Tue, 01 Jul 2025 13:52:02 +0000</pubDate>
         </item>
         
     </channel>
-    </rss><!-- Updated: Mon Jul  7 06:24:19 UTC 2025 -->
+    </rss><!-- Updated: Mon Jul  7 12:31:33 UTC 2025 -->
