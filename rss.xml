@@ -6,93 +6,9 @@
         <description>Filtered national sports and local Erie headlines</description>
         
         <item>
-            <title>[NBA] Wembanyama cleared to return from blood clot</title>
-            <link>https://www.espn.com/nba/story/_/id/45740391/spurs-victor-wembanyama-cleared-return-blood-clot</link>
-            <pubDate>Mon, 14 Jul 2025 22:44:10 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] Dumper&#x27;s Derby: Raleigh first C to take HR crown</title>
-            <link>https://www.espn.com/mlb/story/_/id/45743578/cal-raleigh-first-catcher-win-all-star-home-run-derby</link>
-            <pubDate>Tue, 15 Jul 2025 08:24:31 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NHL] Sabres give defenseman Byram 2-year extension</title>
-            <link>https://www.espn.com/nhl/story/_/id/45743566/sabres-extend-d-bowen-byram-2-year-125m-deal</link>
-            <pubDate>Mon, 14 Jul 2025 23:01:00 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Erie City Water Authority receives grant to modernize municipal operations</title>
-            <link>https://www.yourerie.com/news/local-news/erie-city-water-authority-receives-grant-to-modernize-municipal-operations/</link>
-            <pubDate>Mon, 14 Jul 2025 21:28:59 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Senator Laughlin celebrates bipartisan enactment of Sunday Hunting Bill</title>
-            <link>https://talkerie.com/2025/07/09/senator-laughlin-celebrates-bipartisan-enactment-of-sunday-hunting-bill/</link>
-            <pubDate>Wed, 09 Jul 2025 17:06:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] Takeaways from the Home Run Derby in Atlanta</title>
-            <link>https://www.espn.com/mlb/story/_/id/45709761/mlb-2025-home-run-derby-predictions-live-updates-takeaways-analysis</link>
-            <pubDate>Tue, 15 Jul 2025 08:21:43 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Local firm, former FBI special agent investigating Meadville police arrest incident</title>
-            <link>https://www.yourerie.com/news/local-news/local-firm-investigating-meadville-police-arrest-incident/</link>
-            <pubDate>Tue, 15 Jul 2025 01:52:41 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] City of Erie Detours for Bayfront Parkway Central Corridor Project</title>
-            <link>https://talkerie.com/2025/07/08/city-of-erie-detours-for-bayfront-parkway-central-corridor-project/</link>
-            <pubDate>Tue, 08 Jul 2025 17:54:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Your Money: The One Big Beautiful Bill and taxes</title>
-            <link>https://www.yourerie.com/on-our-air/your-money/your-money-the-one-big-beautiful-bill-and-taxes/</link>
-            <pubDate>Mon, 14 Jul 2025 21:36:45 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Lettie G. Howard crew helps rescue woman from Lake Erie</title>
-            <link>https://www.yourerie.com/news/local-news/lettie-g-howard-crew-helps-rescue-woman-from-lake-erie/</link>
-            <pubDate>Mon, 14 Jul 2025 21:24:57 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Warren man acquitted of 2024 fatal shooting</title>
-            <link>https://www.yourerie.com/news/local-news/warren-man-acquitted-of-2024-fatal-shooting/</link>
-            <pubDate>Mon, 14 Jul 2025 20:58:53 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Supreme Court Allows Trump to Gut Education Department With Mass Firings - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNVFNDSUVxUy1OSFJVVzNHQktvbnlVaUpTdjZ6NEQtWWtjVmVzN3ZnSWd0d1doYTZ3SS0zdlZZMjQzX1dSSklsTk1vMS1UMUpGcVh6WTQtRFdsbjdOcy1UYmhXWWJBOUlmSk5FMFFsckNiT3U5cFRHaW00dkN5UUJHUkF1T3Y4WGRyNUVKa0FBZw?oc=5</link>
-            <pubDate>Tue, 15 Jul 2025 01:02:50 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] North East Cherry Festival wraps up for 79th year, festival co-chairs discuss the weekend</title>
-            <link>https://www.yourerie.com/news/local-news/north-east-cherry-festival-wraps-up-for-79th-year-festival-co-chairs-discuss-the-weekend/</link>
-            <pubDate>Mon, 14 Jul 2025 22:28:04 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NBA] 76ers&#x27; George has arthroscopic knee surgery</title>
-            <link>https://www.espn.com/nba/story/_/id/45741569/76ers-paul-george-undergoes-arthroscopic-knee-surgery</link>
-            <pubDate>Mon, 14 Jul 2025 22:44:10 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Senate Republicans scramble to lock down support for Trump’s spending clawbacks - Politico</title>
-            <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGFUX2tHR3FZaFdBdWdwYXFZOUE5aV9nWTZoMXcwb25BMVVjSnR2bkU1OXhCRzFnRFJUYzUwWFhlZFVUc2c3RnhVZF9vQ3RHRGlSOVdxVFA2cHhDLVBRVUh1VEQ2c0FvSFVzbEZqTnNtamxMZ1RSa2t4SDQtZTFrYk1SZlg5WHNBd0poOWQzSVg0MGxXcGRMREd5S19oRkZ4R0NkX2dUSHljLW5FVEhqUFlGSHVtVzVtOVd1d3VsRkxsSkpsc2dV?oc=5</link>
-            <pubDate>Tue, 15 Jul 2025 00:08:00 GMT</pubDate>
+            <title>[NFL] Sources: Chiefs, guard Smith reach historic deal</title>
+            <link>https://www.espn.com/nfl/story/_/id/45747043/sources-chiefs-trey-smith-agree-4-year-94m-deal</link>
+            <pubDate>Tue, 15 Jul 2025 13:52:25 EST</pubDate>
         </item>
         
         <item>
@@ -102,57 +18,9 @@
         </item>
         
         <item>
-            <title>[NHL] Panthers to raise 2nd Stanley Cup banner Oct. 7</title>
-            <link>https://www.espn.com/nhl/story/_/id/45739056/panthers-raise-stanley-cup-banner-oct-7-open-nhl-season</link>
-            <pubDate>Mon, 14 Jul 2025 10:33:00 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] The best NFL teams of the past 25 years, ranked from 25 to 1</title>
-            <link>https://www.espn.com/nfl/story/_/id/45730439/ranking-25-best-nfl-teams-25-years-2000-patriots-eagles-seahawks</link>
-            <pubDate>Tue, 15 Jul 2025 07:35:22 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Russia &#x27;didn’t care&#x27; about Trump&#x27;s weapons for Ukraine, tariff threats, official says - ABC News - Breaking News, Latest News and Videos</title>
-            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzJ1WVBFSVl0T0VZTXEwcm1xTHlHSEhLeUQ1VmNKbUJ5SlRGcTNFNndSbllMTXMzWTkxNEZRejF2bmNVSFNuUEsxVmR5c3RwemNDSDBnU1NCbndxRnpLSzVOT29ReVhKdXdtN1VqSFRtV1ZvdGVCSXhQUzkyRVN0SUdtVmdubk9jRy16SllCdDBHWjBINU84ZklUWHVVdVZfTHFfVkFvNUFRdHZCcVBBZNIBtgFBVV95cUxPclVhRUhjRmxoc1FPczV4Q1J1OTBoZEZYTjRyTTZ2ek9jZk1iWVJ2SzB5Mnd0TmxRZWRzeGZDaUNVX2ZpZ0pRQjhMQWVxdWpCVUoyeWFfVXUweE5jbG9PSUNnYlhvRF9vblJRdGplOTVLUDl1Ny1IV3RHRl9Xc3lVdGJONEl4MFBNczU4V2tJSTRJTU5xbEZlZFpGYnpjZ1ZUTVBKbDFKSUdvSEhySUZmQ09DaGltdw?oc=5</link>
-            <pubDate>Tue, 15 Jul 2025 11:23:29 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Trump is flunking his Epstein test - Financial Times</title>
-            <link>https://news.google.com/rss/articles/CBMicEFVX3lxTFBlQ0dfR0NBM2dJRUlwTFNVcDd3cTZtcG0yTFRMbTFqYnJjWWxRUHlhQXZtVm9lTHpCSGdVUzZuTmtPMzd1dzU3YmdwUXZJSUE4bjFRZllFLUowVXNka2JSenZ4R1hlS2VxdGJMdmFRaHI?oc=5</link>
-            <pubDate>Tue, 15 Jul 2025 11:41:18 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] JES to host President Barack Obama at Global Summit 2025</title>
-            <link>https://talkerie.com/2025/07/09/jes-to-host-president-barack-obama-at-global-summit-2025/</link>
-            <pubDate>Wed, 09 Jul 2025 15:23:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Syria: Israel bombs forces entering Druze city after deadly clashes - BBC</title>
-            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE51MnhRSkMwYWY4b3QxQ0gtSWhxMEJ0cUdoQ0p2MlFIVldhRHhWQjVmU2JzMmd1alJXNmpNV1dBUUFfVHp5amNsQkdBNmtrNm1uMjdhRGY5em9TZ9IBX0FVX3lxTE9PMWNlR2JORkhYTU02Y2VyVzJFX3hkalhreE0xc1BBQmJBbDBYYVR2c2kwWkN4cnlYczhvRC1KRkxxSS1FbTFFLUQ3WXNWbkRoMXMxR28wMEp3bVdsdjlN?oc=5</link>
-            <pubDate>Tue, 15 Jul 2025 11:12:19 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Meadville DA&#x27;s Office investigates after arrest video circulates social media</title>
-            <link>https://www.yourerie.com/news/local-news/meadville-das-office-investigates-after-arrest-video-circulates-social-media/</link>
-            <pubDate>Mon, 14 Jul 2025 21:15:52 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Secret Afghan relocation scheme set up after major data breach - BBC</title>
-            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pemVKQjF4a202eHo1c2JUeTQxbXIwZHdoc2wwQU5IdmhYSjRuVk15M05LRkpfTjM3bFV5QTkyZE8wNHhQUXh3WlRLTGtiSlJUenk2SEFxcmZaUdIBX0FVX3lxTE84LU1rSmVHRzRrRklONUxQQk5aUzRybHdaLWJWbDZJbzR1R3pMNFA4TExNNUFaVkdGYzhqVnpucWh4WENWQmRzUmRBQ2FXc2Q1M3YzYUlDOUtDUkJMQTFN?oc=5</link>
-            <pubDate>Tue, 15 Jul 2025 11:22:28 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Netanyahu’s coalition is rattled as ultra-Orthodox party announces exit over military draft law - AP News</title>
-            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZGxfZWZPVGZWNlh3YVNUWHRDdFNhOHBJSnRaVDNGbFhnOTFmbTd3QlAwSHNSTXM3eGhOcFYzbTFkR0pvVUxfTGUzVkJzdndNSUVjcXoyc041bkZCMTV3bEtLeHlLRFcyMTlHMlhrenU5VzBuMHM3Z2ltc3FTT0JHX3dPbjdXVEc0TkdReHRZSjRMY2VsUGF5Sk5JNGRlNXh5a3JJRFZyc3N3Zw?oc=5</link>
-            <pubDate>Tue, 15 Jul 2025 07:44:00 GMT</pubDate>
+            <title>[NATIONAL] The ‘Next AOC’ Rejects Comparisons Ahead of Potential Upset - The Daily Beast</title>
+            <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQNUR2RFE1cHBNbDFIS3dXcXNPT3J4ZS1xS3VWXzdHNnlxYXRrd0VDRjVnMV9ZSG9jYVd5YzI2VTdVMmFveDdELW9HeExfVDE4aWtSdmR0VlpSNDcxWEtrenM2aHFlOS15anlFWWRXMDJoYTZQME9kQjBYMnlzclVGMm9yMS1UX0liUnFPYU1JSkRsZw?oc=5</link>
+            <pubDate>Tue, 15 Jul 2025 15:23:00 GMT</pubDate>
         </item>
         
         <item>
@@ -162,46 +30,154 @@
         </item>
         
         <item>
-            <title>[LOCAL] PA House Democrats outline the damage done by the Big Bad Bill</title>
-            <link>https://talkerie.com/2025/07/08/pa-house-democrats-outline-the-damage-done-by-the-big-bad-bill/</link>
-            <pubDate>Tue, 08 Jul 2025 16:39:00 +0000</pubDate>
+            <title>[NATIONAL] Russia &#x27;didn’t care&#x27; about Trump&#x27;s weapons for Ukraine, tariff threats, official says - ABC News - Breaking News, Latest News and Videos</title>
+            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzJ1WVBFSVl0T0VZTXEwcm1xTHlHSEhLeUQ1VmNKbUJ5SlRGcTNFNndSbllMTXMzWTkxNEZRejF2bmNVSFNuUEsxVmR5c3RwemNDSDBnU1NCbndxRnpLSzVOT29ReVhKdXdtN1VqSFRtV1ZvdGVCSXhQUzkyRVN0SUdtVmdubk9jRy16SllCdDBHWjBINU84ZklUWHVVdVZfTHFfVkFvNUFRdHZCcVBBZNIBtgFBVV95cUxPclVhRUhjRmxoc1FPczV4Q1J1OTBoZEZYTjRyTTZ2ek9jZk1iWVJ2SzB5Mnd0TmxRZWRzeGZDaUNVX2ZpZ0pRQjhMQWVxdWpCVUoyeWFfVXUweE5jbG9PSUNnYlhvRF9vblJRdGplOTVLUDl1Ny1IV3RHRl9Xc3lVdGJONEl4MFBNczU4V2tJSTRJTU5xbEZlZFpGYnpjZ1ZUTVBKbDFKSUdvSEhySUZmQ09DaGltdw?oc=5</link>
+            <pubDate>Tue, 15 Jul 2025 13:20:58 GMT</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] New Erie School District leadership: superintendent focuses on communication</title>
-            <link>https://www.yourerie.com/news/local-news/new-erie-school-district-leadership-superintendent-focuses-on-communication/</link>
-            <pubDate>Tue, 15 Jul 2025 02:30:33 +0000</pubDate>
+            <title>[NHL] Sabres give defenseman Byram 2-year extension</title>
+            <link>https://www.espn.com/nhl/story/_/id/45743566/sabres-extend-d-bowen-byram-2-year-125m-deal</link>
+            <pubDate>Mon, 14 Jul 2025 23:01:00 EST</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Dog owners enjoy guided walk through Brown&#x27;s Farm with certified trainer</title>
-            <link>https://www.yourerie.com/news/local-news/dog-owners-enjoy-guided-walk-through-browns-farm-with-certified-trainer/</link>
-            <pubDate>Tue, 15 Jul 2025 02:15:57 +0000</pubDate>
+            <title>[LOCAL] Senator Laughlin celebrates bipartisan enactment of Sunday Hunting Bill</title>
+            <link>https://talkerie.com/2025/07/09/senator-laughlin-celebrates-bipartisan-enactment-of-sunday-hunting-bill/</link>
+            <pubDate>Wed, 09 Jul 2025 17:06:00 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Trump backs Kyiv in war with Russia through weapons and threats to Moscow - The Washington Post</title>
-            <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmdHSXpLcV9QZ19VMWRWVXA3UDg3dVUzcExnZm1vTlQ1UGRTNFU1SzA5TjctYzU5YW1tVUdDVkFfdV9PeUttdTZpQVFnSEl2S0RmS2R5ajl0OHhTVjZ1YS1kVU00OEF0LXRERDRmZEFUYk02OEZjNnBkcTVxRDU2OHpsTHhJMHpKT044?oc=5</link>
-            <pubDate>Tue, 15 Jul 2025 05:51:46 GMT</pubDate>
+            <title>[NBA] 76ers&#x27; George has arthroscopic knee surgery</title>
+            <link>https://www.espn.com/nba/story/_/id/45741569/76ers-paul-george-undergoes-arthroscopic-knee-surgery</link>
+            <pubDate>Tue, 15 Jul 2025 12:29:29 EST</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] John MacArthur, Firebrand Preacher and Culture Warrior, Dies at 86 - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE9HM1JFbWhyaEpNeTJQQWZ5SFI4RXcxMVR4ZkJKX05sLWxqbEQ1UHZPZGN6b0JqUlEzcVhyZnp1N2xrN1g4MXY3cVhTM3FrZFdIQ3pYaGpCdTF3ZnQwd183MTgtUUFHUjM3ZWZ6WG16dw?oc=5</link>
-            <pubDate>Tue, 15 Jul 2025 04:25:51 GMT</pubDate>
+            <title>[LOCAL] Lettie G. Howard crew helps rescue woman from Lake Erie</title>
+            <link>https://www.yourerie.com/news/local-news/lettie-g-howard-crew-helps-rescue-woman-from-lake-erie/</link>
+            <pubDate>Mon, 14 Jul 2025 21:24:57 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Heavy rain floods NYC streets and highways, prompting emergency response across region - Gothamist</title>
-            <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3ExZ1ppU2VtV0M3amkzbzFwQW5qSFlkYkU2M2Y2OGxMcEhwSVhvMWJhMS11Z2dEdnh2TGFaaFF1RFFXUnpBLWxSd3pvLVdpRHl4QXhSVkl4SWtyY3AzWndzUWdFODZmUUtESm5qZ2VKUURTOHhJYUtZbXozb2Jwc2lUREFuQ1REUU9yQUltQy1nQWZjRVV4TTNxa1UwRVNlQUE?oc=5</link>
-            <pubDate>Mon, 14 Jul 2025 23:55:00 GMT</pubDate>
+            <title>[NFL] Execs, coaches and scouts help rank top 10 QBs</title>
+            <link>https://www.espn.com/nfl/story/_/id/45530940/top-10-nfl-quarterbacks-execs-scouts-2025-espn-jeremy-fowler-position-rankings</link>
+            <pubDate>Tue, 15 Jul 2025 13:23:49 EST</pubDate>
         </item>
         
         <item>
-            <title>[NFL] Sources: Jets WR Wilson lands $130M extension</title>
-            <link>https://www.espn.com/nfl/story/_/id/45740901/sources-jets-wr-garrett-wilson-lands-4-year-130m-extension</link>
-            <pubDate>Tue, 15 Jul 2025 07:35:25 EST</pubDate>
+            <title>[NATIONAL] Trump is flunking his Epstein test - Financial Times</title>
+            <link>https://news.google.com/rss/articles/CBMicEFVX3lxTFBlQ0dfR0NBM2dJRUlwTFNVcDd3cTZtcG0yTFRMbTFqYnJjWWxRUHlhQXZtVm9lTHpCSGdVUzZuTmtPMzd1dzU3YmdwUXZJSUE4bjFRZllFLUowVXNka2JSenZ4R1hlS2VxdGJMdmFRaHI?oc=5</link>
+            <pubDate>Tue, 15 Jul 2025 11:41:18 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] WATCH: New York City subway stations flood from heavy rain - The Hill</title>
+            <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxONEItOEJWb1djS0QwWTlPVUJaWVJMdVdTVkJMX1pRczR6bmxNNjgtSExxZlJNd2ZGdF9rbTNNTVBsSHM4WHZBZEpWQmZmbFI1YVM2SDlwNkJFNlJnc3FWck1wSWt1U3dqWGFXLU9jRERBYjNiV0pZb244b3pCRVRWcnp2bVFMcHhCQ0s1aFh5N1EwUVQ1V1HSAZsBQVVfeXFMTzJST093ak9YbTlFWVBRZWdtTGZKV09Zbl9LSHlVVnJtYXFxbU5ySWR4MzZQZndqTnEweFpQLWQ3ejktT1FERDNVRnQ5RTFTbTlLVERkODhiaWZDOWdZdm5HNUpNNzcwdFJhNDY5MmpibW96UzI1RWU4TmwzMFlNc0RKcWFxM25uYzg1NldGS2g3REQ1aDFXTEhCMDA?oc=5</link>
+            <pubDate>Tue, 15 Jul 2025 13:38:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Drivers alerted to lane restrictions, rolling closures on I-90</title>
+            <link>https://www.yourerie.com/digital-first/digital-exclusive/drivers-alerted-to-lane-restrictions-rolling-closures-on-i-90/</link>
+            <pubDate>Tue, 15 Jul 2025 17:09:16 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Homeless Population Declines in Los Angeles for a Second Straight Year - The New York Times</title>
+            <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZQzVmSGxYVUhnZmx6N1FUNE8zVWVjVVZsYkVUZUlXM2dPa18xWWgtVjkzMnVCeGRlNnI4OE9IR0lZTno1QU9KYUtDeld0U1V1OVN1NWQ0Y3dQMEVSaDN5Wjg2dVpSMGVZdjlzUElWM3U?oc=5</link>
+            <pubDate>Tue, 15 Jul 2025 15:03:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] MLB All-Star Game: Predictions, live updates and takeaways</title>
+            <link>https://www.espn.com/mlb/story/_/id/45709847/2025-mlb-all-star-game-predictions-live-updates-analysis-takeaways</link>
+            <pubDate>Tue, 15 Jul 2025 10:39:11 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Mike Waltz pledges to make UN ‘great again’ at Senate confirmation hearing - AP News</title>
+            <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2NnQUVUNzVCTzdtaFJVZDg1ZDJZdUpXUnNZTmRvMk50ZWF2a3prN2EwblpuQ1QybWdHeUZtV0xsOGgyVkhJREVVbTcyVnNNLUh2TTBDOXpjanJSQkVnWF93ejlzZTFoU3hSd1BWNk13dWNtN29mVVJMY01XcXRvdENYRmxKZjJndDRnTGM0c0VpbWpsQTQ1X0hLOWhFNnUtMEpSR0plSQ?oc=5</link>
+            <pubDate>Tue, 15 Jul 2025 16:21:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] CIA historian Tim Weiner: ‘Trump has put national security in the hands of crackpots and fools’ - The Guardian</title>
+            <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1CUTF3cXBiQzUyYW5WMjR2SWsyV0lBdEI5V0d0cnV5WGtxU2hRWENGbjlaclp3UlhNS2pZeEFkTzVVcFhueHEwRFAzZjFvUmZRaGNER3pwUTJ3Y3R0VnAxemxNNXoyTTRzcmc1M1RoQzh1ekNn?oc=5</link>
+            <pubDate>Tue, 15 Jul 2025 15:09:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] MLB exploring players taking part in &#x27;28 Olympics</title>
+            <link>https://www.espn.com/olympics/story/_/id/45746510/mlb-exploring-players-participating-2028-la-olympics</link>
+            <pubDate>Tue, 15 Jul 2025 13:47:33 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Dismissals at Justice Dept. Would Bypass Civil Service and Whistle-Blower Laws - The New York Times</title>
+            <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHNGUVZVYkU0bThaQlZzTElmLU9EMTQ3bGswZHE0M09OZlRwSUhnbU9GZ1FTX3NFWVJBWlZPX2szSjFDSGsxTlk5M1o1X1JOLWszYWJGellMVUhsZWQ3QUpxNENuTWtIRHVrYzJ0TW5JU0JaaFYzYXFBaE1CUlRsN19nSnF6T1NETU1BZm1tdXAzQlg0RjJMODlJYTM0Y0d1c1E?oc=5</link>
+            <pubDate>Tue, 15 Jul 2025 13:52:38 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Warren man acquitted of 2024 fatal shooting</title>
+            <link>https://www.yourerie.com/news/local-news/warren-man-acquitted-of-2024-fatal-shooting/</link>
+            <pubDate>Mon, 14 Jul 2025 20:58:53 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Thune explores rescissions amendment deal - Politico</title>
+            <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGtSc0Z6czJwazc2TElnWjdac0RGcFRQWTdGUXYzSXZUYmMwU3QtekN1S3g0LTh2clRlTDJab2JzbFAyY0dFa01VUVNZLXlTekhoWUpUS0JPRTE1Um12TU5kaGk1U3RmWGxWRzN6RWI2dlp4TlRtbDRxMThkSUxyXzFYM3BYbWI0M19kTHdEOXh2aW02TVRxSUhnd09UUWdlcjlfVFRNSFRzZEhv?oc=5</link>
+            <pubDate>Tue, 15 Jul 2025 14:54:09 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NBA] The 30 players you need to pay attention to in summer league</title>
+            <link>https://www.espn.com/nba/story/_/id/45690165/2025-nba-summer-league-top-players-all-30-teams-cooper-flagg-bronny-james-ace-bailey</link>
+            <pubDate>Tue, 15 Jul 2025 10:07:09 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Boil water advisory lifted for Village of Fredonia water customers</title>
+            <link>https://www.yourerie.com/digital-first/digital-exclusive/boil-water-advisory-lifted-for-village-of-fredonia-water-customers/</link>
+            <pubDate>Tue, 15 Jul 2025 14:37:15 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Meadville DA&#x27;s Office investigates after arrest video circulates social media</title>
+            <link>https://www.yourerie.com/news/local-news/meadville-das-office-investigates-after-arrest-video-circulates-social-media/</link>
+            <pubDate>Mon, 14 Jul 2025 21:15:52 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Ex-MLB pitcher Serafini found guilty of murder - ESPN</title>
+            <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOSE9URGtSUGxJQ05XejNLTlhranA1SHpUN2habXROMGsyZEQwS2g5V1oyeWg5NWFoN1lnMnlUWFRSbmpLR3FscXRBWFVNUmgwYjN4R1lPNDlUVUROZ256Q1JBOVVxTEt3U2V6bU5qSk52T3F5cWJzbldUMm1LVWNXdDhYbXlvS29sWFBYQUp5N1ctNTJVRWg3TVl6VEM?oc=5</link>
+            <pubDate>Tue, 15 Jul 2025 14:57:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Restricted swimming issued for Beach 11</title>
+            <link>https://www.yourerie.com/digital-first/digital-exclusive/restricted-swimming-issued-for-beach-11/</link>
+            <pubDate>Tue, 15 Jul 2025 14:45:57 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NHL] Panthers to raise 2nd Stanley Cup banner Oct. 7</title>
+            <link>https://www.espn.com/nhl/story/_/id/45739056/panthers-raise-stanley-cup-banner-oct-7-open-nhl-season</link>
+            <pubDate>Mon, 14 Jul 2025 10:33:00 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] WATCH: Growing and Learning Center students visit the JET 24 studio</title>
+            <link>https://www.yourerie.com/community/watch-growing-and-learning-center-students-visit-the-jet-24-studio/</link>
+            <pubDate>Tue, 15 Jul 2025 17:12:23 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] JES to host President Barack Obama at Global Summit 2025</title>
+            <link>https://talkerie.com/2025/07/09/jes-to-host-president-barack-obama-at-global-summit-2025/</link>
+            <pubDate>Wed, 09 Jul 2025 15:23:00 +0000</pubDate>
         </item>
         
     </channel>
-    </rss><!-- Updated: Tue Jul 15 12:33:08 UTC 2025 -->
+    </rss><!-- Updated: Tue Jul 15 18:23:12 UTC 2025 -->
