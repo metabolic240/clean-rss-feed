@@ -6,105 +6,51 @@
         <description>Filtered national sports and local Erie headlines</description>
         
         <item>
-            <title>[LOCAL] Car of murder suspect accused of killing Wegmans coworker found in Erie</title>
-            <link>https://www.yourerie.com/news/local-news/car-of-murder-suspect-accused-of-killing-wegmans-coworker-found-in-erie/</link>
-            <pubDate>Thu, 31 Jul 2025 19:23:39 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] CCA Women’s DII Tip-Off Classic: Participating teams announced</title>
-            <link>https://talkerie.com/2025/07/30/cca-womens-dii-tip-off-classic-participating-teams-announced/</link>
-            <pubDate>Wed, 30 Jul 2025 20:37:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NHL] Sabres sign G Levi to 2-year, $1.625M contract</title>
-            <link>https://www.espn.com/nhl/story/_/id/45868212/sabres-sign-g-devon-levi-two-year-contract</link>
-            <pubDate>Thu, 31 Jul 2025 11:30:11 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Ghislaine Maxwell moved to federal prison camp in Texas - NBC News</title>
-            <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGo0REFHdUp2Q3BENl96SWRPLUlUODVsYUF0ZjdXQjdxa1JSVEs5VHA1LXQ3NWFGcXA2SE5VZXNpSS1mUVVlR202TFcxR1N1QklHOTdEblRRWGdhUFpIOWlkcGU5cmt0cV9TbklibnVZNkJFMUJiT2JYRHpRTlpKX2JUSWtxZ2VGaGtWSWZZdG1lZ0JCYXZSeFFMWVVGd2lhWnZXaU1ucW5TQzDSAVZBVV95cUxNUGFwUWR2cFVLZWtrXzNONzNCWWJpTnFUZTBKVzN1RlBiMk9nQzJwT1lHMHRmSEEyelJCdXY3S2d2ZnFSVm9haG90WHFUUW1mMzNuUDZIQQ?oc=5</link>
-            <pubDate>Fri, 01 Aug 2025 16:54:14 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Video allegedly shows fatal shooting of Marchello Woodard, protests continue</title>
-            <link>https://www.yourerie.com/news/local-news/video-allegedly-shows-fatal-shooting-of-marchello-woodard-protests-continue/</link>
-            <pubDate>Wed, 30 Jul 2025 22:20:53 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] Yanks release Stroman with Gil return imminent</title>
-            <link>https://www.espn.com/mlb/story/_/id/45880638/yankees-release-rhp-marcus-stroman</link>
-            <pubDate>Fri, 1 Aug 2025 14:14:52 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] AHN Saint Vincent one of top 20 most beautiful hospitals</title>
-            <link>https://www.yourerie.com/news/local-news/ahn-saint-vincent-one-of-top-20-most-beautiful-hospitals/</link>
-            <pubDate>Fri, 01 Aug 2025 16:55:23 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] Browns QB Pickett (hamstring) returns to practice</title>
-            <link>https://www.espn.com/nfl/story/_/id/45880594/browns-qb-kenny-pickett-hamstring-returns-practice</link>
-            <pubDate>Fri, 1 Aug 2025 14:10:45 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] Manfred downplays CBA spat with Phillies&#x27; Harper</title>
-            <link>https://www.espn.com/mlb/story/_/id/45880548/mlb-commissioner-manfred-downplays-cba-spat-phillies-harper</link>
-            <pubDate>Fri, 1 Aug 2025 14:14:52 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Joe Lang named executive director at Erie Humane Society</title>
-            <link>https://www.yourerie.com/news/local-news/joe-lang-named-executive-director-at-erie-humane-society/</link>
-            <pubDate>Fri, 01 Aug 2025 16:44:52 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Kamala Harris tells Stephen Colbert that U.S. democracy is ‘broken’ - The Washington Post</title>
-            <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGx1ODJ5V1AtNmRIM3ZyNU1ldGg3bkVLUDZKengxLVFnanNIQWZsdWZtVlFTQ1ZsZjBjenVON0tVay1MclhOZ1NmRE85akRPbGFHckNCZzB2b1gzS3dVblFkUjdKTFhrMU9rTDFYM3dGOEFzaFNXbmk4M1Z2a2R4dGh2S3Y2dUNjLVFPaHhQMURoUlBhaE9sS3ZYR1Exd3c?oc=5</link>
-            <pubDate>Fri, 01 Aug 2025 14:31:22 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] Solak&#x27;s annual ranking of all 32 NFL coaching staffs: A new No. 1 and No. 32 ahead of the season</title>
-            <link>https://www.espn.com/nfl/story/_/id/45859193/ranking-nfl-2025-season-coaching-staffs-best-worst-coaches-coordinators</link>
-            <pubDate>Fri, 1 Aug 2025 14:00:01 EST</pubDate>
-        </item>
-        
-        <item>
             <title>[NBA] Arenas arrested on illegal poker game charges</title>
             <link>https://www.espn.com/nba/story/_/id/45861931/gilbert-arenas-arrested-charges-illegal-poker-games</link>
             <pubDate>Fri, 1 Aug 2025 08:31:32 EST</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Buffalo man in police custody after allegedly killing girlfriend in NY, fleeing to Erie church</title>
-            <link>https://www.yourerie.com/news/local-news/buffalo-man-in-police-custody-after-allegedly-killing-girlfriend-in-ny-fleeing-to-erie-church/</link>
-            <pubDate>Thu, 31 Jul 2025 21:55:50 +0000</pubDate>
+            <title>[LOCAL] Love Your Block cleanup takes place in East Bayfront neighborhood</title>
+            <link>https://www.yourerie.com/news/local-news/love-your-block-cleanup-takes-place-in-east-bayfront-neighborhood/</link>
+            <pubDate>Fri, 01 Aug 2025 21:00:15 +0000</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Man in custody in City of Erie allegedly involved in New York murder</title>
-            <link>https://www.yourerie.com/news/local-news/man-in-custody-in-city-of-erie-allegedly-involved-in-new-york-murder/</link>
-            <pubDate>Wed, 30 Jul 2025 18:47:55 +0000</pubDate>
+            <title>[MLB] Chourio hits IL, unlikely to return &#x27;anytime soon&#x27;</title>
+            <link>https://www.espn.com/mlb/story/_/id/45881767/brewers-jackson-chourio-hits-il-injury-deemed-more-severe</link>
+            <pubDate>Fri, 1 Aug 2025 20:53:12 EST</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Mayor Schember and Chief Spizarny announce city of Erie Crime Statistics for the first half of 2025</title>
-            <link>https://talkerie.com/2025/07/31/mayor-schember-and-chief-spizarny-announce-city-of-erie-crime-statistics-for-the-first-half-of-2025/</link>
-            <pubDate>Thu, 31 Jul 2025 19:37:55 +0000</pubDate>
+            <title>[NFL] Police recover items at NYC shooter&#x27;s apartment</title>
+            <link>https://www.espn.com/nfl/story/_/id/45882079/police-recover-items-nyc-shooter-las-vegas-apartment</link>
+            <pubDate>Fri, 1 Aug 2025 20:04:09 EST</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Erie Regional Chamber &amp; Growth Partnership announces 2025 Spirit of Erie Honorees</title>
-            <link>https://talkerie.com/2025/07/31/erie-regional-chamber-growth-partnership-announces-2025-spirit-of-erie-honorees/</link>
-            <pubDate>Thu, 31 Jul 2025 13:00:00 +0000</pubDate>
+            <title>[NATIONAL] Live updates: US stock market and global trade partners react to Trump’s new tariffs - AP News</title>
+            <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE15U2tSOGNPTzdvc09ISFVyQkRZeEU5bndvdnNDOGpHSEExX3pqcXlCdnkwNXAwS19OVmFQa2d0VnBrYVNIdDFKVzJ0NFRGem1UMHo2ZEtQdnJBMG5NNDRTZUEyRk9sRUVkM2c?oc=5</link>
+            <pubDate>Fri, 01 Aug 2025 22:39:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Police identify New York homicide victim after suspect was arrested in Erie</title>
+            <link>https://www.yourerie.com/news/local-news/police-identifiy-new-york-homicide-victim-after-suspect-was-arrested-in-erie/</link>
+            <pubDate>Fri, 01 Aug 2025 18:26:25 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] State budget impasse delaying funds for Erie social service agencies</title>
+            <link>https://www.yourerie.com/news/local-news/state-budget-impasse-delaying-funds-for-erie-social-service-agencies/</link>
+            <pubDate>Fri, 01 Aug 2025 22:26:01 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Ghislaine Maxwell, Epstein&#x27;s former girlfriend, transferred to a prison camp in Texas - NPR</title>
+            <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmJfNEM1NkVCdkZMY05sVi1RNlBWT0lNZEFGM0RoM3FmQldQLVlkMWl3aUt0bnp2UFc1c0lPTVRDRC1nRnBRbl96SEdTLWF6Y2dvdm81cUc3Vl9NMVRQeFRQbHlCRDhaamhkczltMzRzdHRsemlaRWZfN1BMLVJFUklCZWNtelhyX0lz?oc=5</link>
+            <pubDate>Fri, 01 Aug 2025 18:22:35 GMT</pubDate>
         </item>
         
         <item>
@@ -114,15 +60,63 @@
         </item>
         
         <item>
-            <title>[LOCAL] Triple Tower Tuesday on August 5th</title>
-            <link>https://talkerie.com/2025/07/29/triple-tower-tuesday-on-august-5th/</link>
-            <pubDate>Tue, 29 Jul 2025 15:49:00 +0000</pubDate>
+            <title>[LOCAL] Anthony Bizzarro and team look to take next step at Bayfront Brawl 17</title>
+            <link>https://www.yourerie.com/sports/anthony-bizzarro-and-team-look-to-take-next-step-at-bayfront-brawl-17/</link>
+            <pubDate>Fri, 01 Aug 2025 22:45:30 +0000</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Coast Guard, local first responders rescue sailboat on Lake Erie</title>
-            <link>https://www.yourerie.com/news/local-news/coast-guard-local-first-responders-rescue-sailboat-on-lake-erie/</link>
-            <pubDate>Thu, 31 Jul 2025 18:17:45 +0000</pubDate>
+            <title>[NHL] Sabres sign G Levi to 2-year, $1.625M contract</title>
+            <link>https://www.espn.com/nhl/story/_/id/45868212/sabres-sign-g-devon-levi-two-year-contract</link>
+            <pubDate>Thu, 31 Jul 2025 11:30:11 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Corporation for Public Broadcasting says it will shut down after Congress cut money - NBC News</title>
+            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQkxHOWdYcDFhcVZ5aXJLR0hheXVCVmozU2sxRmNPYmVYUklLUzJZYWZNMHJ2QTc1QlRwbThrZmo3LU5scjVzVW4zY3ppZkw5ZG1PR3VBSng5a0o4VkdsN2dLbnRNNjFNdGlLNG9ub2N5QktyZ2Q3VmJXTWJIWl9ZUFliaFBVOXJFc2V2N2hZY2lOUHU0WWpGUW1wcF9uY3ZWY05XT05XZnVZZ9IBVkFVX3lxTE9MWTdGd0pfWHczTk42MVQ5ampOcUJaUUttTnJwU0huSmJKSXN4SlF3VFc4T25yQU51dUhsUWxoRk9fQ2RwNWwtN0JwTU1DN1dsMEJmS2ZB?oc=5</link>
+            <pubDate>Fri, 01 Aug 2025 23:44:08 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Trump recalibrates Gaza stance as humanitarian concerns grow - Politico</title>
+            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQNDlIQ0FadWxEX3Btb0ZOQUQ5UTNoVHExWHVyNlpkT1NoMXBLRkhQUk05SFBLbnVBS2hoWXhxNkp6VnhKeGkxUWo5Q3BFdEhKRlFZbUh5SFh2cEdVdnpQWWVJMjhtV05ScjBxTGVFbFJZNDlQc1diY3E0c2l2ejVWcklDbnk2c01FdmtBbk9aYXhlazlTX2hxNmlyNkxhY251bWl3SEtpM0V4SnRzYWdqZnZDTU0?oc=5</link>
+            <pubDate>Fri, 01 Aug 2025 21:36:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Downtown Partnership ends movie nights</title>
+            <link>https://talkerie.com/2025/07/26/downtown-partnership-ends-movie-nights/</link>
+            <pubDate>Sat, 26 Jul 2025 13:17:47 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Anaconda, Montana shooting: Manhunt under way after 4 killed - BBC</title>
+            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rY2xud29EenZHR0VWSm56N21vZkJyYVRYc19HZlBKV19xMXZtSHMtbmQzU3BqeEtFY3ZQVzA2MzFTOFpLR1p6OExvZTRSdDJHRFJQVEE3dVhFZ9IBX0FVX3lxTE1TajRQMzQxMU1LQ3hVRHM4YWNMX2tud2kteFBCcjJoekFKMkhCZzNsVGdLLThTOEJzT3A1ZzVpb2Z3V3dGMl9vRFZWZGt2enlodGdReEY4RzQ4OG9rOGNZ?oc=5</link>
+            <pubDate>Fri, 01 Aug 2025 23:22:27 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Kamala Harris says she doesn’t plan to return to ‘broken’ system of US politics - The Guardian</title>
+            <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNMURGcGZWcHBBV1BxNzNkZ0RScm1iSUNJRGFoaTNyQlh2Rm5Kc2VoOU5PWmNTUjhJNE5zZlMxeHhaNE1RLWtIcDF2NXhRamFUYUQ3SDlsZTlicW5ZdW53b0NDQzJsZmtUNkQ1VnRmOF85LVlKd2hjbVZaakxWdGNrdjViQzc?oc=5</link>
+            <pubDate>Fri, 01 Aug 2025 22:23:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] CCA Women’s DII Tip-Off Classic: Participating teams announced</title>
+            <link>https://talkerie.com/2025/07/30/cca-womens-dii-tip-off-classic-participating-teams-announced/</link>
+            <pubDate>Wed, 30 Jul 2025 20:37:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Trump moves nuclear submarines in response to Russia&#x27;s &#x27;highly provocative&#x27; statement - ABC News</title>
+            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTJSY2l4Z1hDck1Idk1ndWp6TF9Kd1pfc29PSS0xR004Ni1kWTY2ODZfU0lqeFFrWGhKTmRONFBJUXMxTE42U25mZV9ZV1Nib3gzVlFjNzdOSllidUJWU3NLUklqV2Q3VnRQc0x4LXdZR2Y1UnRqOG5NSWVIaGxzN0ZobG15TGt5WkxGaTA4aHBPY1hEQjR3cmMtRHkyR0dNSmpkQVk0TmJtcUVfa0tydFA0SzBnZWpp0gG-AUFVX3lxTFBOTmE1WEd4THlUR0pZOE1ic0dPUUlJUTlZTmFZMHhlLVN6Ni12eWFydDRoSzBNejZWTERkNF8tcDFHVjRhUzBYclNLTTUzWVEtbEk3ZVJ1UkJ4MklWcjVjZ095Vkw2enE1TkN0X0ctTTRuUXV1dk51WlYyRTk3T0ZxLTRJVXczOFMtbmRXR1Fob29YQ2Z6RHlpdTVXVEhvYVJ1Rl9UTWNQRkJ1WW82TG5UUXhNbzJyTmpvOXVYSmc?oc=5</link>
+            <pubDate>Fri, 01 Aug 2025 20:26:15 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Triple Tower Tuesday on August 5th</title>
+            <link>https://talkerie.com/2025/07/29/triple-tower-tuesday-on-august-5th/</link>
+            <pubDate>Tue, 29 Jul 2025 15:49:00 +0000</pubDate>
         </item>
         
         <item>
@@ -132,39 +126,45 @@
         </item>
         
         <item>
-            <title>[NATIONAL] Trump moves nuclear submarines after ex-Russian president&#x27;s comments - BBC</title>
-            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE10WlRCT1NPSVk5Uy11cmdsX3JJZTFUeVdaT1RfckV5X0pTXy1udzEwTWtzYTlQUWJ3T0lNZ0l3UWNZUnl5a05CY2p6d25aYzRJVlZRd0ZJZmp5Z9IBX0FVX3lxTE5Uamp2Vi0zTkhoRDRsWm4yWmVSTzNIaEJ0UkxrcjFkWktvRXJhQ1JQdW1oaHFuelo0ODNGUTN0ZWxiRE1SQWdkVnM1VnFNemFoR2JaZHVEUXBhWGswbWxv?oc=5</link>
-            <pubDate>Fri, 01 Aug 2025 17:34:44 GMT</pubDate>
+            <title>[MLB] Yanks release Stroman with Gil return imminent</title>
+            <link>https://www.espn.com/mlb/story/_/id/45880638/yankees-release-rhp-marcus-stroman</link>
+            <pubDate>Fri, 1 Aug 2025 20:53:12 EST</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Erie man will serve decades in prison after pleading guilty to killing ex-fiance</title>
-            <link>https://www.yourerie.com/news/local-news/erie-man-will-serve-decades-in-prison-after-pleading-guilty-to-killing-ex-fiance/</link>
-            <pubDate>Thu, 31 Jul 2025 16:01:15 +0000</pubDate>
+            <title>[LOCAL] Video allegedly shows fatal shooting of Marchello Woodard, protests continue</title>
+            <link>https://www.yourerie.com/news/local-news/video-allegedly-shows-fatal-shooting-of-marchello-woodard-protests-continue/</link>
+            <pubDate>Wed, 30 Jul 2025 22:20:53 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Corporation for Public Broadcasting, funder of NPR and PBS, says it will end operations within months after federal budget cuts - CBS News</title>
-            <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPNUJ5emRrR3FlbVdNVzhjdXdVRkRnc0lBRFljWjhoMGlFYVR4d212c3NzVFhXY1VFaG1YdlVtYi1pSUdkdnpKS0RjOHdfNk1kbm5jRWVkUVJxX3dlYzFhSUtzaG9MS195YXhjMzNYcDl0cnJZakc0RXpicW90YTQ1Y09SY2RuQXRldU0yd1p5Zi04X3p5RDFacEpBRE8zbXhzM3Fv0gGoAUFVX3lxTE9ZanRTeG5Ca0tURHJrZ29zcXhwZ3RmV3JTXzZGX0FsVVlIVG8wY2hyRGRuZUE1Z0c3N3c4cDVIRW50QkRzbWpJcnIydTUySDNrX2lOVlBwUzZFSkhnX01kTmM0TGxRNXJVSm15eGw5WmRNWDU0c2VocGhkMzV5MjB2MFZ5aXFoY1owekRNbW9PSmxuUER2V3BMRDJud2h4aEpxaDh3d1R6eQ?oc=5</link>
-            <pubDate>Fri, 01 Aug 2025 17:28:00 GMT</pubDate>
+            <title>[LOCAL] Man charged with attempted homicide for July shooting in Erie</title>
+            <link>https://www.yourerie.com/news/crime/man-charged-with-attempted-homicide-for-july-shooting-in-erie/</link>
+            <pubDate>Fri, 01 Aug 2025 19:08:53 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] US offers up to $50k bonus for would-be ICE deportation officers - BBC</title>
-            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tV3Fwa0VDRXhndFJWQ0ZCeE1oZTMwUm04ZklkaTN4V1N3aTdFNHdLNFc2ZnBHeVVJSzd3aVJlYVFMT0FmUHBCNHZidzgxLWtPRjJ4U2VQRHBad9IBX0FVX3lxTE9DTTR4Sm9jazQwdnFjRzNkVk5YVU5ZV2t2QnJfUnJjenJQc3BLeGdzYTVKQXdBdWtYZFFyazRqNEdTNl82UkNka0FNMi1LdGZ0MjN1c1JmRDlLdEVBQk5R?oc=5</link>
-            <pubDate>Fri, 01 Aug 2025 16:48:32 GMT</pubDate>
+            <title>[LOCAL] Peach Street Dunkin closing temporarily for remodel</title>
+            <link>https://www.yourerie.com/news/local-news/peach-street-dunkin-closing-temporarily-for-remodel/</link>
+            <pubDate>Fri, 01 Aug 2025 20:06:07 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] U.S. envoy Steve Witkoff and Ambassador Mike Huckabee visit Gaza aid distribution site as humanitarian crisis worsens - CBS News</title>
-            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQdGlCVUU4bUp3UExqeFJ3MkNvdS1NWmFmSWJWT2lkS3J5YzBheUQzcEJPWmhsbUxBOUtoTnhDTWVPSXY2VjM4ZUVnSmV1cmlfcmxHZ0VzdkVpS2lxbzFZTFVZWjZxQU1NTnc0ZnVnaldSaDFaSEtETmxxdHlqZ0tSUmlwaFMtUlZIdFFDSWlkWVFfazloNGJ3bVh5OURxTnN4QjNUNEJNQlAyZlh3dTdnVEJaMk7SAboBQVVfeXFMUG1yUkdjZ3o4VjEwcDNlZkhnQVI1S0d1VjJPM19zU18tcDFHWmtQV3JLOHZMX0pJR0owWllaQXZRbjhDVEFUNlhUQTBVanUwMmdKUU84TjlhYldSY2luaE0wTXdNa051RUxERHQ5Q2I3VjFsTEpfQ0tFbUZlSHdMQXlrZW9rZXo3ODNQaEFWelp0Qk5JV2hNdldIbEJHWm1MQV9jeHBwUDZvYnV0bElGbDlLSmx2d29LdkZn?oc=5</link>
-            <pubDate>Fri, 01 Aug 2025 14:36:00 GMT</pubDate>
+            <title>[LOCAL] Erie Regional Chamber &amp; Growth Partnership announces 2025 Spirit of Erie Honorees</title>
+            <link>https://talkerie.com/2025/07/31/erie-regional-chamber-growth-partnership-announces-2025-spirit-of-erie-honorees/</link>
+            <pubDate>Thu, 31 Jul 2025 13:00:00 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] The full list of Trump’s tariffs – from India to Taiwan - The Guardian</title>
-            <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbHJTaEJPWEV1eHlLaGU5eGxkV1p2eXVoVTNSQnFWSlpyN1NsZzNOeXd2bzl3d0N1ZGJQYkFsSGp5ZkhIbV9hUDF3dmNnV3JuZ0o4dzI4aHVpZlRPR2doVTlsbExURzMyLUh2YWpUelVZQ1VHYlh4cVhPNDBxTS1aUjRwVVpDM1dHcTBNN3JOZlcwMENENEpjN0pkQVRJVFpLVnpGc0t0c3RvTTg?oc=5</link>
-            <pubDate>Fri, 01 Aug 2025 16:39:00 GMT</pubDate>
+            <title>[NATIONAL] Baby born from decades-old frozen embryo thought to be longest storage before a birth - CBS News</title>
+            <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1NDU283Rk9OanhwaV91UzJNLVBub3BRY0JmblpvazlTNzQ3eHNMRFhVRzhmenNqOG5aSENqZkJvbHJoNzN2eWtVUFpRX1BMZk9xakpzU1hLZXUxQ0xOcjZtejZTamZiNXoybFZPQV84RHJ3cFJ5OE9fQTRQMWxoQmljcFNoZ2RHLTQ1YmVKaGVNRnNDbWtQLdIBngFBVV95cUxOVVRpOWwzazUxNmdlbFNsZUxJZmdkOEVRcXlfWUhFSW8yWmc3LWp3UDJKZXdCU183OGN2Q0QyMl9vLWI4eUZMN2FtdTRadm5hc2dwS1czN3NNeDR3ZTAwU0NXcnZfUkdoU3hrN3REYkNVSVFIUWZBaFpOQk05TUgzTm5OVWQ2VUVYVDQ1c0xVWlJTdGQ2RnpjZFdzOVF4Zw?oc=5</link>
+            <pubDate>Fri, 01 Aug 2025 20:04:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NFL] D.C. Council approves Commanders&#x27; stadium deal</title>
+            <link>https://www.espn.com/nfl/story/_/id/45881280/dc-council-approves-commanders-stadium-deal-return-district</link>
+            <pubDate>Fri, 1 Aug 2025 20:04:10 EST</pubDate>
         </item>
         
         <item>
@@ -174,15 +174,15 @@
         </item>
         
         <item>
-            <title>[NATIONAL] Nominations talks heat up as Senate hopes to advance spending bills - Politico</title>
-            <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNNVl5NkdkcFlka2tDWFBOV21lVzZjdFBPV2V5QmIzU1d1NDRjTnlyVFFoYXR4OF9sMmVhU3ZTODR1TElkbjI1QUZSSnQweTEtbUVLUmVGV2RMNlFmb2lYaGhTVlhlWmlxMS1kM0tWU1JqWm5vYXlEWTV1TnlfajVYTXlKakRrVWhEb25jcGhHOWFSWWVpMjhPeFpGNllYNDF4Y3E3MmRjYXFlQ0t2eVptc0xyclZ6U2VkMGkxVV9DdnNwdDZZZFE?oc=5</link>
-            <pubDate>Fri, 01 Aug 2025 17:23:21 GMT</pubDate>
+            <title>[NATIONAL] Opposition leaders say ‘democracy in El Salvador has died’ after scrapping of presidential term limits - The Guardian</title>
+            <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOSjJDMzFuNUZ3eGJfdS1jUURLem9SaVo3cjVVVGdzYm5NaHRVRDdKVGJJRmc1S0V1WFBVVG1aSEczbnZnRkNsaU96dHNCOGxVWTdGcGctZ0pTU2MxZXR5RXAwT1NWckFaclZ3TjQycHdXN1dWN1M0VXhqQTNZVVd2YVF1YkU3SzZ3NHVQdVI1Yzk4cG8?oc=5</link>
+            <pubDate>Fri, 01 Aug 2025 13:45:00 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Canadian wildfire smoke brings poor air quality to Midwest as flood threat looms in Carolinas - ABC News</title>
-            <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTNzMHhMaldUd0kxTTFGWFlOdDI0djY3dW41LUZreUJkQW8zUUxDSGhRWWw2dm96NjY0bUE1bV96eUU2ZHlkeGtkT0lHOWR3cTdkd3JMVExXb3BjZC1Mc0pMd01uOUg0UE0xMFFoRTlNODh2OUFkam44X195RjMtcnBHX3NmdEFNS1VjZ2ZuZjU2cUtHaUZSQUdwWEpLX2pI0gGmAUFVX3lxTFBvWmJ1YmxtT1lGWk9tTjZ0ckJuRFk2cmtUejNSWHJUQTRGOXc5ZU1Hem9fOURaSDJWbWZZMVplQjM0TlBETWYteUJNMVVIcU02MDBkS09Zc205U0E4Q0hUb1BDUXJNT3M1b0U0N1M0eVVTTF90bzZHb1FOYjBfQV9DRnc3NWhhVDY1dW93anFxYmVDNG1zX2lUTngtQ1lIRGJtb1ZxdkE?oc=5</link>
-            <pubDate>Fri, 01 Aug 2025 13:20:15 GMT</pubDate>
+            <title>[LOCAL] Mayor Schember and Chief Spizarny announce city of Erie Crime Statistics for the first half of 2025</title>
+            <link>https://talkerie.com/2025/07/31/mayor-schember-and-chief-spizarny-announce-city-of-erie-crime-statistics-for-the-first-half-of-2025/</link>
+            <pubDate>Thu, 31 Jul 2025 19:37:55 +0000</pubDate>
         </item>
         
         <item>
@@ -192,16 +192,16 @@
         </item>
         
         <item>
-            <title>[LOCAL] Titusville man indicted on child exploitation charges</title>
-            <link>https://www.yourerie.com/news/crime/titusville-man-indicted-on-child-exploitation-charges/</link>
-            <pubDate>Wed, 30 Jul 2025 18:04:27 +0000</pubDate>
+            <title>[LOCAL] Hundreds of dead fish wash up at Shades Beach Friday</title>
+            <link>https://www.yourerie.com/news/local-news/hundreds-of-dead-fish-wash-up-at-shades-beach-friday/</link>
+            <pubDate>Fri, 01 Aug 2025 22:43:16 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] NYC and NJ live weather updates: New York City, Tri-State area hit with heavy rain, flash flooding - ABC7 New York - ABC7 New York</title>
-            <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQNUI4TUNQQ3ZzanlNMjNsYWpmdi0yX2lBS2ppZmw0UlBPSE1weG1UZVdxYzlsZGtaRzZhaWFTS2xfRm1EU2dtczcwaXFzNEM0aVBId1M5NmlpQzJ3M1NYQWFzT05GMkRhWk9GSG8wNWlhTm5pZTQ1cUNKMTBkaFhlN1kyOGpaMWxWTzc5MFJxaDk1ZlRPUDYtVkFtaE42dnVZWENvR0RuZkRhNGNTb3RFcURjVklBamtacXNhaGdZMlJqd2lzYUxV?oc=5</link>
-            <pubDate>Fri, 01 Aug 2025 15:05:00 GMT</pubDate>
+            <title>[NATIONAL] Senate passes first funding package ahead of shutdown cliff - Politico</title>
+            <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR3dzSlBzVGljQ2I0TXBrUTRwaWFUUnJ3MnNmS3JYQXpzZVN5QmNaZFl4YXZvSTZVcFNSVlZNdnJHcXBhelpjTjJjM1NZUWNPOE1IT1dBWVpaYW1uV2ptZHJWZEF2WWZwczNucGh6b2FNYmkzendsVjBsbEhCTG5yLXBpa1d2elJKQnVlSzlXVkZUTFdsTm9MX1UtM1ZYWGs5ZDc4OGFsWHZvdDduc0ZrYmltV1o0VTdXWEk4?oc=5</link>
+            <pubDate>Fri, 01 Aug 2025 23:47:00 GMT</pubDate>
         </item>
         
     </channel>
-    </rss><!-- Updated: Fri Aug  1 18:22:37 UTC 2025 -->
+    </rss><!-- Updated: Sat Aug  2 01:16:45 UTC 2025 -->
