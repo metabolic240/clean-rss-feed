@@ -6,117 +6,27 @@
         <description>Filtered national sports and local Erie headlines</description>
         
         <item>
-            <title>[LOCAL] Civil rights attorney Ben Crump speaks on shooting death of Marchello Woodard</title>
-            <link>https://www.yourerie.com/news/local-news/watch-jade-leah-burns-live-at-the-ben-crump-news-conference-regarding-marchello-woodard/</link>
-            <pubDate>Thu, 07 Aug 2025 16:52:32 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] St. Jude pastor placed on administrative leave following DA investigation</title>
-            <link>https://www.yourerie.com/news/local-news/st-jude-pastor-placed-on-administrative-leave-following-da-investigation/</link>
-            <pubDate>Thu, 07 Aug 2025 20:03:34 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] State police asking for help identifying driver in deadly July hit-and-run</title>
-            <link>https://www.yourerie.com/news/local-news/state-police-asking-for-help-identifying-driver-in-deadly-july-hit-and-run/</link>
-            <pubDate>Thu, 07 Aug 2025 00:23:21 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NBA] Celtics sign coach Mazzulla to multiyear extension</title>
-            <link>https://www.espn.com/nba/story/_/id/45926048/celtics-sign-coach-joe-mazzulla-multiyear-contract-extension</link>
-            <pubDate>Fri, 8 Aug 2025 13:48:26 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NHL] Mammoth file lawsuit against bag manufacturer</title>
-            <link>https://www.espn.com/nhl/story/_/id/45921692/utah-mammoth-files-lawsuit-dispute-bag-manufacturer</link>
-            <pubDate>Thu, 7 Aug 2025 16:24:01 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Texas Democrats head to California as Republicans warn of more escalations over walkout - AP News</title>
-            <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPN21MQTY3cFRpbFpkM2I3OU8ySEVUN1ZMRC02R3pjalZoN0NyT25rbWZ4dlprOXAzY3FNTVlTY0pUYzFHdkVrZHM2dTVOSVhtYkhmRFRpS05vTjluSm1kd3JaYThXWmU5c0hsejVWbnJieUp5R0hRVVN4bFAzT2FZMzB4QU9vd3VsWnNOb2J6MHFsaTNlUWdLZWc3T1A5aVM4RlE?oc=5</link>
-            <pubDate>Fri, 08 Aug 2025 15:49:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] Barrier-breaking MLB umpire Pawol &#x27;ready to go&#x27;</title>
-            <link>https://www.espn.com/mlb/story/_/id/45922054/pawol-ready-go-ahead-breaking-mlb-umpire-barrier</link>
-            <pubDate>Fri, 8 Aug 2025 08:13:56 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] Texans&#x27; Ward arrested in relation to June case</title>
-            <link>https://www.espn.com/nfl/story/_/id/45923506/texans-jimmie-ward-arrested-second-june</link>
-            <pubDate>Fri, 8 Aug 2025 12:05:11 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] ‘Hopeful again’: AHN doctors help Erie woman become one of first in the U.S. to receive newly FDA-approved genetic therapy for rare form of ALS</title>
-            <link>https://talkerie.com/2025/08/05/hopeful-again-ahn-doctors-help-erie-woman-become-one-of-first-in-the-u-s-to-receive-newly-fda-approved-genetic-therapy-for-rare-form-of-als/</link>
-            <pubDate>Tue, 05 Aug 2025 16:30:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NHL] Keith Tkachuk on Matthew, Brady, Olympic gold and his Hall of Fame snub</title>
-            <link>https://www.espn.com/nhl/story/_/id/45909843/nhl-ea-sports-keith-tkachuk-matthew-brady-olympics-hall-fame</link>
-            <pubDate>Fri, 8 Aug 2025 07:45:44 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Canyon fire explodes to nearly 5,000 acres; thousands evacuated in L.A., Ventura counties - Los Angeles Times</title>
-            <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE1FRWtQMG90UTlVcDJGQWp5Z1o3Zm9TM3FsaUlqUWZhamg4M1ZkYlFpQW5iTXFvYUhaTUQwMmdZUXNwUks0UERPaHctcEI0TEVtTlVZV3VZWmNJUFNJY1V4bkV2M2dCa0lWbXNfX3hyc3AyUE9uQkFIMg?oc=5</link>
-            <pubDate>Fri, 08 Aug 2025 15:28:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Edinboro data rack manufacturer acquired by global supply company</title>
-            <link>https://www.yourerie.com/news/local-news/edinboro-data-rack-manufacturer-acquired-by-global-supply-company/</link>
-            <pubDate>Thu, 07 Aug 2025 21:38:54 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Even Republicans have questions about Israel&#x27;s plan to occupy Gaza City - Axios</title>
+            <title>[NATIONAL] Even some Republicans are questioning Netanyahu&#x27;s plan to have Israel occupy Gaza City - Axios</title>
             <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPZHBiclZ1UE5kSktPVTU5aDNmRHk3UFRYdWw1R2xiVmExS2ZVYS01Q1haSWRteGZMZ0xMVFRpbWxtbUZNN3EwS21hOWctVVdBb3VucWhxc19JUldYTkVMaGVYbHJqZVFLcEVjQUVPTUQ0Sm92V0FWY2JwVk5JMDUyRUFDam56VjQ?oc=5</link>
             <pubDate>Fri, 08 Aug 2025 15:50:55 GMT</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] LECOM Health breaks ground on Colonial Family Pharmacy on Wattsburg Road</title>
-            <link>https://talkerie.com/2025/08/04/lecom-health-breaks-ground-on-colonial-family-pharmacy-on-wattsburg-road/</link>
-            <pubDate>Mon, 04 Aug 2025 21:42:00 +0000</pubDate>
+            <title>[NFL] Follow live: Shedeur Sanders makes NFL preseason debut vs. Panthers</title>
+            <link>https://www.espn.com/nfl/game/_/gameId/401773018</link>
+            <pubDate>Fri, 8 Aug 2025 20:35:32 EST</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Four people rescued from Lake Erie after boat flipped</title>
-            <link>https://www.yourerie.com/news/local-news/four-people-rescued-from-lake-erie-after-boat-flipped/</link>
-            <pubDate>Fri, 08 Aug 2025 16:15:20 +0000</pubDate>
+            <title>[LOCAL] Crawford Co. man attempted to steal vehicle, threw brick at trooper: Complaint</title>
+            <link>https://www.yourerie.com/news/crawford-co-man-attempted-to-steal-vehicle-threw-brick-at-trooper-complaint/</link>
+            <pubDate>Fri, 08 Aug 2025 21:51:37 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Three more victims of 9/11 identified by New York coroner&#x27;s office - NBC News</title>
-            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdTV0ZE44Tnp0aDNKRnBweVk1N2VwNDk3bXRVbnJsNkZ4ZW1jdjdTOHc4WHo1aEVZRkNNZVpvSlFadkNoWWRtM3dKYVVVWmRtYlJKQVRmejBoYmdSaXZZWTJ4cWNQUFEwWjIxc0J0ZWVIMjJrRkZFbDFFbE5yWFZyZEJPMkFlTHlmUDVHNFBjM1lzQmwxSGNheG5VYXNObGZFUGpqV2pjYlRiUdIBVkFVX3lxTE5UYzNxYnBIa3hrMFp2Z283bVgxMHdHbExtb2tmS3BJLW9qWmN4eC1vakpEYmRxNXRyQ3FSeGhOd0FmWjk4V2lxSklQcWZhZlZfWWIxbXdB?oc=5</link>
-            <pubDate>Fri, 08 Aug 2025 02:52:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NBA] It has never been tougher to build an NBA dynasty: &#x27;You literally can&#x27;t mess anything up&#x27;</title>
-            <link>https://www.espn.com/nba/story/_/id/45923410/never-tougher-build-nba-dynasty</link>
-            <pubDate>Fri, 8 Aug 2025 09:09:10 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] Skenes allows career-worst 7 hits, still blanks Reds</title>
-            <link>https://www.espn.com/mlb/story/_/id/45923813/pirates-skenes-allows-career-worst-7-hits-blanks-reds</link>
-            <pubDate>Fri, 8 Aug 2025 08:13:56 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Waterford barn a total loss after fire</title>
-            <link>https://www.yourerie.com/news/local-news/waterford-barn-a-total-loss-after-fire/</link>
-            <pubDate>Fri, 08 Aug 2025 15:17:23 +0000</pubDate>
+            <title>[NATIONAL] Canyon fire forces thousands to evacuate; at least two structures burned - Los Angeles Times</title>
+            <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE1FRWtQMG90UTlVcDJGQWp5Z1o3Zm9TM3FsaUlqUWZhamg4M1ZkYlFpQW5iTXFvYUhaTUQwMmdZUXNwUks0UERPaHctcEI0TEVtTlVZV3VZWmNJUFNJY1V4bkV2M2dCa0lWbXNfX3hyc3AyUE9uQkFIMg?oc=5</link>
+            <pubDate>Fri, 08 Aug 2025 21:48:00 GMT</pubDate>
         </item>
         
         <item>
@@ -126,15 +36,33 @@
         </item>
         
         <item>
-            <title>[LOCAL] Erie Police prepares security protocols ahead of CelebrateErie 2025</title>
-            <link>https://www.yourerie.com/news/local-news/erie-police-prepares-security-protocols-ahead-of-celebrateerie-2025/</link>
-            <pubDate>Thu, 07 Aug 2025 21:56:07 +0000</pubDate>
+            <title>[NATIONAL] Trump Says He Will Meet With Putin in Alaska Next Week - The New York Times</title>
+            <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2VUYnl0VDhqT1NsaEpnaFZQanI5M0J4bmNHc0xiMDNFQ1I2SjN2T3EzWE96ODhCV21jbkc2MXhXWjBGV1VvZzV5ZDFCTktQYVJITHVNT1B2cV9oZmtrd1dCWHNmZ3hxRHZfcnFBVUM1dEM5Mm80Yml6N0t5MXRETGpJcw?oc=5</link>
+            <pubDate>Sat, 09 Aug 2025 00:44:45 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Trump Escalates a Fight Over How to Measure Merit in American Education - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOUTk4M1AyUzVMX1o3M3pTSmJPMGZmS3NKNC1kUGlzcDc3UWU2NWd3SlFrNUVTN0swc3pMalRralR2WlhoWnU0eFVhM0UxNnRTdkJxSEpKeUdnUDlJemZFVUxIMGxZeUVuTHJ5SG5ZNHluSnVFWFhJRUtMTFBrV0F5c3g2eXFnVE4zSFE?oc=5</link>
-            <pubDate>Fri, 08 Aug 2025 09:02:16 GMT</pubDate>
+            <title>[NBA] NBA&#x27;s new financial rules threaten dynasties: &#x27;Harder choices&#x27; for top teams</title>
+            <link>https://www.espn.com/nba/story/_/id/45923410/never-tougher-build-nba-dynasty</link>
+            <pubDate>Fri, 8 Aug 2025 18:56:49 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NHL] Keith Tkachuk on Matthew, Brady, Olympic gold and his Hall of Fame snub</title>
+            <link>https://www.espn.com/nhl/story/_/id/45909843/nhl-ea-sports-keith-tkachuk-matthew-brady-olympics-hall-fame</link>
+            <pubDate>Fri, 8 Aug 2025 07:45:44 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] EPA terminates federal union contracts, effective immediately - Federal News Network</title>
+            <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkRldGhVNDZaaUhwd3Z6eEx3OEhKQmlwVUx6X0c5bXVEOUVxeGhsbHRRdTJsZElYWTUtRmRYT3lDVHJLYlVBZjJUR0YyeTVlT09oaE1Uanc5NXdUZjY4NHpNMlNHQjJxTmlOay1XZmR6NUk0UEplMU11RVJHS0FReld0M3NqLVBEcUVaS3NLMGptMXFoaENxY3dTQ3VOZmJhdGFrcjFubGVrbzQ?oc=5</link>
+            <pubDate>Fri, 08 Aug 2025 22:22:08 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Erie City, Davis Admin. clash again over vacant tiny homes</title>
+            <link>https://www.yourerie.com/news/local-news/erie-city-davis-admin-clash-again-over-vacant-tiny-homes/</link>
+            <pubDate>Fri, 08 Aug 2025 22:02:48 +0000</pubDate>
         </item>
         
         <item>
@@ -144,9 +72,51 @@
         </item>
         
         <item>
-            <title>[NATIONAL] Mexico’s President Denies U.S. Will Use Military in Her Country - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQOFlVUnNaekYySVVpdTBDaEpRTE9BSWpSN0N2aWFpRG85RDJFdWtXWEExcWJHRFYyaUhsN254ZGJWZUljZjBKOFRUSmtRQTRjeWljRnhZVVJybGNhdUQ0SjJsS3RfdmJNQzgxUVpxdVFtSkVKdzk0bUFycVVHMUUxT1M2MV9Wb3RtWXQ1MA?oc=5</link>
-            <pubDate>Fri, 08 Aug 2025 15:31:30 GMT</pubDate>
+            <title>[LOCAL] ‘Hopeful again’: AHN doctors help Erie woman become one of first in the U.S. to receive newly FDA-approved genetic therapy for rare form of ALS</title>
+            <link>https://talkerie.com/2025/08/05/hopeful-again-ahn-doctors-help-erie-woman-become-one-of-first-in-the-u-s-to-receive-newly-fda-approved-genetic-therapy-for-rare-form-of-als/</link>
+            <pubDate>Tue, 05 Aug 2025 16:30:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Waterford barn a total loss after fire</title>
+            <link>https://www.yourerie.com/news/local-news/waterford-barn-a-total-loss-after-fire/</link>
+            <pubDate>Fri, 08 Aug 2025 15:17:23 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NHL] Tkachuk: Could miss 2 or 3 months with surgery</title>
+            <link>https://www.espn.com/nhl/story/_/id/45927329/matthew-tkachuk-miss-2-3-months-surgery</link>
+            <pubDate>Fri, 8 Aug 2025 16:15:18 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Four people rescued from Lake Erie after boat flipped</title>
+            <link>https://www.yourerie.com/news/local-news/four-people-rescued-from-lake-erie-after-boat-flipped/</link>
+            <pubDate>Fri, 08 Aug 2025 16:15:20 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] LECOM Health breaks ground on Colonial Family Pharmacy on Wattsburg Road</title>
+            <link>https://talkerie.com/2025/08/04/lecom-health-breaks-ground-on-colonial-family-pharmacy-on-wattsburg-road/</link>
+            <pubDate>Mon, 04 Aug 2025 21:42:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] 1st-pitch bets face possible Ohio ban amid probe</title>
+            <link>https://www.espn.com/espn/betting/story/_/id/45927585/ohio-regulators-weighing-ban-first-pitch-wagers-other-prop-bets</link>
+            <pubDate>Fri, 8 Aug 2025 20:13:16 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] EMTA to host annual Pennsylvania Bus Roadeo</title>
+            <link>https://talkerie.com/2025/08/07/emta-to-host-annual-pennsylvania-bus-roadeo/</link>
+            <pubDate>Thu, 07 Aug 2025 13:02:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Peninsula Drive construction creating tough conditions for cyclists</title>
+            <link>https://www.yourerie.com/news/local-news/peninsula-drive-construction-creating-tough-conditions-for-cyclists/</link>
+            <pubDate>Fri, 08 Aug 2025 21:16:37 +0000</pubDate>
         </item>
         
         <item>
@@ -156,33 +126,27 @@
         </item>
         
         <item>
-            <title>[NATIONAL] New suspicions revealed about Australian mushroom triple murderer Erin Patterson - CBS News</title>
-            <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQbklKRGlaS3VjREVPZVhPWE0ycjJiRHVNeFlld2VoOEZDTkZjZlVXVG5LMG4yUU4tbV9DRXR2ZzJ6VUNVM0hFYUVPbmhYNXJpZTVTUklqSUt3MUR3MnkxTHRxNk5Pam53N2htdUlqVUR0NkJXT2x2cEhrZjRjTHpwNjZhdDhWUkN5MHMwS29tNDhNZjdVSEQxWFVzNXpORTBpblpLRnl5azZtRFJnYXJFUjl5WdIBuAFBVV95cUxPUzZXbHBmTEhuUmN3M2MtS0VlUjZyTTJJQWtmZGx5cE1KQ19TTi1heGs3TFZjTzZ2MWw2Vkd3Wm0zOFhmOEVLeWJKN2FfcDdpemM3Rm9MLVdodW1LSWhNbS0yV2hUb2lBa0lMRmlhckVOVEZKUnpxdTRrbEdJaUlGOW5CRVZodlV1QU5pUC1qaUVRWWUyUDk4b1VyZW1fQnlKbDBla242MUVEOFVXX3FZNEVROHppdXNh?oc=5</link>
-            <pubDate>Fri, 08 Aug 2025 08:34:00 GMT</pubDate>
+            <title>[NBA] Sources: Warriors-Lakers highlight opening night</title>
+            <link>https://www.espn.com/nba/story/_/id/45927979/rockets-thunder-warriors-lakers-open-season</link>
+            <pubDate>Fri, 8 Aug 2025 18:12:17 EST</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] US and Russia Plan Truce Deal to Cement Putin’s Gains in Ukraine - Bloomberg.com</title>
-            <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPV29ITlpKbWc5X0d6WjRoRDBaSHByc19RSC12cll4bXc4eVl4X2tmQUZSTjVkQ2RCS1NiRVlaMjAwNTNfR2xQb2VWb1ExUXZvd2pwY0VwV0tRdjJ2QjRQaTl6Tk93OVM4SVB1bTk2Tl9BdE1SR1dhZGpwYlJRMkVUbHdUQ2ZzWWplWEJ4cUZES0FVdkxqUFpMMUswcE9oWmhJQnhrVWpKQ0kzODlrMmRna3BkVWk4dw?oc=5</link>
-            <pubDate>Fri, 08 Aug 2025 14:08:47 GMT</pubDate>
+            <title>[NATIONAL] Trump Wants UCLA to Pay $1 Billion to Restore Research Funds - Bloomberg.com</title>
+            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1ZNU3ZjcW54YS1aQXBMSVQ2bmtNN05ldl9ETm1JRHJtbzhGaFAtYWZjSjNBbldHVW0xTFJPTWVvZXdFSE1xZ0xfLWllNU45cFplYkFiRTM5dDJCRkQ3UFdYSnBnRmRYN1VBWl9qQURRbmpTdExia1R1M2UweWdCNjRubUdHVWlnekdEZmctSjAwNlRpWmJKZUhoT05uMzVrTkdqQVdpX0pjMW93Sk1GWg?oc=5</link>
+            <pubDate>Fri, 08 Aug 2025 22:30:10 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NFL] Sources: Colts&#x27; Richardson might return Saturday</title>
-            <link>https://www.espn.com/nfl/story/_/id/45926079/sources-colts-anthony-richardson-return-soon-saturday</link>
-            <pubDate>Fri, 8 Aug 2025 12:05:11 EST</pubDate>
+            <title>[NATIONAL] Officer injured, suspect dead in shooting near CDC headquarters, Emory University campus - ABC News</title>
+            <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQWlVaVy1hTk5qekdTNXdKRHNGS3NSMjlpbm9EZ3JBc3ZkeS1xVTM4OVZwMHFoRnJGdkcyN041QXhNSHkzOUlfNHNBSU9xOUthNHhUUjByak9jSGZJaFN4c1g3ZTBlWC1iaE9zZ2o5UkJIMXlpRm1pVFUybDY2WVpFUUpKNWszTXhCMTBIMHpadk1TZVpzSFRETU1sMzZFSmRrZUs00gGoAUFVX3lxTE56bEJiY1l4Z2s3SG9EMl9iaXlKREFfSUJqZzFuLVpuWi1GY3RNVWNkTmNMQk1iLWdNZzJMRnJZT1NhWTBwbUlkTjctdGlnSmNpQm1vTWhGZFdHcV9GMjJwaExBWVB4SWxlTUl0T1N2UGRmSFIwVmhQZWtvbzJTMXQyUmxBdkxBajl1RUlTNTI1NDRCS1FRTGVPMHh3YXlyOXQ2ZTZud2w4cQ?oc=5</link>
+            <pubDate>Sat, 09 Aug 2025 00:15:01 GMT</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Erie man sentenced to life in prison for 2023 revenge murder</title>
-            <link>https://www.yourerie.com/news/local-news/erie-man-sentenced-to-life-in-prison-for-2023-revenge-murder/</link>
-            <pubDate>Thu, 07 Aug 2025 22:47:17 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Trump warns courts against knocking down tariffs, says duties are &#x27;huge positive&#x27; for stock market - CNBC</title>
-            <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGtjM3MtYTNCS2xmM3NDbGZUajMtVG5lZmdEeUZSZkl1M045YnRaMFpNZklUMnRVdDhrQTVhcnBRdERiRUdUU3NRa2tCNFJTdUI5NmVFUmRqNnBCa2NIeXN4Yk5RWGlQQVVSOGhvb3k5ZVVmdlJQclJHaS1VeEtqQWdxa2p4Tkgzcks0c05NemE3TW1oSHhpNlZXN2FRajhaVEpDcmU3Yl9WU19EUXpNT29FaDduczg1YllEeDFWRTRrY2VBZl9BdnotZjDSAdIBQVVfeXFMTl8xS2RlSmpiUEgycnZncnJqOXFLZFA3SE1kZFRYcXYyNzQ4V1ZmanA2N24wckhMTWotWmdEVW4tY0s3Z1V4WUhDVXRZb0hUa3R2UEtqeDdEX1ktSXdxYkxHMXd2b01OSUFBTU1DOXZfcGpySFlqbFlTSWF3R1hCSG1jeXZyTHZ2UC1LZjF4eHVIVE5Md05GeHRTUEllbDVfeGtTS2RrS1JXbkd6NFVqRmRRWWlhYkg4TVNEck4yNElFTGFUd2VBbTFsdDBJakttUkZ3?oc=5</link>
-            <pubDate>Fri, 08 Aug 2025 15:10:24 GMT</pubDate>
+            <title>[NATIONAL] James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 - The New York Times</title>
+            <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPejV2dW9iREpRS1BqNWVudENBcTJtcGpCN2FOaHBkQk5MdzlueGlRSXBnQXFDWm8wdGZrdkFVelVrS2NnOGUycWRiOEcxTk9SOFlhdW9kN0VQMkxwRm9mQk9pLXdNZGRKdkNqWlN2V09idlBhN25YWW4tNGxteHZ4Ri13?oc=5</link>
+            <pubDate>Fri, 08 Aug 2025 23:11:22 GMT</pubDate>
         </item>
         
         <item>
@@ -192,16 +156,46 @@
         </item>
         
         <item>
-            <title>[NATIONAL] Justice Department launches grand jury probe of N.Y. Attorney General Letitia James - NPR</title>
-            <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOQUNrajI4MkFNemVZWjRCUTMzT3lRX1Q5c3YzUXFVeGxVbmRvY1N5cjgzN0c0OWpSNEl4WkI3VkFKblJia2M2bGM3cmVEdk44Ulg0U0szNFNQTm5vdG8zLVE2U3hNVzFoZHBiUnprYm54d2JSWXp3WjBKeF8tSTdCQi0zVmRDeUhka1lWbTA1TEhpeXlab0lB?oc=5</link>
-            <pubDate>Fri, 08 Aug 2025 16:32:54 GMT</pubDate>
+            <title>[NATIONAL] Montana mass shooting suspect captured after weeklong manhunt - The Guardian</title>
+            <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQUDFVM1VhT2tGbHp5ZGVwRkg1NjhwOVo5MGx2ZEVJcWpCMWlrWF9TMVZDU2pNYndrckF0SnNGeUkxQkxpNUF0d1c1aFVKXzdGbnQtdHBGUWZOMS1VMTVBMURYNGJFUVpuVVpqTmZhZkRuUFdUZUJzVFpURUFJSUFNYzRqNTdxMm5ZcWZjRmN2cw?oc=5</link>
+            <pubDate>Fri, 08 Aug 2025 22:30:00 GMT</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] EMTA to host annual Pennsylvania Bus Roadeo</title>
-            <link>https://talkerie.com/2025/08/07/emta-to-host-annual-pennsylvania-bus-roadeo/</link>
-            <pubDate>Thu, 07 Aug 2025 13:02:00 +0000</pubDate>
+            <title>[LOCAL] St. Jude pastor placed on administrative leave following DA investigation</title>
+            <link>https://www.yourerie.com/news/local-news/st-jude-pastor-placed-on-administrative-leave-following-da-investigation/</link>
+            <pubDate>Thu, 07 Aug 2025 20:03:34 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Trump Administration: Latest News and Updates - The New York Times</title>
+            <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE13Q2lERGFvTnRBVnNDSHZ5LVltY05feTRJSXZPcUVjbGJ5VVUyUHZnaTNVczJ2SG1mcFlteHlFTExxelNmTTlpNzBnSU43ZS1pWEhEcWFmdnE3S283ZmtnVDZHcw?oc=5</link>
+            <pubDate>Sat, 09 Aug 2025 00:59:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Trump removes IRS boss, Treasury Secretary Bessent takes over - NBC News</title>
+            <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQMU9TQkk4eHdPUDYzc0VzSnFaMjVpbXU5WmI2VDhiRmgyVjlkbGxfOUdGT2tiUVU4bU1NTUlzOUo2akhCXzhvTDM0TEtORWkwOXliM3E5UThDekNuTkZSdmdHM211NExKUFJPRGRMTEJJblJLT0ZROEFsMlhKYVpwUlVSVFJScVNlVWNqSENYMk1qbUZUSWfSAVZBVV95cUxNeVNlekxSMDdBekN3d2pocmhJRTRtdnQ4bVBpWTBiS1FQOUkxZVFYdDhJU2s0bkpuUi1VMEtRTGhVWl94R1hsbExHLVpNYnFtZWNYNjJMQQ?oc=5</link>
+            <pubDate>Fri, 08 Aug 2025 21:30:03 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Civil rights attorney Ben Crump speaks on shooting death of Marchello Woodard</title>
+            <link>https://www.yourerie.com/news/local-news/watch-jade-leah-burns-live-at-the-ben-crump-news-conference-regarding-marchello-woodard/</link>
+            <pubDate>Thu, 07 Aug 2025 16:52:32 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NFL] Brady &#x27;honored&#x27; as statue unveiled outside Gillette</title>
+            <link>https://www.espn.com/nfl/story/_/id/45928287/pats-unveil-tom-brady-statue-ceremony-gillette-stadium</link>
+            <pubDate>Fri, 8 Aug 2025 20:35:07 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] &#x27;Good chance&#x27; Stanton makes OF return Saturday</title>
+            <link>https://www.espn.com/mlb/story/_/id/45927983/boone-says-there-good-chance-stanton-makes-return-saturday</link>
+            <pubDate>Fri, 8 Aug 2025 20:13:16 EST</pubDate>
         </item>
         
     </channel>
-    </rss><!-- Updated: Fri Aug  8 18:21:29 UTC 2025 -->
+    </rss><!-- Updated: Sat Aug  9 01:14:22 UTC 2025 -->
