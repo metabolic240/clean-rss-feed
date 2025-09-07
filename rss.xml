@@ -6,105 +6,9 @@
         <description>Filtered national sports and local Erie headlines</description>
         
         <item>
-            <title>[NBA] Finland stuns Serbia, ousts Jokic from EuroBasket</title>
-            <link>https://www.espn.com/olympics/story/_/id/46178352/finland-stuns-jokic-serbia-reach-eurobasket-quarters</link>
-            <pubDate>Sat, 6 Sep 2025 18:29:43 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Maduro vows to defend Venezuela’s sovereignty as tensions with U.S. escalate - PBS</title>
-            <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPengtZ3ppSExPNmc1M2JlZGpYN2NoNWd6LW85eDdvQkpmU011dExqcFFLbXJlMDdfS3pRSElaOHQxMDR4MjJ6S18wcXVGVlBVTGJ2NC1IeXVwc29aUzdwa0hGbHZlUURnQ3R5ZzdTdm1MN3dVbjJmWmd0RXdnbFpDWEc0YnZiaW9RRjQ3ZnRCNFN5TU5uN3phN2JzUmRScG5RSGdYZmV0dE1tZmhPR3fSAbMBQVVfeXFMT24xb1QtWXNMSmJpb1FrSjUxaGhQcGZxeWZRUnFxdS15V1RZSFg4SG1aZ2t1TEh6aURaM3ItOXljd0d4OWp4SXVkbElYNVdrLXJ2X2FQQkRTREdPUXBocFQ5YmlSVGFmdlJZemNSbUpBeDBFSlpualY0aFdxQ2ctcUVxOXl0SlF2ZXc0dFltWTdsNnh0MzNXVlpFYjlLX1FRcEtwbGhsZWNWTGhvN0UyckpHYWc?oc=5</link>
-            <pubDate>Sat, 06 Sep 2025 18:20:57 GMT</pubDate>
-        </item>
-        
-        <item>
             <title>[NHL] Habs trade Price to Sharks in salary cap move</title>
             <link>https://www.espn.com/nhl/story/_/id/46168972/canadiens-trade-carey-price-sharks-salary-cap-move</link>
             <pubDate>Sat, 6 Sep 2025 13:56:55 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] South Sudan repatriates Mexican man deported from U.S. in July - CBS News</title>
-            <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxONHVkRXI3eFQ4aHBPU0NKNUJoZ1FaamlxcV9lYWZRVVNvd1ZsSG5Ld1NrR3NCUDc1OVNOU0pQNXdIS3lFR3dhbFNoS05abjhfVGJXcVVRYUk2OWNaNi0yYWtrUUd4Vjg0dWpDY2JiS2FVQ04wTEdmbXR5aTlrZ2lTTllVY1M2MGRsMW5KT0dIa3dIenJFdHRqVlBR0gGfAUFVX3lxTFBneUNsTzZOUk9KSVRwTnF0N1VXQlZlSjJ0YjRrT0VEVDNyUE5XN0p6TVVtQ0FLOG5JbF84SEQ3MVRCT0NKS2tGc05tSVRiT3gwRUlxaVkyZGU2Ymdmb3BGTUZDWHVZNkMzMzAwQ2tGYUVUcjFVRXJvU3JpRFd1d2VERGRoM0JPWXVzUFhKdGRGTkx3UXJIRS15V21ZS19oRQ?oc=5</link>
-            <pubDate>Sat, 06 Sep 2025 19:49:13 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] In Chicago, ICE fears turn Mexican parade into a ghost town - Reuters</title>
-            <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPYXplSlRCVzdWMGwtOUQ0b0JEdk1CQVUwQy1hYktzNDk0RFVkd0V5blBfVXVJNjQxdlhZbTNvVUJlbXlOQkVkZWctTk84RWxRZUYwQVltb1BGTzZ1NjdIdzRYa3V2dkVXVXZpUkpEaDZnbFpLNHdXaVNfQTNEdmlSTkNiSzdlQjVfZ0tUVEJrMzFTbktwbWg4dkNIWk9Bc2c?oc=5</link>
-            <pubDate>Sat, 06 Sep 2025 20:30:08 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] Ripken, Orioles mark 30 years since 2,131 game</title>
-            <link>https://www.espn.com/mlb/story/_/id/46179539/cal-ripken-jr-honored-orioles-30-year-anniversary-2131-game</link>
-            <pubDate>Sat, 6 Sep 2025 21:06:58 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] September mortgage outlook: Rates may stay put until the Fed meets</title>
-            <link>https://www.yourerie.com/news/september-mortgage-outlook-rates-may-stay-put-until-the-fed-meets/</link>
-            <pubDate>Sat, 06 Sep 2025 18:32:13 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Israel destroys second high-rise as assault on Gaza City intensifies - BBC</title>
-            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YV0FUeFZBRDBKNFRwdXk2a1YzYnIxdnVyenBJT2NNYjY0NFFqc0dweC11Vm8xcDdJYUgyUklCdVpqZEtDRkdfYzU5a1IzcUtvMlJXb21CSV9QUdIBX0FVX3lxTFBFVHFPemlHVGVYZ3Utc19VYmFCcHd0NFBmRUVKdzF3OFVZZDhhSjNoVkQ2RmF1SFBUcUVlTUNnOVFldkNRSkt6Q0ZYQmtWUEJwdUFVbmFVSmczLUU4Mmhj?oc=5</link>
-            <pubDate>Sat, 06 Sep 2025 18:44:36 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] Source: Heyward agrees to revised Steelers deal</title>
-            <link>https://www.espn.com/nfl/story/_/id/46179547/sources-cameron-heyward-agrees-revised-deal-steelers</link>
-            <pubDate>Sat, 6 Sep 2025 20:42:10 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] From No. 1 to ... the Rockies, again: Ranking all 30 MLB cores</title>
-            <link>https://www.espn.com/mlb/story/_/id/46158532/mlb-rankings-core-talent-locked-contracts-dodgers-mariners-mets-phillies</link>
-            <pubDate>Sat, 6 Sep 2025 00:28:12 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Hawaii under state of emergency ahead of Hurricane Kiko - ABC News</title>
-            <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNakFpdk1TUjhBeUUybUdpZ0UxYWgtcHUwcGdQUmdIWU9Sa0E3dzBHaDZmZ3o1a2ZmYURzUTZYbFB1VlMxSFBZU1BOenh5QUNhVVhiOFRzbUJTdWZJS29KSjBJdldYRWNVRDQ0UGptZFkzQ0Mzbzh2eVItYV9RVFA5RmxvQkgxaFQ4LXB1XzBhVkFPZ9IBlwFBVV95cUxQRUk0YjFPampjOVREa1plMFMxQTZUU0lZdzdaY0REZUtVUGRNSmJSVGRtaXBycEc0dDZGTWZZZG5vcTJCTWRuUG53MTFRWUEwTS1lekxnWXlKWXNWU3ZYR2pUMjBOZ3ZNMjlOZWhxcHRINjlZaDQwSVJ3NmZSR3BfZ2tOS2UybnE2MzN6a3Q4ZTM2UG9jWFBB?oc=5</link>
-            <pubDate>Sat, 06 Sep 2025 15:35:59 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Brig Niagara undergoing renovations, anticipated to make return for July 4 holiday</title>
-            <link>https://www.yourerie.com/news/local-news/brig-niagara-undergoing-renovations-anticipated-to-make-return-for-july-4-holiday/</link>
-            <pubDate>Thu, 04 Sep 2025 15:46:05 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Trump threatens Chicago with apocalyptic force and Pritzker calls him a ‘wannabe dictator’ - AP News</title>
-            <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1JkcWRqMlRZSEJqQklPMDJSQkpMMENpTmQtU0h2Szc0ejhvVzN6VlBhX2FBSjdLV2lqY2JvMmI2WWZfc1VNbjZvZk13elNTX2VwREVMeGE2YXVjMExldl84blI1VVZvOWNyRGNpMG9XMlBlR2Z0MzA5eUpYTDJMa1hpdlBwdkduQ2Mta0pybWdtLTBZeVl5aTVVZTVtZVpOYjVuSmNuOE9TR0lzYUE?oc=5</link>
-            <pubDate>Sat, 06 Sep 2025 20:53:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NHL] Overheard at the NHLPA rookie showcase: NCAA, NHL rule change reactions, Schaefer ready for Islanders</title>
-            <link>https://www.espn.com/nhl/story/_/id/46157472/nhl-2025-26-rookies-ncaa-rule-changes-matthew-schaefer-uniforms</link>
-            <pubDate>Fri, 5 Sep 2025 07:13:35 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] President of Peace, Department of War. A New Name Sends Mixed Signals. - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNemVDb29uMDU4c1lBaG9lSW5GdGl0bVpZMm41QTl1WHliZkNxTW1oVjlROF9vTDc1VmFXUXlmZDNrMVFPMlJwc2hxSDlpb2RDamhmVlBJdWRmVGswOXpObTJaRFVoMG1NeFdDTTlfcTR4MjNTVThHd3M4RkpFSjFWYw?oc=5</link>
-            <pubDate>Sun, 07 Sep 2025 00:36:11 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Thousands march in D.C. against Trump’s law enforcement takeover - The Washington Post</title>
-            <link>https://news.google.com/rss/articles/CBMie0FVX3lxTFBaTjN4aUt5TlZBclZmbEkyRzE4bWFLeXo5YUdsa1EtUER0SndQR3R3dnBRc1I5UW9IbEwxRzJzQndHaVU2YUpzdk8zeWJSNlRDV2dKSHgwXy1QTHR5RTFnS1ZCTWhuTEJ3Z1NqOEh5eEJOaHRRSDh5Vjhpbw?oc=5</link>
-            <pubDate>Sat, 06 Sep 2025 22:43:48 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] PennWest Edinboro wraps up Highland Games and Scottish Festival</title>
-            <link>https://www.yourerie.com/news/local-news/pennwest-edinboro-wraps-up-highland-games-and-scottish-festival/</link>
-            <pubDate>Sat, 06 Sep 2025 21:52:13 +0000</pubDate>
         </item>
         
         <item>
@@ -114,9 +18,57 @@
         </item>
         
         <item>
-            <title>[LOCAL] Car accident on I-90 causes delays, lane closures</title>
-            <link>https://www.yourerie.com/news/local-news/car-accident-on-i-90-causes-delays-lane-closures/</link>
-            <pubDate>Sat, 06 Sep 2025 21:05:38 +0000</pubDate>
+            <title>[NBA] Finland stuns Serbia, ousts Jokic from EuroBasket</title>
+            <link>https://www.espn.com/olympics/story/_/id/46178352/finland-stuns-jokic-serbia-reach-eurobasket-quarters</link>
+            <pubDate>Sat, 6 Sep 2025 18:29:43 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Hawaii under state of emergency ahead of Hurricane Kiko - ABC News</title>
+            <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNakFpdk1TUjhBeUUybUdpZ0UxYWgtcHUwcGdQUmdIWU9Sa0E3dzBHaDZmZ3o1a2ZmYURzUTZYbFB1VlMxSFBZU1BOenh5QUNhVVhiOFRzbUJTdWZJS29KSjBJdldYRWNVRDQ0UGptZFkzQ0Mzbzh2eVItYV9RVFA5RmxvQkgxaFQ4LXB1XzBhVkFPZ9IBlwFBVV95cUxQRUk0YjFPampjOVREa1plMFMxQTZUU0lZdzdaY0REZUtVUGRNSmJSVGRtaXBycEc0dDZGTWZZZG5vcTJCTWRuUG53MTFRWUEwTS1lekxnWXlKWXNWU3ZYR2pUMjBOZ3ZNMjlOZWhxcHRINjlZaDQwSVJ3NmZSR3BfZ2tOS2UybnE2MzN6a3Q4ZTM2UG9jWFBB?oc=5</link>
+            <pubDate>Sat, 06 Sep 2025 15:35:59 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Trump administration launches immigration crackdown in Massachusetts, reports say - Reuters</title>
+            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTY5cWF5Xzc1MzQtemhXTW80ZlU3MmcyanJ0aldsSGkyZ0xPX01RTEVtWDdMR3l2cFhmTEFJZU1jdi1NUm1oOV83RGsyaDhpODh3bTVKUm1PRUlPT1daM1VJbmx3YXlWeFNQZzhEZzRENGlvdHN1QnZfUThmQ0l5WUxYR0pVTEo3YXc1dEZWdWczYmwwcDNwSEljRWhDLWh0UGZhWjdxVUpTc2Nyc2lNYTcyMndGdXY1V1k1dXRtMA?oc=5</link>
+            <pubDate>Sat, 06 Sep 2025 23:44:55 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Brig Niagara undergoing renovations, anticipated to make return for July 4 holiday</title>
+            <link>https://www.yourerie.com/news/local-news/brig-niagara-undergoing-renovations-anticipated-to-make-return-for-july-4-holiday/</link>
+            <pubDate>Thu, 04 Sep 2025 15:46:05 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NHL] Overheard at the NHLPA rookie showcase: NCAA, NHL rule change reactions, Schaefer ready for Islanders</title>
+            <link>https://www.espn.com/nhl/story/_/id/46157472/nhl-2025-26-rookies-ncaa-rule-changes-matthew-schaefer-uniforms</link>
+            <pubDate>Fri, 5 Sep 2025 07:13:35 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NFL] Sources: Lions give WR Williams $83M extension</title>
+            <link>https://www.espn.com/nfl/story/_/id/46181528/lions-wr-jameson-williams-reach-3-year-deal-worth-83m</link>
+            <pubDate>Sat, 6 Sep 2025 23:58:34 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Mercyhurst victorious over New Haven in home opener</title>
+            <link>https://www.yourerie.com/sports/mercyhurst-victorious-over-new-haven-in-home-opener/</link>
+            <pubDate>Sun, 07 Sep 2025 04:01:40 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] RFK. Jr’s family members call for his resignation, say he is a ‘threat’ to Americans’ health - PBS</title>
+            <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcnF6Y0syYXRsMjgxZnhfQjQzenNrN2hWeGRzV09tbjQ1QXhzbjdxYzNUcFk5TGc1ZEtYTUZNLW44SFQ0RmdhT0o3MG1MWDVaWFRoaEticzJFUko1NHlKUVFpRDVmakl6WnFoMEZqMnM1V2NId0ptSHNiR1AyT1RES2gxQWE1bnp3aUhDbk50Tm1zWENubXpQYm5FT2k4XzFVcU5YbGdlVVFwYWFieVBSRjdFbkVKSHJpekhfeXNFTjZuZ9IBxwFBVV95cUxNMHI5b1puM2pJcU9BV21TZHI2c3lrUDNCdmNrS2hCVGd4THJMWWtUT29oUkxwSUNwczBYOE1FVmpEZ2hQVjZSX2dYZ0NyZFVpTG1weUZUZjNzSmtna2s0enIwMkRLQkVycElhbEt2Tk9CTHVLWTJOY1Vtd0JEcHVPWGU3SlkxYll4Z0RWOFBUMEk2c0pEdTg0Z0FGdnZZS19iSGZGQlpkV3RhaW9FeWpFcVNnZGlodFpHS0NRVi1NcVBtMmlRZmdj?oc=5</link>
+            <pubDate>Sat, 06 Sep 2025 22:32:46 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] No explanation given after meeting cancelled between Erie DA, Justice for Chello Coalition</title>
+            <link>https://www.yourerie.com/news/local-news/no-explanation-given-after-erie-co-da-cancels-meeting-with-justice-for-chello-coalition/</link>
+            <pubDate>Thu, 04 Sep 2025 21:00:07 +0000</pubDate>
         </item>
         
         <item>
@@ -126,21 +78,9 @@
         </item>
         
         <item>
-            <title>[NATIONAL] ICE Has Begun Immigration Crackdown in Massachusetts - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFBldU5yZ2c0OWhTMjlCM2NJMDRCc0hLamQzbkpDdmRLdTRZVXNpS2hXdU9QRUxmN1BFODdMZklJcm1hSzZvTGVvU1dWVHpxbEU1QkJKTzZZUFhHbzBSempzckF5OFpqYnhkNEZjaW03MkhZcFUwajJBTnN3TFo?oc=5</link>
-            <pubDate>Sat, 06 Sep 2025 17:52:27 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] ICE arrests at a Georgia Hyundai plant create new tension with South Korea - NPR</title>
-            <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNYWxOMHJFTGxlNlhGcnRKdGVaNGJBN1RaVUpvQ1VrNXJGVGFRTGlOZl9kRFFNOUY5VVlUaXNHblpyX2x2NDNYSXlWWXZ5VEJGc3RHZ2p3aW9RZ2VZbFdwUG9NbkhOZllsV3lFY1ZIazhaNkJaLUdYMWo3eGpoRDZVMlg5eTRlOUtqQmwyOTM3VXB4dDg?oc=5</link>
-            <pubDate>Sat, 06 Sep 2025 19:38:32 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] 17th annual Arts &amp; Drafts Festival hosted at Brewerie at Union Station</title>
-            <link>https://www.yourerie.com/news/local-news/17th-annual-arts-drafts-festival-hosted-at-brewerie-at-union-station/</link>
-            <pubDate>Sat, 06 Sep 2025 22:01:47 +0000</pubDate>
+            <title>[MLB] O&#x27;s 1 out from being no-hit, score 4 to stun L.A.</title>
+            <link>https://www.espn.com/mlb/story/_/id/46180644/orioles-one-being-no-hit-score-4-runs-stun-dodgers</link>
+            <pubDate>Sun, 7 Sep 2025 00:40:23 EST</pubDate>
         </item>
         
         <item>
@@ -156,10 +96,70 @@
         </item>
         
         <item>
-            <title>[LOCAL] No explanation given after meeting cancelled between Erie DA, Justice for Chello Coalition</title>
-            <link>https://www.yourerie.com/news/local-news/no-explanation-given-after-erie-co-da-cancels-meeting-with-justice-for-chello-coalition/</link>
-            <pubDate>Thu, 04 Sep 2025 21:00:07 +0000</pubDate>
+            <title>[LOCAL] PennWest Edinboro wraps up Highland Games and Scottish Festival</title>
+            <link>https://www.yourerie.com/news/local-news/pennwest-edinboro-wraps-up-highland-games-and-scottish-festival/</link>
+            <pubDate>Sat, 06 Sep 2025 21:52:13 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] One person dead after two-car accident on I-90</title>
+            <link>https://www.yourerie.com/news/local-news/car-accident-on-i-90-causes-delays-lane-closures/</link>
+            <pubDate>Sat, 06 Sep 2025 21:05:38 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Trump news at a glance: Anxiety in Chicago as Trump plans to send troops; postal traffic into US drops 80% - The Guardian</title>
+            <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTcwX1RUQWZiX3NEaVBieERUbURLbi1RY2x0TEUtZExoRF9lRW1sODFpbTQyS1lfQVp6RXdpODFBYjdhT2M3MlpWZWlhVXU2UFM4aGswcUJ1SEJpel9WSWJYQjlFYWJHZU5sY2FTVVdaYUxseU1Da194dzNHd1pRc25KRHBuV1ZkdUE3bXBpVEU?oc=5</link>
+            <pubDate>Sun, 07 Sep 2025 02:15:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] Ripken, Orioles mark 30 years since 2,131 game</title>
+            <link>https://www.espn.com/mlb/story/_/id/46179539/cal-ripken-jr-honored-orioles-30-year-anniversary-2131-game</link>
+            <pubDate>Sat, 6 Sep 2025 21:06:58 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] 17th annual Arts &amp; Drafts Festival hosted at Brewerie at Union Station</title>
+            <link>https://www.yourerie.com/news/local-news/17th-annual-arts-drafts-festival-hosted-at-brewerie-at-union-station/</link>
+            <pubDate>Sat, 06 Sep 2025 22:01:47 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] LAPD ends protection of former Vice President Kamala Harris amid criticism over diverting cops, sources say - Los Angeles Times</title>
+            <link>https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNUNoWWNfeUlOdmJ3bnRKaWh3RWdQa2hnU2Q5bUFlYTRjRGo0MHp5ZVk4WmljMXdfTDNzR3F2c3ktTWtDUTMyLWtLMktlRFhGdUhQaFFNUksteFFCQ1RpR0o2M1ZYci1ZM2xZb1MxUmwtd2pIbDZ1Rjd1MFF5RENRY0dqY1hUeElXMDNKWXFhQWlkajBFdnZlejFNYUUtRmpzOW5SeWRpOGZRaUxFRWRKMG1mckV6RHU1YkJWVU1Bbmx5cS1RM3phd1BySFF0Y21YcWZSd1BwY0ZSbXNzbnVadWJrcHZQOFE?oc=5</link>
+            <pubDate>Sat, 06 Sep 2025 16:25:59 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Tensions Mount as Trump Administration Threatens Federal Crackdown in Chicago - The New York Times</title>
+            <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQemtPMngtblhpQkpBU2FoS2QzdHAxV0h3M0VnbS1LWFh6anBuM3R1SWJUTEhGOC1YN3JnYTVnU0ZiVjhkdjR5SXpVVUJpdlVtX0ZkUTlVMm9BdTdsYUJ4RWV5b0x5aDBQMnJQWmlyNWh5aG54eXhmZWtxWjM4YU5ndG9Eb04?oc=5</link>
+            <pubDate>Sun, 07 Sep 2025 01:20:21 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Israel destroys second high-rise as assault on Gaza City intensifies - BBC</title>
+            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YV0FUeFZBRDBKNFRwdXk2a1YzYnIxdnVyenBJT2NNYjY0NFFqc0dweC11Vm8xcDdJYUgyUklCdVpqZEtDRkdfYzU5a1IzcUtvMlJXb21CSV9QUdIBX0FVX3lxTFBFVHFPemlHVGVYZ3Utc19VYmFCcHd0NFBmRUVKdzF3OFVZZDhhSjNoVkQ2RmF1SFBUcUVlTUNnOVFldkNRSkt6Q0ZYQmtWUEJwdUFVbmFVSmczLUU4Mmhj?oc=5</link>
+            <pubDate>Sat, 06 Sep 2025 18:44:36 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] South Korea says US release of video showing workers&#x27; arrest was regrettable - Reuters</title>
+            <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY0lqWmRua29Pd3pyNlNEWWNxeU1XaDhscXRlRzFoSV9ESzY3WGtENGpFbmRDY0tFMEdOR0lRR01OWTQyVVIxMkFLVzRjRWFqWmJrak9QcXVVMTQyTktRWjNhNVB5UnVaZEFmamlUSlhsa2hmZFI5LVdlSnl4SjFMMWNZMFU3cE5DbDZ1b21uT0lrVXlDdl8xRWRZTmdfVXhrX2FuQWFFdVZ6NEl3ckx0QjFKZEtvQkZ4RnhIS21samw0Z0VKdXZIaWcxYmMxTy1laFhMZw?oc=5</link>
+            <pubDate>Sun, 07 Sep 2025 02:35:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Thousands march in D.C. against Trump’s law enforcement takeover - The Washington Post</title>
+            <link>https://news.google.com/rss/articles/CBMie0FVX3lxTFBaTjN4aUt5TlZBclZmbEkyRzE4bWFLeXo5YUdsa1EtUER0SndQR3R3dnBRc1I5UW9IbEwxRzJzQndHaVU2YUpzdk8zeWJSNlRDV2dKSHgwXy1QTHR5RTFnS1ZCTWhuTEJ3Z1NqOEh5eEJOaHRRSDh5Vjhpbw?oc=5</link>
+            <pubDate>Sun, 07 Sep 2025 03:35:31 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Carlo Acutis: From London baptism to first millennial saint - BBC</title>
+            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KQVpOY0pyVGdBVmtNNmZUN2d0THUxdzNKT0NuVmtMNmVlNXhDZ3ZVRC1BVDhqcXJwZnpVMXdQS3Z6RHF1RmdPX01NQkZKQ1pEaEhORHQ5SGp4UdIBX0FVX3lxTE02dVY5SGpTSWpxY2NQZWtnZ1drLW5iVmh1c3JkTTdaSEdyUWJlSGZIRmFqRWkzX2MzX01HMWhLNHhVaVBHQjdTNURGRXI3LTFneXBFRVNRZFBVWVVtZkNV?oc=5</link>
+            <pubDate>Sat, 06 Sep 2025 23:35:58 GMT</pubDate>
         </item>
         
     </channel>
-    </rss><!-- Updated: Sun Sep  7 01:11:44 UTC 2025 -->
+    </rss><!-- Updated: Sun Sep  7 06:19:00 UTC 2025 -->
