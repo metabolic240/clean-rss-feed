@@ -6,105 +6,9 @@
         <description>Filtered national sports and local Erie headlines</description>
         
         <item>
-            <title>[LOCAL] Local organizations launch new fund supporting Erie small businesses</title>
-            <link>https://www.yourerie.com/news/local-news/local-organizations-launch-new-fund-supporting-erie-small-businesses/</link>
-            <pubDate>Tue, 30 Sep 2025 21:10:59 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] General McLane hangs on for 2-1 win over McDowell in boys soccer</title>
-            <link>https://www.yourerie.com/sports/local-sports/general-mclane-hangs-on-for-2-1-win-over-mcdowell-in-boys-soccer/</link>
-            <pubDate>Wed, 01 Oct 2025 03:05:44 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] At least 69 people killed in a powerful earthquake that hit the Philippines - ABC News - Breaking News, Latest News and Videos</title>
-            <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPWGxHaU81Z0QzUEpmMWJncjZ5S29nZG00Zm04dTA0MHM2NUdMWDRhZW1QS2hjRWVxZHczdjhxUmxyNXhtMlVRd1VWWFFNY3RQSHhhQ203WGF1S3ZHTnRZY0dJeDB4anczYno5U0tpRnBETVBfXzZwUU5WY1RkeVZwRl9CY3VnemZRUUM1TW5jbWZBa0VoTngyZVZjOTdURmFOTTJwQ3paTmhmWkc5N3fSAbMBQVVfeXFMUGM3ZzFrM185TWp5YnZMU1JPNXdPZ0tQRUJ3bnRvVEZxMWE5bDMyRms0c3VPZmQzUVpNbGNfM0dlNlpQaFJBVzlvbkp1T2FPYjhpVmM1STU1endsSjRia2pVaXRhUWhRdXRCejNaZWM1bVVmRE5kZTBVcFJEYXF1eU1DUGFiME5uVjdYU1RrVE53TV8ybDczX3RWNXN6U2FaOXBjSFdPcnBsSExxTmZEdFJqYlE?oc=5</link>
-            <pubDate>Wed, 01 Oct 2025 07:30:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Trump Claims White House Is Nearing a Deal With Harvard - The Harvard Crimson</title>
-            <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE5WT0hQMFZRWERQZGRnc0M2dGN1Ynhyc1VtX3JZTEM4aFpScko4Yk93Z25xRnZYcjZ2RUY1dnRCZTl4VW1YUzY4b1J0STd4NUxnd0NRT3c0R3JMWjhpRWtfVW9Ub1lLamUwT2dGeFJXUDN5aHBoenJCdQ?oc=5</link>
-            <pubDate>Wed, 01 Oct 2025 07:00:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] Boone defends pulling Fried as Yanks fumble lead</title>
-            <link>https://www.espn.com/mlb/story/_/id/46444125/yankees-boone-defends-pulling-fried-bullpen-fumbles-game-1</link>
-            <pubDate>Wed, 1 Oct 2025 08:06:22 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] North East waterline replacements disrupt local businesses</title>
-            <link>https://www.yourerie.com/news/local-news/north-east-waterline-replacements-disrupt-local-businesses/</link>
-            <pubDate>Wed, 01 Oct 2025 02:47:32 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] Agent: Hill&#x27;s surgery went well; WR to play in &#x27;26</title>
-            <link>https://www.espn.com/nfl/story/_/id/46438904/dolphins-wr-tyreek-hill-not-need-multiple-surgeries</link>
-            <pubDate>Wed, 1 Oct 2025 07:38:33 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NBA] LeBron out to start camp, eyeing longer ramp-up</title>
-            <link>https://www.espn.com/nba/story/_/id/46441482/lebron-james-glute-sidelined-open-lakers-training-camp</link>
-            <pubDate>Wed, 1 Oct 2025 08:25:52 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NBA] LeBron&#x27;s future, Celtics&#x27; goals sans Tatum: Biggest question for all 30 teams</title>
-            <link>https://www.espn.com/nba/story/_/id/46357146/nba-2025-2026-season-biggest-questions-all-30-teams</link>
-            <pubDate>Wed, 1 Oct 2025 08:25:39 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Erie County starts logic, accuracy testing ahead of Nov. 4 election</title>
-            <link>https://www.yourerie.com/pennsylvania-politics/your-local-election-hq/erie-county-starts-logic-accuracy-testing-ahead-of-nov-4-election/</link>
-            <pubDate>Tue, 30 Sep 2025 21:57:39 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Democrats embrace a shutdown fight in a rare moment of unity against Trump - AP News</title>
-            <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQVW84QnRuNjljSVZWNkkzQ2hwT3UzVjZCYzN0UkV0bHNtYlhEY19fSUlsNVdqdTJrY1hOVlRBZXF5a29VWGFwU0g5UE1qYmpSLXZ3Ni1ITXJHSFJvUUgyeU8zVm9SMHFYN3dIc0s5a0dwMEpiWWpCUjZNbXpHSnJ1ZTJVdU5nREZjeGFwalo0S1lJRXVKSWgta1FsSElxbFRzRDRPZEM4aEc4elF5TkhmVFJzMA?oc=5</link>
-            <pubDate>Wed, 01 Oct 2025 10:34:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Government shutdown begins as lawmakers fail to reach deal to extend funding - CBS News</title>
-            <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1BkaFFldE9NdmhxU1h1VVFzMzBCQUhNYzlKU2dIWU1FMDhDTkhicS1fOWhxUS1QcDlzYlhuOUhrVl85V3hkOV9McWZIY3Rzay0tMUtqTzBrT2pvWnBIaFdCT2xwcWVwNHVHX29CQ21yZGstN3B0eDJKV2M4WDFheVZoT1hYVjJTZUxnbFRWOWN4S2hnaFHSAZsBQVVfeXFMTm5Cb05NUkNlUG5NdUpqc1U0RVdSUk95SW41b2dhcHVfNURPN1ByZFRuRjFNQnJYOFc2U1l0ZzQ1aW1UdXdjVnZLalZFV1ZvUzYyakNOOEw0N2RyVzBXajhTd1BUQ3NZX25fZzl2NlFvZkVHQTJZaV84TzFrZmxHVk9aMFRFNkxQamg0c0U4UllSWk1IMzRRY3h5a28?oc=5</link>
-            <pubDate>Wed, 01 Oct 2025 11:57:51 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Victims of fatal Erie Yacht Club incident identified</title>
-            <link>https://www.yourerie.com/news/local-news/victims-of-fatal-erie-yacht-club-incident-identified/</link>
-            <pubDate>Wed, 01 Oct 2025 02:23:51 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Veterans react to Hegseth’s ‘insulting’ address to generals and admirals - The Guardian</title>
-            <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzhkQnBfS3dmblNzRDVIeG9Sa0lwNHIweFFmTFphWTBPWDQzYWZfbWp2V1J0alRJaDlRei13MTUxd3ctVXFxRmpMVW9URnBCd3FRLXdwenpQQ1hycW1hRWhTQW9CLWhGUXVReEtUREpPWW1nYmp6RHV5VGJTdlVxcVhMSV9kRDlXdC1ZbkNNdmNrdGl6S1E?oc=5</link>
-            <pubDate>Wed, 01 Oct 2025 10:01:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] Crochet retires 17 straight as Red Sox swipe G1</title>
-            <link>https://www.espn.com/mlb/story/_/id/46443777/garrett-crochet-stifles-yankees-red-sox-swipe-game-1</link>
-            <pubDate>Wed, 1 Oct 2025 08:06:22 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Second detainee dies after shooting at Dallas ICE facility - NPR</title>
-            <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNUVZIZ1R1Z19tazBfNG1jUWlkcUNJcUJYRUdvUS01eW1qTllVRDdYRHBGdFhkZHBSSUh3S0t6RXY3LWF3RDFMWlphWnlKbEJfZ3dZWVhXZHl1TWx3Z2h1OHp4VGx2UU9pOFlGZXRtYzA3V2xHMzJHUlFNaXdqSS1Dc3VRQUxoeV8zbUE?oc=5</link>
-            <pubDate>Tue, 30 Sep 2025 14:36:35 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Ian Roberts accused of lying about earning doctoral degree</title>
-            <link>https://www.yourerie.com/news/local-news/ian-roberts-accused-of-lying-about-earning-doctoral-degree/</link>
-            <pubDate>Wed, 01 Oct 2025 03:04:44 +0000</pubDate>
+            <title>[NFL] Commanders say QB Daniels medically cleared</title>
+            <link>https://www.espn.com/nfl/story/_/id/46449608/commanders-say-qb-jayden-daniels-medically-cleared-doctors</link>
+            <pubDate>Wed, 1 Oct 2025 13:28:20 EST</pubDate>
         </item>
         
         <item>
@@ -114,9 +18,81 @@
         </item>
         
         <item>
-            <title>[LOCAL] Water safety officials urging every precaution as temperatures drop</title>
-            <link>https://www.yourerie.com/news/local-news/water-safety-officials-urging-every-precaution-as-temerpatures-drop/</link>
-            <pubDate>Tue, 30 Sep 2025 22:43:38 +0000</pubDate>
+            <title>[MLB] Rockies dismiss GM Schmidt after 119-loss season</title>
+            <link>https://www.espn.com/mlb/story/_/id/46449309/rockies-dismiss-gm-bill-schmidt-119-loss-season</link>
+            <pubDate>Wed, 1 Oct 2025 12:58:29 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] North East waterline replacements disrupt local businesses</title>
+            <link>https://www.yourerie.com/news/local-news/north-east-waterline-replacements-disrupt-local-businesses/</link>
+            <pubDate>Wed, 01 Oct 2025 02:47:32 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Bermuda braces for Hurricane Imelda after a glancing blow from more distant Humberto - CBS News</title>
+            <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPWDdrZUlUQjc0eE9vR0JfcHY5T0tvMVUzcVE1QkFjR0NGQTRmbHdtOHQ5UC1kbF9SZVNFeW13NXpTcnFzSGE4bUpNTTJ5ZUNRUXpxUlRTRFZScHpkYUJqeHpHTW1qOW9rWng4RDdnM2w1Y29aVV9pdzBkd2RQRGhnOTV1TTgxTVE5UWdLRU1sWE10dXpROXdORktYbnpDblFsV1hLalBkUFZmdmlCMmNtRi1la9IBuAFBVV95cUxPR2lyOE5wWS1yMFdpZ052d3NFNTh6NHVDMkFiNEo5a1hSRDFaNmpkWXlHZlJBT0d3V0JBUHFZT1hEcW1NWTVUZGhnLVRSN3VRN2pJR0JZOHRFdk1aS1lJZ20wQXVDbzh6QkI0QVg2SlZmaXFScXg1SmxEWjV4R1VzaTVfWWFoaWxzVUhyUkg5U2RNWmxTM3RTVEwyT2I3NWZxc1JYUEVURGdvanNXSmV5Y2swWE5qRmFR?oc=5</link>
+            <pubDate>Wed, 01 Oct 2025 10:37:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Veterans react to Hegseth’s ‘insulting’ address to generals and admirals - The Guardian</title>
+            <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzhkQnBfS3dmblNzRDVIeG9Sa0lwNHIweFFmTFphWTBPWDQzYWZfbWp2V1J0alRJaDlRei13MTUxd3ctVXFxRmpMVW9URnBCd3FRLXdwenpQQ1hycW1hRWhTQW9CLWhGUXVReEtUREpPWW1nYmp6RHV5VGJTdlVxcVhMSV9kRDlXdC1ZbkNNdmNrdGl6S1E?oc=5</link>
+            <pubDate>Wed, 01 Oct 2025 11:37:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] 20-Story Public Housing Building in the Bronx Partly Collapses - The New York Times</title>
+            <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPdTd2dzY0ODlSMlgtMW9YWEFKZkoxbVp1ampsS2hQbkdMbXZibTVGeF8tZmJ4NmNsS1pOMmxDTjI5MElUZ2xWd2JHa1I3dnBoZ21MWWVrRi1PTW45dDhubGU0T3p6TEhMajdNUUFxLS02RnQzQlJsWXhYMVAyaVVUUks4cjh1clE3ZlE?oc=5</link>
+            <pubDate>Wed, 01 Oct 2025 17:55:49 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] Snitker won&#x27;t return as Braves manager in 2026</title>
+            <link>https://www.espn.com/mlb/story/_/id/46448328/brian-snitker-return-braves-manager-sources-say</link>
+            <pubDate>Wed, 1 Oct 2025 12:58:29 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] The &#x27;Steagles&#x27;: PA&#x27;s two NFL teams briefly joined forces 1943</title>
+            <link>https://www.yourerie.com/news/pennsylvania-news/the-steagles-pas-two-nfl-teams-briefly-joined-forces-1943/</link>
+            <pubDate>Wed, 01 Oct 2025 15:55:01 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Victims of fatal Erie Yacht Club incident identified</title>
+            <link>https://www.yourerie.com/news/local-news/victims-of-fatal-erie-yacht-club-incident-identified/</link>
+            <pubDate>Wed, 01 Oct 2025 02:23:51 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NFL] Browns bench Flacco, turn to Gabriel as starter</title>
+            <link>https://www.espn.com/nfl/story/_/id/46447694/browns-bench-joe-flacco-turn-dillon-gabriel-starting-qb</link>
+            <pubDate>Wed, 1 Oct 2025 13:28:19 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] SCOTUS allows Lisa Cook to stay on Fed board into 2026, accepts case for January argument - ABC News - Breaking News, Latest News and Videos</title>
+            <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQRUoyWm1pZUpVblQ2QVBWaHgtdFE5bFZjSE16YUdTYXZ0WnhlejlESzJCX0gzZHJlSlRQOEFKR2FqZW1qLWRPbWEtc1R0amt5OGtGWV9BakdXNEYtRUdiZlBlemtzbGNMbVFJam5XMUU0eG5QVVFGSkpjOEo4bXpLQ3Q0cEZtQWx1NTY3OFEzYkJjaTlHVDJPMVZpMFLSAaIBQVVfeXFMUFN0VnplUjY1LTR6VVZsOTRxVzFMWFhfYmtBR3U1U0FVNzBEUE8zVklQLUlQSXdzZjl5TVZpZjRPME9qNXFqdzFFTHFKaTEzUUpfekZ4M25Qclo3RDJ1Q2FIUGZmV0MzRG4wbWttWVRVQ3IyZGNpNFVJX3BCR2stcnk4Z0ljbE01ZlZ1ekg5T2d2amFTb1NzWjRrZVVsczhRTWp3?oc=5</link>
+            <pubDate>Wed, 01 Oct 2025 17:59:44 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Local organizations launch new fund supporting Erie small businesses</title>
+            <link>https://www.yourerie.com/news/local-news/local-organizations-launch-new-fund-supporting-erie-small-businesses/</link>
+            <pubDate>Tue, 30 Sep 2025 21:10:59 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Keystone Family Alliance is this week’s winner of Loving Giving Local</title>
+            <link>https://www.yourerie.com/on-our-air/loving-giving-local/keystone-family-alliance-is-this-weeks-winner-of-loving-giving-local/</link>
+            <pubDate>Wed, 01 Oct 2025 14:48:47 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Legal threats hang over NJ governor&#x27;s race after CBS News report on Mikie Sherrill&#x27;s military records - CBS News</title>
+            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTN1LXczWVBHQmt5WjcyYnhBaU0tZE5nRzZDNm50LXA2SkJ2S3NqMENBVmJGbWpZWFQwdzY5d2VHVF9VR1FDRWZDMkgwdmxlVU1vckdocWFHc0w5QVdUVFJMR3gtLTBOMHpzbXlrdUhFS0ZLemFIWlpqRFJEVHdBaHhKU3l6aXliUm5QalFqWUZwMnJoNGJrcFA2ZFZuRWFCakxFdDlNSUYzdHp3NHVVRNIBtgFBVV95cUxNTmhnN2t2M0NXV1pEUmNMTzduRW5oaHN4YkRmMXdLcjMzZkhXcVBMUU9ZcXJCV2FjVHE1RHdDaUNBQmRfVXNOV1VMSzk2RVRGSHB5TTc1el9Hamwxb1MxdnQ0VkhuNTFobG12dGpsRUVqa2plZ0dXRlVLYnQzLTVfN2s2amVoLTBQbGp1OVhqb2VKMml4YU9qUENjTWF3cWVXcjhvT2xxUTJYUmVUMjg1M0h4d0Y3UQ?oc=5</link>
+            <pubDate>Wed, 01 Oct 2025 16:02:32 GMT</pubDate>
         </item>
         
         <item>
@@ -126,52 +102,70 @@
         </item>
         
         <item>
-            <title>[NATIONAL] Brown bear heavyweight Chunk wins Fat Bear Week despite injury - BBC</title>
-            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuZVBJdkhvcUNKSzdKblQxNnlvdkhrWGg2RHQyOUhEZHVwa2txZjNKQnhYUzJPOXRPVFhSX0tHSExzRC1ZTHFoUVAyc2dJZ1ZJU2Z0LTZma0VKQdIBX0FVX3lxTE5kcUNPRXVZRzRnRnR1MHNGMWdfaU5CZTdVN0FDakM0b3FNb0RNcUpDLTJfYmtPUjQ2N1hEMUhndVFNd0UtbVVKUnFqeG1mVkdVblN4ZWlTSFo4RjlNQ2RJ?oc=5</link>
-            <pubDate>Wed, 01 Oct 2025 08:29:20 GMT</pubDate>
+            <title>[NATIONAL] US government shutdown live: House will return to DC next week, says speaker, as Democrats blame ‘unhinged’ Trump for shutdown - The Guardian</title>
+            <link>https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY09zc20zQnBIeXBGd2tqQkc2aVFGc1pDSmdLRzBRWXp0c2JlYk1yOUpXeUFkc1NCc2xUUTN1U2cwZlZURmFjeWZ3bDQ4Vll6YXl5ekRMYk5fc2ZXd1IzT2R4YTNYdGxjNXpxUU11UmhSeXM2V1Y0SlpxY29HQzhSVEp4YWdHdDVxWjVOX2hDYUROY0ZOS0l2RmVzY3lFUE5MSGx1SUlZNEpjcVRaeTc4OGU3LVpHU1lSanBTbWQ1STVKU21KV2cydmVSRXlRdkRkQV9VMGhzbmJlb1VLalA1SGh3VGREXzFPQ2NRM0hB?oc=5</link>
+            <pubDate>Wed, 01 Oct 2025 13:58:34 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Mark Cuban gives Trump&#x27;s proposed direct-to-consumer prescription drugs website a &#x27;B&#x27; - Business Insider</title>
-            <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOWXJ1cjhRUkZYNFhqa1l6NGJiNGF3cUhzN1dmZW42NzFCSmlVMHI3R1FWVXl2R0FOeEN1QkVHcEROUDUtY1NnN3k4SnEzT3pGclk1aUVpb2tLUEplMnRMUjRSSDdCeHh1N3RVZG51OGhlN1poQTVOdkFBRGxkSkpOajhSZU1WTjFmSkJJX09mYlpoQllVOG9ManFIbmJ3R1ZWdG9qdlJ0VQ?oc=5</link>
-            <pubDate>Wed, 01 Oct 2025 03:02:00 GMT</pubDate>
+            <title>[NBA] LeBron&#x27;s future, Celtics&#x27; goals sans Tatum: Biggest question for all 30 teams</title>
+            <link>https://www.espn.com/nba/story/_/id/46357146/nba-2025-2026-season-biggest-questions-all-30-teams</link>
+            <pubDate>Wed, 1 Oct 2025 09:58:26 EST</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Government website blames shutdown on &quot;radical left.&quot; Ethics group calls it a &quot;blatant violation.&quot; - CBS News</title>
-            <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxOYm5ZdjR1RDIyNFJqNmU0UFVIdzR1SkJSc3FMV2pQcDlqbkxDN3ZxMkhrdVZEZ3hZTHVnWUZYeEZCV1RPQW5WcXY4clo4X1dRdUpPZ0lSY2RoN3pub3M4ZUQ0Z1pCNVJYWkt6YXlhWEZhTjBhNmxEY0dUTXJVbXdmT0w3NDhCUU1hUVdnMHJNOWtRc2tYenA5U3pxYkNLRGZ5QTd6U2FNc2FBVW1IbmZZQV9kSkFRMlhiX3d2MGFBajJic2dwN3dMaGtyQjRpWUHSAdQBQVVfeXFMTVJhQVJleHZ4eGlsQVVpTlRVbkpWelNZTGNSRnY5MjV6RmtMMjRteExKSUpoV3pOaGJzb1YzVnlZYUppVm5rSHh5M2JKcTFsRi1RRVR2cE9NLXd6cGlQU0F4YkRuTVVXQ3k0MnhkQjNGclNqQ2pUdDJCRVVHaWxJRWU5bDU3STJ4bzF5WHowRVdlN1ZqOU1USGVwUlBMX0ZDUHFId0pDMl80YjByMmVWMjMzNXpQU0xyQUh5aEtaWWNPSnVtUThtaWhUNVRhRkZMYlFLNzQ?oc=5</link>
-            <pubDate>Wed, 01 Oct 2025 03:25:00 GMT</pubDate>
+            <title>[NATIONAL] Trump to withhold billions of dollars from Gateway tunnel and Second Ave. subway projects - Politico</title>
+            <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRGkzcENJN2loRnpXOWc4Yk9HWk5BZzY5VzRnS2p0aWFMSXhCS1VNV24wMHpBUzNaSnIwWnVtSlpDUG50dnA3NVhCSFBScmRhdV8wS05KRTVYUGhJQWZhajV1SEhMUlNEVmxDS1JLWGxjV201VUtvS0VjdjBacU1kb25JUzNqa2VkSGEtcXhIcDB2VXJWdEFLczdjYnk0OVRkc0p4YVhKNW5TcW5lYVpGR2hiOEYyMW9HX0xwTms4bnZMaUlPOUJCVzdhWmJYQVlMeUI0YQ?oc=5</link>
+            <pubDate>Wed, 01 Oct 2025 15:31:51 GMT</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] LIFE-NWPA celebrates National PACE Month</title>
-            <link>https://www.yourerie.com/news/local-news/life-nwpa-celebrates-national-pace-month/</link>
-            <pubDate>Tue, 30 Sep 2025 21:41:48 +0000</pubDate>
+            <title>[NATIONAL] FAA plans to furlough 11,000 employees in US government shutdown - Reuters</title>
+            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQbUFPTlhYcC1WVGVmc3lZakZrSGZYd29nSTVGbmZMRTlmM0tkV2NKdHVreGNScnpxMzJVMHYxRFJzQjVSeGVhdUhJdHdFQW9vS3BiMEhRd2FvdmRMdndTMlVBOUR4b0xwRm9ZOERBZElhMEFRVUJBWmlvcWFwSGVBMnZET21Yb2FNUExwVWtSci0zYzhTMkxHWExuZTN2amtOc01BdzE2Qi00RTJTbE8yRE9HQkUtejA?oc=5</link>
+            <pubDate>Wed, 01 Oct 2025 01:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Erie County starts logic, accuracy testing ahead of Nov. 4 election</title>
+            <link>https://www.yourerie.com/pennsylvania-politics/your-local-election-hq/erie-county-starts-logic-accuracy-testing-ahead-of-nov-4-election/</link>
+            <pubDate>Tue, 30 Sep 2025 21:57:39 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Trump&#x27;s pharmaceutical tariff threat loses bite after Pfizer deal reassures drugmakers - CNBC</title>
+            <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQTGg0SlZ3X1pzeWZRdEFUVGt1SGJiVWtaaS1XRkZibGE4SlNEbTU3d2trYUJNTk9oVDZFVUlpRE9kcjlkTlVqS0hPblhWemRHUUVUSUlqX04tQy1RQ3h5UlhmU3JUaWxiZU9JcW5XT3VJZTk3VXY5U3cySmpYcWhqOW90b9IBiAFBVV95cUxOUkNTUlNOb3NMbHpMc1FDWjJXNnVEQ3N5ZF9yNHA2LU5sV2E2eWlkMmJ3aE02Ym4tb281RnJFSFk0QVVIWFBFdmVDb1FmWU91c3B2YmFiUTdiLWJZUTAtaFFob2tvU3JjOThESEdJZENzeUFpWTFKbVhpSWs4czB2aEt0YW14R2hl?oc=5</link>
+            <pubDate>Wed, 01 Oct 2025 12:56:49 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NBA] LeBron out to start camp, eyeing longer ramp-up</title>
+            <link>https://www.espn.com/nba/story/_/id/46441482/lebron-james-glute-sidelined-open-lakers-training-camp</link>
+            <pubDate>Wed, 1 Oct 2025 10:08:39 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Wellness Wednesday: Building strength in October &amp; the end of the year</title>
+            <link>https://www.yourerie.com/on-our-air/wellness-wednesday/wellness-wednesday-building-strength-in-october-the-end-of-the-year/</link>
+            <pubDate>Wed, 01 Oct 2025 18:14:00 +0000</pubDate>
         </item>
         
         <item>
             <title>[NHL] Projecting the NHL&#x27;s leap-forward players for 2025-26, led by Matty Beniers</title>
             <link>https://www.espn.com/nhl/story/_/id/46438340/nhl-2025-26-breakout-players-top-projections-stats</link>
-            <pubDate>Wed, 1 Oct 2025 07:23:06 EST</pubDate>
+            <pubDate>Wed, 1 Oct 2025 12:57:49 EST</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Otters&#x27; Brown offers update on injured defenseman Ty Henry</title>
-            <link>https://www.yourerie.com/sports/erie-otters/otters-brown-offers-update-on-injured-defenseman-ty-henry/</link>
-            <pubDate>Wed, 01 Oct 2025 02:29:54 +0000</pubDate>
+            <title>[NATIONAL] Trump Claims White House Is Nearing a Deal With Harvard - The Harvard Crimson</title>
+            <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE5WT0hQMFZRWERQZGRnc0M2dGN1Ynhyc1VtX3JZTEM4aFpScko4Yk93Z25xRnZYcjZ2RUY1dnRCZTl4VW1YUzY4b1J0STd4NUxnd0NRT3c0R3JMWjhpRWtfVW9Ub1lLamUwT2dGeFJXUDN5aHBoenJCdQ?oc=5</link>
+            <pubDate>Wed, 01 Oct 2025 07:00:00 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NFL] &#x27;Leave no crumbs&#x27;: Stefon Diggs rebounded from injury and found a fit with Patriots</title>
-            <link>https://www.espn.com/nfl/story/_/id/46438941/nfl-new-england-patriots-stefon-diggs-acl-recovery-return-buffalo</link>
-            <pubDate>Wed, 1 Oct 2025 06:00:11 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Donald Trump pulls ally EJ Antoni’s nomination to lead statistics agency - Financial Times</title>
-            <link>https://news.google.com/rss/articles/CBMicEFVX3lxTFB2NllhdUFuU2RpeGlxUE1aakpEaFJQRHhIRWdRcWtKcGdETHhQeV9vdWVkWGNQZmRLQnNjY21YejA2TW1lSmV3alZNeVY0TXlYODdlTFJleFRkdHVUZmFlMG9zRDM5ZGV3bTdkTldIN2c?oc=5</link>
-            <pubDate>Tue, 30 Sep 2025 23:59:57 GMT</pubDate>
+            <title>[LOCAL] Water safety officials urging every precaution as temperatures drop</title>
+            <link>https://www.yourerie.com/news/local-news/water-safety-officials-urging-every-precaution-as-temerpatures-drop/</link>
+            <pubDate>Tue, 30 Sep 2025 22:43:38 +0000</pubDate>
         </item>
         
     </channel>
-    </rss><!-- Updated: Wed Oct  1 12:32:01 UTC 2025 -->
+    </rss><!-- Updated: Wed Oct  1 18:20:27 UTC 2025 -->
