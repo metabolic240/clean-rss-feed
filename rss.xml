@@ -6,63 +6,9 @@
         <description>Filtered national sports and local Erie headlines</description>
         
         <item>
-            <title>[NATIONAL] The Louvre reopens 3 days after one of the biggest museum heists of the century - AP News</title>
-            <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQZUhWSGNYYzlFT3J6bXExUEtRbGhEVWN5NXREcDFRWi10YVpvRm5ETmlpdkRveXZpZG9nRUxra1N4cm9jR0tGOGdTRUJTWDdOaWtEYU9yeUZNNm5jUFpubFF1RTkxdzhRN0ZPRHViVkQ2ZkV0RnBSOHlleG5WWG4tOUJhSWN0akZWVko5TVowNDNJTm1pVldZ?oc=5</link>
-            <pubDate>Wed, 22 Oct 2025 11:52:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] Dodgers to call on Snell in G1, Yamamoto in G2</title>
-            <link>https://www.espn.com/mlb/story/_/id/46677319/snell-gets-game-1-yamamoto-game-2-dodgers-toronto</link>
-            <pubDate>Tue, 21 Oct 2025 20:41:28 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Erie VA looking for volunteer drivers before next construction phase</title>
-            <link>https://www.yourerie.com/news/local-news/erie-va-looking-for-volunteer-drivers-before-next-construction-phase/</link>
-            <pubDate>Tue, 21 Oct 2025 22:27:45 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] 9 things to know about the $250 million ballroom Trump is adding to the White House - PBS</title>
-            <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPZVpIWXBONldPbjBGbFZ5LUljZ2JUNGFyajFSMXlGc29HVVZGQjBRZHBwMUE1N19mTnhxbFdfczdub011dE1GblpPODgxMEQzMzQyWldpVVUzRVpCVUdIN2Y5blhGaTBONE5tS0U4U05pMEVuTWxPVkZJNnh0RW1CeEhVM2RGUS1QclRWMlgzZEJIYVhYVzZ1VmRmZE1mZUtjQy1hNVdOREZwTnZIbDRqSFlmS1NmeF84YTRkRdIBwgFBVV95cUxPR2hWSFAxSkI0S2tfeVY5Zlc0dkNINDFpaGN5Y2tlOXgxaWctbzNsYkJrbUl1b1VnY2tmclFpVDBobkwtQzlGN0RNa20teW5yaWtpeTNobW5hYVJIaGMzSVFhVEJTcUZDUld6MVU3UjRUMVp1RnlRU2k1VUpjdnMzb0FZMmdJZmlFNVZVdjFZclhnTEw3UTJfTEpOZkgzWE9ZNk1XWGVVdVE2c1laSzJrSXlaY1hKdGMzeUdlOXR2d012dw?oc=5</link>
-            <pubDate>Tue, 21 Oct 2025 23:34:15 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Poplar Street post office closing for unspecified amount of time</title>
-            <link>https://www.yourerie.com/news/local-news/poplar-street-post-office-closing-for-unspecified-amount-of-time/</link>
-            <pubDate>Tue, 21 Oct 2025 03:55:13 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Bears win in four sets to open girls volleyball playoff run in D-10 2A</title>
-            <link>https://www.yourerie.com/sports/local-sports/bears-win-in-four-sets-to-open-girls-volleyball-playoff-run-in-d-10-2a/</link>
-            <pubDate>Wed, 22 Oct 2025 03:05:39 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Children among dead in Russian air strikes, hours after Trump-Putin talks shelved - BBC</title>
-            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pX0RtQlMyaGU5M1M4VXJIb0pueE1DVV94T3VQMUNkNXFlRC14WVZ3dEVMZTJ4Uk5oS0JERFNQdTdJZFlYRjZKcV9UbmtoUlNmdnZpU2l0NmJfd9IBX0FVX3lxTE82dzliaFQ3TWtQTHdWa3BUX2tudE45VmNtc1B0QkZZOWhuRTM5X0I2TXJkZ2FxR0J4T09zU1EyMm1CbW9tVlF0SHJYT2tUV09CN3dBWmdicWJLdkhXTG1v?oc=5</link>
-            <pubDate>Wed, 22 Oct 2025 10:37:25 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] PA reminding voters of Oct. 28 deadline for mail ballot application</title>
-            <link>https://www.yourerie.com/news/local-news/pa-reminding-voters-of-oct-28-deadline-for-mail-ballot-application/</link>
-            <pubDate>Tue, 21 Oct 2025 20:38:51 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Trump beats the drums of war for direct action in Venezuela - The Washington Post</title>
-            <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOcEttTEoxcDFqNzhmakZfWTlYbTNTOEZQN3hlXzJZakpHTFlBTFlDcm1FUXkwYzFMNlZJajNoQVRRRjFNUnJrUzRlRmtvcUp2Q0tZRjJYRzMzR2JNVHlNYmdoaDl2MzhlSFhGM0RoV2txWEJpVE8zTks5Z1RISjJYdlk3UXlkU0YzSkFMaVBsNi1paEg4WlBwcEt5bVhIZw?oc=5</link>
-            <pubDate>Wed, 22 Oct 2025 10:32:02 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Former Millcreek Twp. School District Superintendent Ian Roberts indicted in Iowa</title>
-            <link>https://www.yourerie.com/news/local-news/former-millcreek-twp-school-district-superintendent-ian-roberts-indicted-in-iowa/</link>
-            <pubDate>Tue, 21 Oct 2025 16:07:54 +0000</pubDate>
+            <title>[MLB] Sources: Vitello finalizing Giants deal in MLB first</title>
+            <link>https://www.espn.com/mlb/story/_/id/46685328/sources-tennessee-vitello-finalizing-deal-giants-manager</link>
+            <pubDate>Wed, 22 Oct 2025 13:15:47 EST</pubDate>
         </item>
         
         <item>
@@ -72,39 +18,21 @@
         </item>
         
         <item>
-            <title>[NATIONAL] Trump nominee withdraws after offensive texts allegedly emerge - BBC</title>
-            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SekgzeE4wcmRobzJKME8tdWRaczU2LTE2VWd0NjRpQWlhNWZfZWRTVzMwaFVxUXR4SmdfeXFrcndkMlpoM2R1bm01cjhwcWp3N2xGMUstY015dw?oc=5</link>
-            <pubDate>Wed, 22 Oct 2025 08:59:59 GMT</pubDate>
+            <title>[NATIONAL] Louvre jewels heist live updates: Museum director answers questions - BBC</title>
+            <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TLVhoSXo0U21ITXFKQW9UX0tEMEJsQk5aVjhPYVFTMHlwVldOQ2RMZFBzSjRSbGhMWGpfb3d4UUdWMGpNc1UzQXBtcllwbnVKNHpwWA?oc=5</link>
+            <pubDate>Wed, 22 Oct 2025 14:15:21 GMT</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] &#x27;We Corny&#x27; latest local restaurant to join Flagship City Food Hall</title>
-            <link>https://www.yourerie.com/news/local-news/we-corny-latest-local-restaurant-to-join-flagship-city-food-hall/</link>
-            <pubDate>Tue, 21 Oct 2025 22:05:45 +0000</pubDate>
+            <title>[NATIONAL] Sonya Massey shooting: Sean Grayson ‘got mad’ and fatally shot Massey without justification, prosecutor says - CNN</title>
+            <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5SX1EtclB4elNiMXRXbUo1b0tPZFhvVVlHcU5NNHl0a21kMmlwTHBleHVRZXU4cFptMm8yVlNsMVBYN1BGRkozZFpHXzROWFRTaGRrSC10NDBBb3RVV3NVZy1fenFkeXVWWnJiRC1sSVFhSHlmXzQ2ZXFsUUxnY28?oc=5</link>
+            <pubDate>Wed, 22 Oct 2025 16:36:28 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NBA] Durant pins 2OT loss on himself in Rockets debut</title>
-            <link>https://www.espn.com/nba/story/_/id/46680170/durant-pins-season-opening-loss-rockets-fall</link>
-            <pubDate>Wed, 22 Oct 2025 06:27:15 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Comets and meteors set to light up the sky this month</title>
-            <link>https://www.yourerie.com/news/local-news/comets-and-meteors-set-to-light-up-the-sky-this-month/</link>
-            <pubDate>Wed, 22 Oct 2025 03:24:07 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NHL] Marchand emotional in &#x27;touching&#x27; return to Boston</title>
-            <link>https://www.espn.com/nhl/story/_/id/46677119/bruins-fans-show-love-emotional-brad-marchand-return</link>
-            <pubDate>Wed, 22 Oct 2025 07:32:59 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] QB Wilson calls out ex-coach Payton as &#x27;classless&#x27;</title>
-            <link>https://www.espn.com/nfl/story/_/id/46675192/russell-wilson-calls-classless-sean-payton-comments</link>
-            <pubDate>Wed, 22 Oct 2025 08:04:29 EST</pubDate>
+            <title>[NHL] Toronto&#x27;s NHL, NBA teams adjust times for Jays</title>
+            <link>https://www.espn.com/mlb/story/_/id/46684850/toronto-leafs-raptors-adjust-s-world-series-jays</link>
+            <pubDate>Wed, 22 Oct 2025 13:29:54 EST</pubDate>
         </item>
         
         <item>
@@ -114,94 +42,148 @@
         </item>
         
         <item>
+            <title>[NATIONAL] American &#x27;Bibisitters&#x27; try to keep the Israel-Hamas truce on track - NPR</title>
+            <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE9mN1hSaGd3M2xCMUM3SmxULXhTWWs0anBHVWh2bXFoeXl0OHFjQ0RSV2laUkxRM1dMSE9qNDdzQzlqYi1rZXZvYVRXUzJEQUhPTGVlemR4YThxdGtBdlRYSGZQWGNvNGI5cWpONGRmSUFybVl4cnplS2h4bWE?oc=5</link>
+            <pubDate>Wed, 22 Oct 2025 13:04:25 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Former Millcreek Twp. School District Superintendent Ian Roberts pleads not guilty to federal charges</title>
+            <link>https://www.yourerie.com/news/local-news/former-millcreek-twp-school-district-superintendent-ian-roberts-indicted-in-iowa/</link>
+            <pubDate>Tue, 21 Oct 2025 16:07:54 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NBA] SGA&#x27;s winning FTs put bow on 35-point ring night</title>
+            <link>https://www.espn.com/nba/story/_/id/46680011/gilgeous-alexander-winning-fts-put-bow-thunder-ring-night</link>
+            <pubDate>Wed, 22 Oct 2025 13:29:54 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] PA reminding voters of Oct. 28 deadline for mail ballot application</title>
+            <link>https://www.yourerie.com/news/local-news/pa-reminding-voters-of-oct-28-deadline-for-mail-ballot-application/</link>
+            <pubDate>Tue, 21 Oct 2025 20:38:51 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NFL] Sources: Daniels out vs. Chiefs; Mariota to start</title>
+            <link>https://www.espn.com/nfl/story/_/id/46685082/source-commanders-jayden-daniels-ruled-vs-chiefs</link>
+            <pubDate>Wed, 22 Oct 2025 13:28:43 EST</pubDate>
+        </item>
+        
+        <item>
             <title>[LOCAL] Erie Community Foundation leading community response to federal funding cuts</title>
             <link>https://talkerie.com/2025/10/16/erie-community-foundation-leading-community-response-to-federal-funding-cuts/</link>
             <pubDate>Thu, 16 Oct 2025 17:00:00 +0000</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Tigers tame Bison 6-1 in playoff boys soccer</title>
-            <link>https://www.yourerie.com/sports/local-sports/tigers-tame-bison-6-1-in-playoff-boys-soccer/</link>
-            <pubDate>Wed, 22 Oct 2025 03:05:40 +0000</pubDate>
+            <title>[NATIONAL] Democratic senator’s floor speech condemning Trump enters 19th hour - The Guardian</title>
+            <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQSDA1QlRRb19HNXBadXFxNjhmeGV4SlFsaVRJdkI1d3doRm1GbW1hWlJra2c3alF5cGFuVlQ4QnBUb0tiQUhudnV2Z2Vxb0pQVnVON0pzT1FfNmJ4QmdWZXBUVnhISllyZExDTzYwUUVUYVFGc1pmbmlyLTgyMFFxcXg5T1hFZ0ZrN1VObE0zVHc?oc=5</link>
+            <pubDate>Wed, 22 Oct 2025 15:07:00 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Shooting by ICE officer in Los Angeles wounds motorist, U.S. marshal - The Washington Post</title>
-            <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQeWd6VTVWUFI5aTRPcWJrOWhzQVhhWXAtVVJBN2lxLVV0UGJtYmk2NzhqUzhSQmJhYndwZTB4dDNzaFVPOW9rc25GX1dxckhNR3RlbkZnbTVzbTZINEV5TjFweWNPZkI2R3J0dmFqT2M1S3lETlZkTWFKbGJSTTVpbQ?oc=5</link>
-            <pubDate>Wed, 22 Oct 2025 04:52:00 GMT</pubDate>
+            <title>[LOCAL] Erie VA looking for volunteer drivers before next construction phase</title>
+            <link>https://www.yourerie.com/news/local-news/erie-va-looking-for-volunteer-drivers-before-next-construction-phase/</link>
+            <pubDate>Tue, 21 Oct 2025 22:27:45 +0000</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Laughlin announces $10 Million PENNVEST investment for Erie Water Works lead line replacement</title>
-            <link>https://talkerie.com/2025/10/15/laughlin-announces-10-million-pennvest-investment-for-erie-water-works-lead-line-replacement/</link>
-            <pubDate>Wed, 15 Oct 2025 16:00:00 +0000</pubDate>
+            <title>[LOCAL] Wellness Wednesday: 8-week transformation challenge</title>
+            <link>https://www.yourerie.com/on-our-air/wellness-wednesday/wellness-wednesday-8-week-transformation-challenge/</link>
+            <pubDate>Wed, 22 Oct 2025 17:46:07 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Driver crashes car into White House security gate - Politico</title>
-            <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOc212bW8zSFE0RTlwUWcybzlSVi1mbUtId09NQUJWcXpWRGVQc2NIaGRIejFpQVh5RUFXcExObXN3WWZsZTBUSURSOEpRMjQ0anFwNzdHMkI5eUlHMGRacVIyVGRlRkZYeDkxSjJSallCZHlBU2h1MGQ2VEZBeDc0QXEzTFFVbVU?oc=5</link>
-            <pubDate>Wed, 22 Oct 2025 07:52:59 GMT</pubDate>
+            <title>[MLB] Dodgers to call on Snell in G1, Yamamoto in G2</title>
+            <link>https://www.espn.com/mlb/story/_/id/46677319/snell-gets-game-1-yamamoto-game-2-dodgers-toronto</link>
+            <pubDate>Wed, 22 Oct 2025 13:13:28 EST</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Huskies edge &#x27;Pickers 2-1 in playoff boys soccer</title>
-            <link>https://www.yourerie.com/sports/local-sports/huskies-edge-pickers-2-1-in-playoff-boys-soccer/</link>
-            <pubDate>Wed, 22 Oct 2025 03:05:41 +0000</pubDate>
+            <title>[LOCAL] Wegmans holding Check Out Hunger campaign to raise money for food banks</title>
+            <link>https://www.yourerie.com/digital-first/digital-exclusive/wegmans-holding-check-out-hunger-campaign-to-raise-money-for-food-banks/</link>
+            <pubDate>Wed, 22 Oct 2025 15:08:59 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NFL] The best players available at the NFL trade deadline: Our 1-25 ranking, chances to move and team fits</title>
-            <link>https://www.espn.com/nfl/story/_/id/46653213/2025-nfl-trade-deadline-ranking-top-25-candidates-players-available</link>
-            <pubDate>Wed, 22 Oct 2025 08:06:46 EST</pubDate>
+            <title>[NATIONAL] U.S. strikes 8th alleged drug vessel, this time on the Pacific side - CBS News</title>
+            <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5QQkNyMi1FZlk5c0xuZVVfcG1nX2pJbDc0OF9Oalprd01NNHdHbnZUanMwTy1ud2lPX3RLWU56MUIwejd3S2lfaWRCeDI2UVV3cm9IaFoyUTdOTDNEU09jWk1fdVpWX2VHVWpsZ0V6cDFZZk8wdF82MUx30gF_QVVfeXFMTXdTQXY0Z1piODhibnMtb2UtMnNWUUJHTjIzODFMOUZ4QUxFUTdZVlFqMGRDWnJtbDZPVEUyYkROQTR2ckJoUVZYaDdkek9ZQy1xbkxUTUxqZGRsZTV6MHFwMFUwYjdXOXc4RmpUbV91U0w4MkFuQmNsYWh5Q0dGTQ?oc=5</link>
+            <pubDate>Wed, 22 Oct 2025 15:56:00 GMT</pubDate>
         </item>
         
         <item>
-            <title>[MLB] Ranking the best World Series matchups since 2000</title>
-            <link>https://www.espn.com/mlb/story/_/id/46674409/ranking-best-mlb-world-series-matchups-2000</link>
-            <pubDate>Wed, 22 Oct 2025 07:39:14 EST</pubDate>
+            <title>[NATIONAL] Maine Senate candidate Platner says tattoo recognized as Nazi symbol has been covered - AP News</title>
+            <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHdLUDJHa3pkdTA0WW1nM0ZjMElWRDJDRnNFdllER0ZNaXdTZ1dSbjhrSTd1ek9ORzF5WkxTMkhHc01XUGZhZ3dKcmJKbmFzSWlPcG9XRVdfR0NFNWJZZ3VPYjdSU0xJazFNSTktWUpfM0tMRzhkWERJM2JlTmJVek5mMl9QWk5GMUFtbEJfeG95RDVmTmN5VjFKUFJpNVpTb0ZJTFhnTjBRYzA?oc=5</link>
+            <pubDate>Wed, 22 Oct 2025 17:15:00 GMT</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Erie Water Works customers are not affected by Erie County drought watch</title>
-            <link>https://talkerie.com/2025/10/15/erie-water-works-customers-are-not-affected-by-erie-county-drought-watch/</link>
-            <pubDate>Wed, 15 Oct 2025 17:59:57 +0000</pubDate>
+            <title>[LOCAL] Poplar Street post office closing for unspecified amount of time</title>
+            <link>https://www.yourerie.com/news/local-news/poplar-street-post-office-closing-for-unspecified-amount-of-time/</link>
+            <pubDate>Tue, 21 Oct 2025 03:55:13 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] ‘We absolutely need him’: Some in GOP say it’s time for Trump to get involved in shutdown talks even as leaders rebuff idea - CNN</title>
-            <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNQmYxXzVlTTZkYVQ5ZjJUY0JpQjB4UlI0OHJRbV8wa05qMkhCQ2dtUk9idlVnSHEzSENzcHpVVUQ2eERydFpCRzRVbGhMaFdmZ3V1RDA5UHNZZmljOW90MHllQkJBV2Z5TjBiRDhVYjl5Yk55RWYxMlVzNFBIa3NJVEllWVZTMWZQbkE?oc=5</link>
-            <pubDate>Tue, 21 Oct 2025 23:02:44 GMT</pubDate>
+            <title>[NFL] Chris Olave, Saints have &#x27;clear communication&#x27; despite trade rumors</title>
+            <link>https://www.espn.com/nfl/story/_/id/46676945/chris-olave-new-orleans-saints-clear-communication-talks-trade-rumors</link>
+            <pubDate>Wed, 22 Oct 2025 09:23:42 EST</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Scott Enterprises launches Plate It Forward initiative</title>
-            <link>https://talkerie.com/2025/10/15/scott-enterprises-launches-plate-it-forward-initiative/</link>
-            <pubDate>Wed, 15 Oct 2025 16:55:09 +0000</pubDate>
+            <title>[NATIONAL] New York officials condemn Manhattan ICE raid: ‘This creates fear and chaos’ - The Guardian</title>
+            <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPQUZyam5vX1o4Y0FYNGZ6T2JGTExSZnVuY2pQVDZsZHBvdzBuVFRPSmlqOGwxOG8ycVdadXU0dnpQd0NkWkJHLWhMRE1DY0tkRUJTNUoybVdFajMyUzB0SWg1TjM4SlJGTnZTQ2hPQUMyRzU0aDdtd1U0NzdIMXB4STU2ZEUweE41TzEwMA?oc=5</link>
+            <pubDate>Wed, 22 Oct 2025 14:42:00 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NBA] SGA&#x27;s winning FTs put bow on 35-point ring night</title>
-            <link>https://www.espn.com/nba/story/_/id/46680011/gilgeous-alexander-winning-fts-put-bow-thunder-ring-night</link>
-            <pubDate>Wed, 22 Oct 2025 06:27:15 EST</pubDate>
+            <title>[NATIONAL] Ukrainian children killed in Russian strikes, hours after Trump-Putin talks shelved - BBC</title>
+            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pX0RtQlMyaGU5M1M4VXJIb0pueE1DVV94T3VQMUNkNXFlRC14WVZ3dEVMZTJ4Uk5oS0JERFNQdTdJZFlYRjZKcV9UbmtoUlNmdnZpU2l0NmJfd9IBX0FVX3lxTE82dzliaFQ3TWtQTHdWa3BUX2tudE45VmNtc1B0QkZZOWhuRTM5X0I2TXJkZ2FxR0J4T09zU1EyMm1CbW9tVlF0SHJYT2tUV09CN3dBWmdicWJLdkhXTG1v?oc=5</link>
+            <pubDate>Wed, 22 Oct 2025 16:42:38 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Vance Says He’s Not in Israel to Babysit Gaza Cease-Fire - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1dhMnJrdC11TmRNcm1DSVBYNmlWOTJNT0FJc2hnZ3AybkJtc1RMNVRrTXJPVGxoR0ZReFJVTnNzdG81cHJDZ1RIZ0Z3VU9IbXpkOXJYUnEtVzFaSzJCc2NlNkJsT2t3cTh5bkdUenl4SjlnTFE3UERPWnk1dDJZNnVqb2JReG4yNXNJSWlZWFJiODJTUEk4cGR3?oc=5</link>
-            <pubDate>Wed, 22 Oct 2025 10:49:46 GMT</pubDate>
+            <title>[NATIONAL] Government shutdown live updates as funding lapse becomes second-longest in history - CBS News</title>
+            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnZqTHA3RWVvT3MycGV4cFp4ckJtbUh3S3lsYVp1SjFMOHNwZ1dObFdadkhhc1V6N0xoWHB2VG5PTEJ0SDZublBVLXNjZ1BVdmsxS1ZpMEVpdXRWLTR3aWs0NW1FVXpLSGNINXhXRnZ3MVBoeXRnU3ZEZE9QbWZDb3RsY2g5dkN3SkR6cGtqcXpQcnZTRUFpVlRyLXR0WUZWWElaLUE5YlJjUdIBrwFBVV95cUxNUTBFRkptZlV3dE5tNGZ1T0YwT0VCcDU5OWVPZXJxQ2lIMXJ2b1ZUSU9BZzdsck5oUXBaNWdBM0hRSVJTQWlEU3c5TDZvWjRtN2ktRU5PcGVXMWdESV9NSERseUpfTWotYlRHRTAxaUZHUGxvekRTTVEtV2lpQ00xSGNQZ0liNXVONjJQLUZiSHV4RVk2NVRJUXZWcTZ3NFRIbFJHVG11X0hRYzVhU25r?oc=5</link>
+            <pubDate>Wed, 22 Oct 2025 18:01:57 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NHL] Back from IR, Oilers D Walman nets winner in OT</title>
-            <link>https://www.espn.com/nhl/story/_/id/46678299/jake-walman-returns-ir-scores-ot-winner-oilers</link>
-            <pubDate>Wed, 22 Oct 2025 07:32:59 EST</pubDate>
+            <title>[NATIONAL] North Carolina lawmakers pass new map designed to give GOP an extra House seat - NBC News</title>
+            <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQVNycG01YktlMzZETy1RTUJKMVZ3M2ozckRfeG1YTmtJLVNIOHl0REdzcXZ4QjIzNExVZ3loMUZKZWhtbW41Q1dPNXRUMEd0dzlFUUZDcldqR3BIUVdfeEgxdUZQdVB4aVBkU2lDOURIdmZqZ0plRDI2S1FlNGtyanI4V2xmNDNwcVVzaFRsdVNTNzVGZzNIQ0xoMkNaV1V6Z0E5alBPR0Y1VkNZVndNSlB5ckpNMlhFVHFHMFk5Y05WZ9IBVkFVX3lxTFAxTzUwNFRZUjV3VW1lblVRMzV6ZVoxaGdacFRPTklnNjI1WlVwWWlmd3RPeTJuYWVSUkVwOEJmbTBzRC1FWHVjWmlocVhZeTNZNVVTUWln?oc=5</link>
+            <pubDate>Wed, 22 Oct 2025 17:05:19 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Trump sought $230M from Justice Dept. to settle past investigations of him - Axios</title>
-            <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPMkoxMHpUU0UzVnlxV3VnU2dlZVFhNV85TWhudVNKV3Q4TmNBVWt6S2ZKVldMVmFoRnQ4QV9JY0RuZXo2QzhsejYxTEFka3M2dWZvRHJUbnNleUlDTEs0WlNLSWUxdDVKNS1xWUNOY285QVlXNDlrRXEzZjFkaF8wRnRoTW4xNWc?oc=5</link>
-            <pubDate>Wed, 22 Oct 2025 06:46:24 GMT</pubDate>
+            <title>[NBA] Durant pins 2OT loss on himself in Rockets debut</title>
+            <link>https://www.espn.com/nba/story/_/id/46680170/durant-pins-season-opening-loss-rockets-fall</link>
+            <pubDate>Wed, 22 Oct 2025 13:29:54 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Newsmaker: Bobby Pape talks the Erie Philharmonic Symphonic Season</title>
+            <link>https://www.yourerie.com/on-our-air/newsmaker/newsmaker-bobby-pape-talks-the-erie-philharmonic-symphonic-season/</link>
+            <pubDate>Wed, 22 Oct 2025 14:41:32 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NHL] Marchand emotional in &#x27;touching&#x27; return to Boston</title>
+            <link>https://www.espn.com/nhl/story/_/id/46677119/bruins-fans-show-love-emotional-brad-marchand-return</link>
+            <pubDate>Wed, 22 Oct 2025 12:50:32 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] &#x27;We Corny&#x27; latest local restaurant to join Flagship City Food Hall</title>
+            <link>https://www.yourerie.com/news/local-news/we-corny-latest-local-restaurant-to-join-flagship-city-food-hall/</link>
+            <pubDate>Tue, 21 Oct 2025 22:05:45 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Your Weather Authority: Lake effect rain and a cool breeze</title>
+            <link>https://www.yourerie.com/dont-miss/your-weather-authority-lake-effect-rain-and-a-cool-breeze/</link>
+            <pubDate>Wed, 22 Oct 2025 15:03:07 +0000</pubDate>
         </item>
         
     </channel>
-    </rss><!-- Updated: Wed Oct 22 12:32:27 UTC 2025 -->
+    </rss><!-- Updated: Wed Oct 22 18:23:09 UTC 2025 -->
