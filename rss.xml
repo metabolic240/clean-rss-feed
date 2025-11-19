@@ -6,27 +6,165 @@
         <description>Filtered national sports and local Erie headlines</description>
         
         <item>
-            <title>[NHL] &#x27;Cool and new thing for me&#x27;: Zdeno Chara on entrepreneurship, his new job with the Bruins and more</title>
-            <link>https://www.espn.com/nhl/story/_/id/47001022/zdeno-chara-post-playing-career-marathons-entrepreneurship-new-job-boston-bruins</link>
-            <pubDate>Tue, 18 Nov 2025 09:48:49 EST</pubDate>
+            <title>[MLB] Offseason grades: Mariners re-sign Naylor in winter&#x27;s first big move</title>
+            <link>https://www.espn.com/mlb/story/_/id/46994593/2025-26-mlb-offseason-grades-free-agency-trade-analysis</link>
+            <pubDate>Tue, 18 Nov 2025 22:01:14 EST</pubDate>
         </item>
         
         <item>
-            <title>[NBA] LeBron kicks off record 23rd year with Lakers win</title>
+            <title>[NFL] Chase&#x27;s 1-game suspension for spitting upheld</title>
+            <link>https://www.espn.com/nfl/story/_/id/47016818/jamarr-chase-suspension-upheld-bengals-wr-sit-vs-pats</link>
+            <pubDate>Tue, 18 Nov 2025 22:12:26 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NBA] Lakers score 140 in LeBron&#x27;s historic season debut</title>
             <link>https://www.espn.com/nba/story/_/id/47016229/sources-lakers-lebron-james-make-season-debut-vs-jazz</link>
             <pubDate>Tue, 18 Nov 2025 20:48:46 EST</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] FBI probing stepsibling in cruise ship death of Florida teen, filing suggests - CBS News</title>
-            <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXRsMzU3X2lRQXBQMjVvQXA0TXhRVGUwOWtjX2Eyem1BMFJNWHJpUVptV3hOcWQ0YzlzZWVoVklMd3hPaDRtc2U0RFJyeEJYSU9TZEZVeXpUQXdlNGRWTnVNZFZWQW1GRnBxcWwzVWFXZFB3NGZ6YjVuWWhZQ1NZUGgxT2J3UjJZUzQyby1IbkRhZ21VUlhRb1pldnM4OG9IZi1yYnRWU3PSAa4BQVVfeXFMT1gxaGg3S0dmV202ZTVGZXJnQWxtdzBMbDlTbk9sLUJleG81MUxKR050eWZ6N2ZSMmNNVER4VXhTNWpSMnhueXBvNk4tWWJGWGVRQzF0VGpEdG5rYmwxUlpCdTJmblJ2MDJQVkZrUUlLU2tPeVVZVFZHeVdEN1VnRnpuaUJ2NFNBdFpGWW5pc3kybTBpQTVxZWx6N0xJaDk0U2RTY1J1dU5wMXNpNzhR?oc=5</link>
-            <pubDate>Wed, 19 Nov 2025 00:42:00 GMT</pubDate>
+            <title>[NHL] Roy rips into Stars&#x27; Rantanen for &#x27;disrespectful&#x27; hit</title>
+            <link>https://www.espn.com/nhl/story/_/id/47018631/patrick-roy-rips-mikko-rantanen-disrespectful-hit</link>
+            <pubDate>Wed, 19 Nov 2025 00:37:01 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Second Harvest Food Bank, Highmark launch (Un)Hungry Initiative</title>
+            <link>https://www.yourerie.com/news/local-news/second-harvest-food-bank-highmark-launch-unhungry-initiative/</link>
+            <pubDate>Tue, 18 Nov 2025 21:18:20 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Senate expected to send Epstein files bill to Trump - abcnews.go.com</title>
+            <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOUm56UW1XaGtkbmtFMm9icGpTUU90MEFERC1oQkZ0VzFpVllQVndERnpZeGs5T0dlSUF0V280Q3JVQXFWM0tTNWxheTVGclowT3duWjlxcTVjSXJnbDFjMkYxR0dUbmp0d2hSUFRQSmhsTFZWcFVKN09SRHBDdHZOWkRiVmpJcVBzdVdVWHN0MHotM19GRGg5ajkzRjHSAaIBQVVfeXFMTldvXzhsWUlEemhDeGpWdTBNMUg3czZaU3FxaEVVYldxanJMLU1ucTFvVDEzOENZRzVtUy1CMkNreHB1a0R6dkVPZVdfbjFLdWFlRTh5aUdKcUJlb3ZzVGVWQ2drRE1PWlVReVZRYlZUMmVidnI4czRoTWZqRF8tVkNseVJmOHNubTlsMzZORmdwMV9Sck0zS1RKdTFKUm15Ui1R?oc=5</link>
+            <pubDate>Wed, 19 Nov 2025 10:14:16 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Boebert yells at Republicans on House floor after censure of Democrat fails - The Hill</title>
+            <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNTEhld1AycGkwRU5UYmFJMm9wOERXbjRUQnJ1R1hFWTlJVzhyMlluWmFOX09pUGJfMVZtR1RjdUZXeVNxeXZ6dnBIMDNlT2RiS0JhTUpwa1F6ZGlXMUxSTS1yMVVuVjNnUWNpSVkyR1JmZG0wUnRCdU0tVEZQS3Y1ZDZFOEZEeUQtSHp5Y0ZrZ9IBlAFBVV95cUxPd2hXMUlfblZkLVRFX0NtYnpyUVpwb01pdEhZaUJWQU9TVHhYS0pGS3o3RHdvWmlHRHhLUHlFZDdnNmRZdm5KZWZjSjhZMEZqMWdzcW96YWZ6dklZS2dfWDFyejhSdGMwV21xYnB1QjEzUFNadGxIOWk1Z1VUUzFod3RiUklyaFRiV0RESFpzLTNsdDNT?oc=5</link>
+            <pubDate>Wed, 19 Nov 2025 03:44:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Victim identified in fatal Jamestown, NY school bus crash</title>
+            <link>https://www.yourerie.com/news/local-news/victim-identified-in-fatal-jamestown-ny-school-bus-crash/</link>
+            <pubDate>Tue, 18 Nov 2025 19:44:20 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] MLK Center leader Sherrod passes</title>
+            <link>https://talkerie.com/2025/11/14/mlk-center-leader-sherrod-passes/</link>
+            <pubDate>Sat, 15 Nov 2025 01:00:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Trump’s Capitol Hill dreams are at odds with GOP reality - Politico</title>
+            <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPTjZ5ZTIxZUd3Q3FmMDZjaUpQV3Y0bUgtSllhbWZlTWFpTS0yM01pMFk1em1pOF91XzNIMXdWbUlNVlNMWnFKRXEwX2RFajVfZm1BbFJlWFlLb1M1UWo5VzFTZklLR3NvTG9OX2JfNzBzdlNUcUhBUWs2enk1QmxKRmVqb2MydWVqbk9hT0N3QQ?oc=5</link>
+            <pubDate>Wed, 19 Nov 2025 09:45:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Dave’s Diner returns to downtown</title>
+            <link>https://talkerie.com/2025/11/17/daves-diner-returns-to-downtown/</link>
+            <pubDate>Mon, 17 Nov 2025 11:28:43 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] PA Fish &amp; Boat Commission starts steelhead trout spawning at Avonia Beach</title>
+            <link>https://www.yourerie.com/news/local-news/pa-fish-boat-commission-starts-steelhead-trout-spawning-at-avonia-beach/</link>
+            <pubDate>Tue, 18 Nov 2025 22:26:01 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Texas appeals ruling that Trump-urged voting map is racial gerrymandering - NPR</title>
+            <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRmpzcXc3SmR3cE5OQzhyQUU5c0tldGJEQXlsTVRWazhZVm5pc1p4aDJhUUFSSVpUb29JVTNjdjJjanV4elhvRnJaTEU2bjdzQ2tYWTVHZDlzcHVnVmFHNFF3eXg0ckhsU3dhdFhyOTFPdVd1V3o3V1laeURFWlpCcF93cVF4dld2?oc=5</link>
+            <pubDate>Wed, 19 Nov 2025 00:55:13 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Fear spreads as federal immigration crackdown in North Carolina expands to Raleigh - AP News</title>
+            <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxON1J5WF9UTUZFVGJTWkYtdnM1QXBGQlFwQUJZQ2NPVHdiOXN2M3gxOVl3Vnlvd3R0WHZrak9LLUNXZWpOMDhETTB0TF8wOXN3dEp4RWIwX0FiREFqdTV5czd0REs2aVJqN2FaMXVVd01ObW5STDVRNjR1RmZBXzF1bjVvNFJxZ2tnSTYzWUd2Ukh4STRmeWJfcDNScy0xZHZMZjk4Umx3cVNPWEdJTUhV?oc=5</link>
+            <pubDate>Wed, 19 Nov 2025 00:40:00 GMT</pubDate>
         </item>
         
         <item>
             <title>[NBA] Kerr worried NBA&#x27;s upped pace leading to injuries</title>
             <link>https://www.espn.com/nba/story/_/id/47015001/kerr-concerned-nba-increased-pace-leading-injuries</link>
             <pubDate>Tue, 18 Nov 2025 20:48:46 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Mayor-Elect Daria Devlin announces transition team</title>
+            <link>https://talkerie.com/2025/11/17/mayor-elect-daria-devlin-announces-transition-team/</link>
+            <pubDate>Mon, 17 Nov 2025 15:00:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Lake Erie National Cheer &amp; Dance Championship wins national award</title>
+            <link>https://talkerie.com/2025/11/17/lake-erie-national-cheer-dance-championship-wins-national-award/</link>
+            <pubDate>Mon, 17 Nov 2025 20:00:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Comey’s Lawyers Head to Court to Argue Vindictive Prosecution by Trump - The New York Times</title>
+            <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNMlFMVmU4cDdIUjlWbWRDZXBvRUZWc1Nsd2RwNFRrVjlySUFMT0lvNWJqaXFxWklBcUpSempUeldkTlJ1MUhXSW5LLWZ3RzJLS09KbW16QUJvb05CY2VjT0ItaXJIZGdwbGs1NEdtRlBXSGhYZ282VFY1T0JuY1Vmd0duNWhoUE96Z0xGLXZibw?oc=5</link>
+            <pubDate>Wed, 19 Nov 2025 10:03:29 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Erie High students get real-life budget lesson at financial reality fair</title>
+            <link>https://www.yourerie.com/news/local-news/erie-high-students-get-real-life-budget-lesson-at-financial-reality-fair/</link>
+            <pubDate>Tue, 18 Nov 2025 21:59:44 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Axolotl dies after being found in Walnut Creek</title>
+            <link>https://www.yourerie.com/news/local-news/axolotl-found-in-walnut-creek/</link>
+            <pubDate>Tue, 18 Nov 2025 21:26:59 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Gannon women&#x27;s volleyball sweeps West Chester to advance to PSAC Final Four</title>
+            <link>https://www.yourerie.com/sports/local-sports/gannon-womens-volleyball-sweeps-west-chester-to-advance-to-psac-final-four/</link>
+            <pubDate>Wed, 19 Nov 2025 02:55:12 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] O&#x27;s acquire Ward from Angels for RHP Rodriguez</title>
+            <link>https://www.espn.com/mlb/story/_/id/47017746/orioles-acquire-taylor-ward-angels-grayson-rodriguez</link>
+            <pubDate>Tue, 18 Nov 2025 23:28:36 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Wild Stuff: National Princess Day</title>
+            <link>https://www.yourerie.com/on-our-air/wild-stuff/wild-stuff-national-princess-day/</link>
+            <pubDate>Tue, 18 Nov 2025 22:34:12 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Japanese seafood caught up in escalating diplomatic dispute with China - Reuters</title>
+            <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1hhQWpZQ0N6VVROVjcxUFFlanZONUdRaTNORHhKOUF6Y09QWWFsc0ZtR0RZNFM3NTR1VkFpb0R0YjM1azBXcHM1Y2twQlR3MmFzVUVCWmZ0MXNkbjFNYTBfSXdvWFp3MVFQR2JGdEw4X2stMVlnM3dnUGNic2Z4ZE14WEVIN09xRy1wUmtwWUVyVldiSlZkNWdIV3hvWUU2V2tNVVFmLWlIRkg1SnlsUXRLTjItT3NlaENwcEo0b3VjUFp4cGluZlpjTQ?oc=5</link>
+            <pubDate>Wed, 19 Nov 2025 08:46:23 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Otters finding boost in recent special teams play</title>
+            <link>https://www.yourerie.com/sports/erie-otters/otters-finding-boost-in-recent-special-teams-play/</link>
+            <pubDate>Tue, 18 Nov 2025 23:43:49 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NHL] &#x27;Cool and new thing for me&#x27;: Zdeno Chara on entrepreneurship, his new job with the Bruins and more</title>
+            <link>https://www.espn.com/nhl/story/_/id/47001022/zdeno-chara-post-playing-career-marathons-entrepreneurship-new-job-boston-bruins</link>
+            <pubDate>Tue, 18 Nov 2025 09:48:49 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Poll: Democrats have biggest advantage for control of Congress in 8 years - NPR</title>
+            <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVRjanI5b1NrS1ctYm8wVU5LZUh5Q0FQb25uVm0ybUhyLUw3ZXpWekZRN20zVXI0a3VNQmd1a1RwRElQZEVMUDNPSmc1eWNEdk5aNFZfcE54aDVyY3M1Tm51VU5sNXdkWXJuZEZSd3U5Y2ZiSXJEUWlDdVZBVHVsN3U5Sm5KenkwRThTc0hadzlmVU1raDlENHFGcGg?oc=5</link>
+            <pubDate>Wed, 19 Nov 2025 10:00:00 GMT</pubDate>
         </item>
         
         <item>
@@ -42,129 +180,9 @@
         </item>
         
         <item>
-            <title>[LOCAL] Gannon women&#x27;s volleyball sweeps West Chester to advance to PSAC Final Four</title>
-            <link>https://www.yourerie.com/sports/local-sports/gannon-womens-volleyball-sweeps-west-chester-to-advance-to-psac-final-four/</link>
-            <pubDate>Wed, 19 Nov 2025 02:55:12 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Poland scrambles jets after Russian strikes on Ukraine, armed forces say - CNN</title>
-            <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUlvLXpzOXplQmFtRGo5N1pLamlVS0c0Y2kxQktJRmF6V2xwNm5mdWtsQ1NXYVhmV29DOGJtQzYweG00UjFkTTFPVzNHUFNvUy1PeHRMSVktSFFGSlpRNktoTlRUM3B3X0FnbmFfWG8yNm4xR3Nsem9abzhjbmNKWWNYaWlIQ2Fw?oc=5</link>
-            <pubDate>Wed, 19 Nov 2025 04:15:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Summers leaves his posts — but OpenAI still quiet - Politico</title>
-            <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOWW1UTllvRzM0WWswd3hDNGFtZWp5NkZzWnVlX1JLYm5zbEF3c2U3THowRXFTMmg3RUlBdWp6YjduVm5fWDFmVmQwOGEzN0l3Mzlmd2RxRXExQnNRQ1dRZDlpaWJxM0pySTd1MzQ3Z1phVzRfVTRabnVaNmIwSzF6eGY4enVjS3lBdU1HeS1PSXpjdFNTWXJEd1JSUU90OTFQeGc?oc=5</link>
-            <pubDate>Wed, 19 Nov 2025 00:33:55 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] Offseason grades: Mariners re-sign Naylor in winter&#x27;s first big move</title>
-            <link>https://www.espn.com/mlb/story/_/id/46994593/2025-26-mlb-offseason-grades-free-agency-trade-analysis</link>
-            <pubDate>Tue, 18 Nov 2025 22:01:14 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] ‘Things Happen’: Trump Brushes Off the Murder of Khashoggi - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNLW9iZ2EyRGJTcWpSUzJLZVNuTU8xb1R4WWJuQ0ZkNk9xWmRCMWtjTDA3ZF9HOUoweDdhdTB4VDFBR1Y1R1FGdEtXbDBBTThFQWN3Wm4taHFqdHZwc0FFN2N0X0szemJHTnhBaWJjcUh1eXcxLWcyMHREMHVuNEJNaENhR1NVUktMTzVyX0U4MA?oc=5</link>
-            <pubDate>Tue, 18 Nov 2025 22:09:07 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Axolotl dies after being found in Walnut Creek</title>
-            <link>https://www.yourerie.com/news/local-news/axolotl-found-in-walnut-creek/</link>
-            <pubDate>Tue, 18 Nov 2025 21:26:59 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Trump administration announces dismantling of parts of Education Dept. - The Washington Post</title>
-            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3A5cWsySlplczM0a3p6MmhpX1prc2tHVi1kQzA1OEhEdkstLWFHcGlUTWh4LUdSTG92amQySEw5TlFsM2F4eTdxajRkSkt2MXpadEgtdHJDbjA4dzVjSXZkbTZUc3hWS005Q2NMM2dhZEhwVktQU29EU0ZORUVrZGdwVTQ5OTVicWJHZmhPbmQ5N2pCelB0ZEpnaWxhcEFpaTlDQ2sxazBRSUxTR1hKbGhfSVY?oc=5</link>
-            <pubDate>Wed, 19 Nov 2025 06:15:44 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Two dozens House Democrats vote with Republicans to rebuke one of their members - Axios</title>
-            <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOc0ZnTGxYTllBbUIyRXJXSHZwdW8tTW9WMUxzTFZQU3VISUllNVZVbll5TWtuc0E5MXpEYWhYWlVoOWVuSGhwSmVGVVdVVENscGJ4WGVicXRCb0ZrTkpfZHFjRC1sZ0dpT0dCc3ZZVFpoUmQxeWNpRi1JaGcxYThXaHRrSXBUa00?oc=5</link>
-            <pubDate>Wed, 19 Nov 2025 01:36:03 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] PA Fish &amp; Boat Commission starts steelhead trout spawning at Avonia Beach</title>
-            <link>https://www.yourerie.com/news/local-news/pa-fish-boat-commission-starts-steelhead-trout-spawning-at-avonia-beach/</link>
-            <pubDate>Tue, 18 Nov 2025 22:26:01 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Redistricting rift growing among Indiana Republicans - Indiana Capital Chronicle</title>
-            <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQYXZjcWZHV2x3Qy1lcXF4T0pCVEV3dTBuWXNndHhmanBobVlVN0lpbEtWenJ2ZkU1QWtSWHdzd2tNN2lEbW1pYThkTHFlMTdRdkJRT2hVVGQ4TjFWV0xBaGRlM0h0b2JEdm8tUmFBZzc5RkFhaGh1WnBtYWxPLTFkd1VOeHcyN1pqaHJzejVLYWw0TGJPZ2czZDNpcmdzNzA4eXc?oc=5</link>
-            <pubDate>Tue, 18 Nov 2025 22:25:04 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Texas appeals ruling that Trump-urged voting map is racial gerrymandering - NPR</title>
-            <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRmpzcXc3SmR3cE5OQzhyQUU5c0tldGJEQXlsTVRWazhZVm5pc1p4aDJhUUFSSVpUb29JVTNjdjJjanV4elhvRnJaTEU2bjdzQ2tYWTVHZDlzcHVnVmFHNFF3eXg0ckhsU3dhdFhyOTFPdVd1V3o3V1laeURFWlpCcF93cVF4dld2?oc=5</link>
-            <pubDate>Wed, 19 Nov 2025 00:55:13 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Republicans fail in vote to oust Stacey Plaskett from House Intel over Epstein texts - Axios</title>
-            <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVIydDhKNDZCT3k3R2lmN0k0QXdrZ0djby1GZmx0aC1xaVptWXE5Q1R0MjNsdTBNaENmcnZIdlJpb25GRTZpWUNnWUZaYnlFRnV0ekVUc0NfaDAyLU5qc1RNMzVhV3VRRnpqUU1BMDdyM0c4ZzhBVlRuMXJVYVlwaXMxUkxRd29H?oc=5</link>
-            <pubDate>Wed, 19 Nov 2025 04:30:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] MLK Center leader Sherrod passes</title>
-            <link>https://talkerie.com/2025/11/14/mlk-center-leader-sherrod-passes/</link>
-            <pubDate>Sat, 15 Nov 2025 01:00:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Thune denies Johnson’s demand for Epstein bill changes - Politico</title>
-            <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPQjVWaGtYRDFLaEhuOTlDTS1TM0JhMjBUVzJ5eXlnZmxkR1c5aWFWV0tTSTIyVHJVZlhHRktVVG1DUmliVWdhd0gxU01lMXNZOTdvU1BSM2JrMjZxem9mZjRZeWF5M09LMjNrOXJOdkQ5ZkNObmM1MF9nenN2cHhRa1hLVWVFY2ZJM3ZVUFE0NEhEZ280bFhUTmdUQ1YyVXc?oc=5</link>
-            <pubDate>Wed, 19 Nov 2025 02:20:24 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Dave’s Diner returns to downtown</title>
-            <link>https://talkerie.com/2025/11/17/daves-diner-returns-to-downtown/</link>
-            <pubDate>Mon, 17 Nov 2025 11:28:43 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Erie High students get real-life budget lesson at financial reality fair</title>
-            <link>https://www.yourerie.com/news/local-news/erie-high-students-get-real-life-budget-lesson-at-financial-reality-fair/</link>
-            <pubDate>Tue, 18 Nov 2025 21:59:44 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] Chase&#x27;s 1-game suspension for spitting upheld</title>
-            <link>https://www.espn.com/nfl/story/_/id/47016818/jamarr-chase-suspension-upheld-bengals-wr-sit-vs-pats</link>
-            <pubDate>Tue, 18 Nov 2025 22:12:26 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Mayor-Elect Daria Devlin announces transition team</title>
-            <link>https://talkerie.com/2025/11/17/mayor-elect-daria-devlin-announces-transition-team/</link>
-            <pubDate>Mon, 17 Nov 2025 15:00:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Second Harvest Food Bank, Highmark launch (Un)Hungry Initiative</title>
-            <link>https://www.yourerie.com/news/local-news/second-harvest-food-bank-highmark-launch-unhungry-initiative/</link>
-            <pubDate>Tue, 18 Nov 2025 21:18:20 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] O&#x27;s acquire Ward from Angels for RHP Rodriguez</title>
-            <link>https://www.espn.com/mlb/story/_/id/47017746/orioles-acquire-taylor-ward-angels-grayson-rodriguez</link>
-            <pubDate>Tue, 18 Nov 2025 23:28:36 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Victim identified in fatal Jamestown, NY school bus crash</title>
-            <link>https://www.yourerie.com/news/local-news/victim-identified-in-fatal-jamestown-ny-school-bus-crash/</link>
-            <pubDate>Tue, 18 Nov 2025 19:44:20 +0000</pubDate>
+            <title>[NATIONAL] Trump elevates Saudi Arabia to ‘major non-NATO ally’ status - Politico</title>
+            <link>https://news.google.com/rss/articles/CBMifkFVX3lxTFB4SVM0bTBITmNLeEdtME1iX2hLMWx2QVNxRDhfRXM3Q3QyczdTX3FJbnp1UDN5T2szaUdWMjY4MzZfLWNQUDI4SEFrb1kwVWZ4UTVnVWhsdmR1Ym8zTHRveHltZlZhQUtBY2tyUFhKalNPNWx0bV96WXFIMXZJdw?oc=5</link>
+            <pubDate>Wed, 19 Nov 2025 01:58:16 GMT</pubDate>
         </item>
         
         <item>
@@ -174,34 +192,16 @@
         </item>
         
         <item>
-            <title>[LOCAL] Wild Stuff: National Princess Day</title>
-            <link>https://www.yourerie.com/on-our-air/wild-stuff/wild-stuff-national-princess-day/</link>
-            <pubDate>Tue, 18 Nov 2025 22:34:12 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NHL] Roy rips into Stars&#x27; Rantanen for &#x27;disrespectful&#x27; hit</title>
-            <link>https://www.espn.com/nhl/story/_/id/47018631/patrick-roy-rips-mikko-rantanen-disrespectful-hit</link>
-            <pubDate>Wed, 19 Nov 2025 00:37:01 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Lake Erie National Cheer &amp; Dance Championship wins national award</title>
-            <link>https://talkerie.com/2025/11/17/lake-erie-national-cheer-dance-championship-wins-national-award/</link>
-            <pubDate>Mon, 17 Nov 2025 20:00:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Otters finding boost in recent special teams play</title>
-            <link>https://www.yourerie.com/sports/erie-otters/otters-finding-boost-in-recent-special-teams-play/</link>
-            <pubDate>Tue, 18 Nov 2025 23:43:49 +0000</pubDate>
-        </item>
-        
-        <item>
             <title>[LOCAL] Pennsylvania resumes paying full SNAP benefits following end of federal government shutdown</title>
             <link>https://talkerie.com/2025/11/13/pennsylvania-resumes-paying-full-snap-benefits-following-end-of-federal-government-shutdown/</link>
             <pubDate>Thu, 13 Nov 2025 22:00:00 +0000</pubDate>
         </item>
         
+        <item>
+            <title>[NATIONAL] Judge orders some Texas public schools to remove Ten Commandments posters - The Washington Post</title>
+            <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQTmxRRVlDTy1SVnNTb2V4aG84S3VZaGdPY21TeFVvQlZuNWxPUHZ6R2RQS1Y5SkJNaEFKQmhISncwODVaOWp0WFdSTWttX2lhRmxpS3NOSnpmQmFnajdSeElDWm0zVXZBWm5xOHZodGVhVnJ6TzRVWVhPSTdtenZlNUdyZXkwck0?oc=5</link>
+            <pubDate>Wed, 19 Nov 2025 11:35:34 GMT</pubDate>
+        </item>
+        
     </channel>
-    </rss><!-- Updated: Wed Nov 19 06:22:52 UTC 2025 -->
+    </rss><!-- Updated: Wed Nov 19 12:32:54 UTC 2025 -->
