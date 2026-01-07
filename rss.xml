@@ -6,153 +6,33 @@
         <description>Filtered national sports and local Erie headlines</description>
         
         <item>
-            <title>[LOCAL] Mayor on the move-- Daria Devlin tours Erie businesses on first full day as mayor</title>
-            <link>https://www.yourerie.com/news/local-news/mayor-on-the-move-daria-devlin-tours-erie-businesses-on-first-full-day-as-mayor/</link>
-            <pubDate>Tue, 06 Jan 2026 23:48:15 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] Tracking NFL head coach firings: Ravens move on from John Harbaugh</title>
-            <link>https://www.espn.com/nfl/story/_/id/46437226/2025-nfl-coaching-changes-latest-news-rumors-firings-hires</link>
-            <pubDate>Tue, 6 Jan 2026 21:31:25 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Warren residents speak on WGH no longer offering labor and delivery</title>
-            <link>https://www.yourerie.com/news/local-news/warren-residents-speak-on-wgh-no-longer-offering-labor-and-delivery/</link>
-            <pubDate>Tue, 06 Jan 2026 23:44:23 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Erie man accused striking, pointing gun at woman</title>
-            <link>https://www.yourerie.com/news/local-news/erie-man-accused-striking-pointing-gun-at-woman/</link>
-            <pubDate>Tue, 06 Jan 2026 22:08:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Otters loading up for three-game road trip</title>
-            <link>https://www.yourerie.com/sports/erie-otters/otters-loading-up-for-three-game-road-trip/</link>
-            <pubDate>Tue, 06 Jan 2026 23:49:23 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] MLB offseason intel: Trade rumors and free agency updates</title>
-            <link>https://www.espn.com/mlb/story/_/id/47512606/mlb-free-agency-2026-updates-intel-rumors-bregman-bichette-tucker-bellinger-skubal-marte</link>
-            <pubDate>Tue, 6 Jan 2026 12:01:12 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Yemen’s anti-Houthi council expels separatist leader and says he faces treason charges - AP News</title>
-            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWjNTWHc3Ynk3MlNZOEJ4T0kzRF9kNTFZcktwSkNuOHpVLWtuSWdyWW1fcGVqVFNGbWtQMXdCUEY1ODM0NzBib3l6c00yNnVTSGViRjFZRk1obzVFQ0NJOEV5dWFQR0pDOXp5dzg4a1hVTnZTXzcwRXhMdWQ3cmRydHcxaE1aQXNLT0c0RjJwYXhidE9jZFN0UnZoNzJtNWlNTGUtOTNsb1YwUQ?oc=5</link>
-            <pubDate>Wed, 07 Jan 2026 10:41:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Two Erie County IT employees charged</title>
-            <link>https://talkerie.com/2026/01/02/two-erie-county-it-employees-charged/</link>
-            <pubDate>Fri, 02 Jan 2026 19:00:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] National Fuel projects gas supply costs for Pennsylvania customers next winter</title>
-            <link>https://talkerie.com/2025/12/31/national-fuel-projects-gas-supply-costs-for-pennsylvania-customers-next-winter/</link>
-            <pubDate>Wed, 31 Dec 2025 19:00:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] 5 Democratic-run states are told that their child care funds have been frozen - Axios</title>
-            <link>https://news.google.com/rss/articles/CBMickFVX3lxTE43NDY1dHdjTUdyY0pkb2tZVjZTWWNOMHFNdEpwUFhOVGx6TFdydVlPZk5lRWJmWFEwRW8yaHNVTE1KT1JvMHZSY3FXbFh1UHFBalg5QkNZcHhIMGtWLUtpS1g2eGlfT2FOZ0poblI1YmZnUQ?oc=5</link>
-            <pubDate>Wed, 07 Jan 2026 02:16:17 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] DHS wants Venezuelans to return home, but fears remain as long as Maduro regime is in power - NPR</title>
-            <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPWVZseWt3VjBuRzBSeWVndHhNcFNYQmRyMFVYc2lsNnA5Qk92WWRxX19DSTY0NnF5aHZZSjRLdDl5SnFPUVAxLWJwclhBOHMxeVVtNnhnMktvYjZVbDdLZjU3c3F2MVBSdlpZVDFRZjRKSXdsYzlGbmltdVFyMUVtR1JB?oc=5</link>
-            <pubDate>Wed, 07 Jan 2026 10:00:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Stephen Miller Offers a Strongman’s View of the World - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWVLWXcyX2RjLWM4M28xcGcxNEdZR0J2SDNVSG13UU9scEVqbU1jaTc4TjRQVGZrRnJCOTNMdmpIYzdLeVlRdnVXa2FTUG5TNl9uMkNSd2o4ZU00T0JyZkMwUnFLVHVNWFpoa01uTFhMalpyWHVfWV9pTmp6TmozVmpLVGNxSGtW?oc=5</link>
-            <pubDate>Wed, 07 Jan 2026 00:21:47 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Thompson hits 1,000 point mark, Ramblers top Trojans 98-86 in round one of boys hoops rivalry</title>
-            <link>https://www.yourerie.com/sports/local-sports/thompson-hits-1000-point-mark-ramblers-top-trojans-98-86-in-round-one-of-boys-hoops-rivalry/</link>
-            <pubDate>Wed, 07 Jan 2026 04:04:25 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NHL] Jets D Fleury alert, to stay in hospital after hit</title>
-            <link>https://www.espn.com/nhl/story/_/id/47534341/winnipeg-jets-defenseman-haydn-fleury-taken-ice-stretcher</link>
-            <pubDate>Wed, 7 Jan 2026 02:45:41 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Otters deal captain Frasca to Brantford for future draft picks</title>
-            <link>https://www.yourerie.com/sports/erie-otters/otters-deal-captain-frasca-to-brantford-for-future-draft-picks/</link>
-            <pubDate>Wed, 07 Jan 2026 02:52:15 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Trump presses Venezuela to dismiss agents from China, Russia, Iran and Cuba - Axios</title>
-            <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzNNTFVubEpTanJNWnR3QjhTTlpKa1h1ZnpObVdxZlpVM05YOEx6LVRfQUdIUmJXYUVSVEhSOU1qUkVpVlRlV1pPc1M3YXo5WWFxbk5OVVdIVE10Yk9PWjFtU2pUaVRVZkl4cm94dmhHQ25aNFJtaml2b1B5NEZPZ0xDSTNSaGUx?oc=5</link>
-            <pubDate>Wed, 07 Jan 2026 02:43:55 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] Harbaugh out as Ravens coach after playoff miss</title>
-            <link>https://www.espn.com/nfl/story/_/id/47531459/john-harbaugh-coach-ravens-sources-say</link>
-            <pubDate>Tue, 6 Jan 2026 18:45:40 EST</pubDate>
-        </item>
-        
-        <item>
             <title>[LOCAL] Erie police impound vehicle in fatal hit-and-run investigation</title>
             <link>https://www.yourerie.com/news/local-news/erie-police-impound-vehicle-in-fatal-hit-and-run-investigation/</link>
             <pubDate>Tue, 06 Jan 2026 19:01:49 +0000</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] PHMC launches “Pennsylvania 250: The Keystone of American History”</title>
-            <link>https://talkerie.com/2026/01/02/phmc-launches-pennsylvania-250-the-keystone-of-american-history/</link>
-            <pubDate>Fri, 02 Jan 2026 22:00:00 +0000</pubDate>
+            <title>[LOCAL] Trial delayed again for PA man accused of killing, dismembering teen</title>
+            <link>https://www.yourerie.com/news/local-news/trial-delayed-again-for-man-accused-of-killing-dismembering-teen/</link>
+            <pubDate>Wed, 07 Jan 2026 17:07:10 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Pardoned Jan. 6 Rioters Rally and Demand More from Trump - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMieEFVX3lxTFBmelZ1RzUxWlpXWW5iSnFtZzJzX0Rna3N1RGxuUG5Bb1JJUmVmY0M5eEtNQjVkZ3FTVWxHQms3dFJQWEMtOTNEV2loLTYtLWdWdDFnb1luVkZCVmFVN0F6MU5lOG8xR0VaSGp6WThHaWRsTlhHOGhfUQ?oc=5</link>
-            <pubDate>Wed, 07 Jan 2026 00:39:01 GMT</pubDate>
+            <title>[NHL] Declining Devils author &#x27;embarrassing&#x27; 9-0 loss</title>
+            <link>https://www.espn.com/nhl/story/_/id/47535825/new-jersey-devils-lose-9-0-flat-embarrassing-effort</link>
+            <pubDate>Wed, 7 Jan 2026 11:24:31 EST</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] District of Massachusetts | Update on Investigation into Brown University and Brookline Shootings - Department of Justice (.gov)</title>
-            <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQa2w2SWtneXRwRi1KeGJ1RDZ4X2l6S1Vlb1NTX3hpQWRpanJiQ2NqMW5sXzVwRG9XdHZ1T3NQS0tyd2lmZ3phODEzVlNmOGVnOXZCSW5QZEduSHk5WUZSa2huRDZMbTNpMFlXZGJUcDc1OThQbHE1M0Vld0QyZHdjcVVMWktVMU15VjlzNWhNdVRRbFliLUlleUh0TFQ?oc=5</link>
-            <pubDate>Tue, 06 Jan 2026 21:49:12 GMT</pubDate>
+            <title>[NATIONAL] DHS Secretary Kristi Noem Hits the Streets with ICE Agents on Major Minneapolis Enforcement Operation to Arrest Criminal Illegal Alien Murderer and Sexual Predator Released Into the Country by the Biden Administration - Homeland Security (.gov)</title>
+            <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzA0R0hKeHZ2U25sTktTRmR0R3RGMXl3MDlxWjFPbkNubFVoeFV1WUdOOGxvNlRxOG9RX1REcDIyNTNaVG8tc2pNM0QxdzFqakhuTWdCTG1VZ2N4Z1BRV3o0ek1iUkt6d2tiMEVEN0p4cmVqQS1fbXZqb2NVTTZFMGNFb2N4ek1mSldUWUdWN2NIdVVaYWRHczZLSGhkZ1RWWktJZUZHbU1QZ1hCdWlaX3RhX0RCZw?oc=5</link>
+            <pubDate>Tue, 06 Jan 2026 20:30:11 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NBA] Wemby has 30 in return, sits out crunch time loss</title>
-            <link>https://www.espn.com/nba/story/_/id/47532956/victor-wembanyama-returns-vs-grizzlies-come-bench</link>
-            <pubDate>Wed, 7 Jan 2026 06:58:26 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Michael Reagan, son of former President Ronald Reagan, has died, family says - ABC News</title>
-            <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUxGbEtwd0ZacU5RY0ZPWHlpd1NfQXdaQ2h1d0czSXl3UjRNN09OSWRFb0VfVW12NEJ1YWNWeTJRSVZWdU96SHlreTdyaXZsSDFUU1ZFaUVRVlBZVnB6aUdCR21fdGQ4bVVxNlhuWkRsQm1JRjJHeXRoUkg3bXZyMmFDYUtvTmNiTmJSdHB1a2lvYnlCbDlYQmZsY3dudEdK0gGmAUFVX3lxTE5kQVh1SjlFUGVfel84U1Vlc19nVGl6MlJhZ3VOdFItNzN6UDBjME1hUjJvRlVkX2JhYU03aFhwSmdaOHRRT3VZOVFHM2pEYkE2MzBJekpqNlhwQm1nWkJmMzZCR2d5OHNJNmtLeDBXUWk2dGZ0dmpNRlozR3F4YUM4WWxNTlIxNEhoWmNBRTBqbEVTSDE3RWNNNmxOZVhFeXRJaGhmeVE?oc=5</link>
-            <pubDate>Wed, 07 Jan 2026 00:11:15 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] The House GOP confronts a shocking loss and a difficult road ahead - Politico</title>
-            <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnJiR19SaEMzd3BtVl9OenEzdDdiLWU4clc0VlJoSC0tV2o5Sm5GajJwbi1RLU8zRTk4MFhjTWplLV9kdWpQRmxHMVlUN29nUWtKNjBMVVVZSFgwZ1RKdnE2a2lhYWVtcml4ekdocGtfZ0doNC0xTVdBM09fTERnMzVQOUNFSHJDOXpYN2NFQ0J0em9CVThR?oc=5</link>
-            <pubDate>Tue, 06 Jan 2026 23:05:36 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Erie County, PA named top 10 snowiest county in United States</title>
-            <link>https://www.yourerie.com/news/local-news/erie-county-pa-named-top-10-snowiest-county-in-united-states/</link>
-            <pubDate>Tue, 06 Jan 2026 22:01:16 +0000</pubDate>
+            <title>[NATIONAL] Paris Declaration - &#x27;Robust Security Guarantees for a Solid and Lasting Peace in Ukraine&#x27;, issued by France - consilium.europa.eu</title>
+            <link>https://news.google.com/rss/articles/CBMinwJBVV95cUxQNzV0eFBhRkRrZUhGTjVSMWFRc2NVM0J4ODctTEhRSDM1S09aaWUyNU1lSFg4c2w5Yk0wY0tvdHJ0am50OVhZMDZpUDJTNDJsYkx4Y2NqaEtQekpvSlRNT0RPcXd2Q3k2endGOW9oOWF1WTVtRkhfdnpiVVBjYVZ2cmRVdkVubUZheU1TSkdsR1gtMEszNDR0NVU5d1c5Vlc4Wm85SF9nNWZmeTlUcmpRVXlHbGY0WTZXS25tVzlXMGUteFFSeXhyVU1rRm5jVkZtVklqS1p2ZUhPRnM3UUg1TTcwZk9aWWo3ZnpQOTBGU2dtU3A5azliajhKelR4SHJZVE5FM0xWVFpPSmxGVDNuNG1XSW9ubW9NbGpmOEh0TQ?oc=5</link>
+            <pubDate>Tue, 06 Jan 2026 18:51:18 GMT</pubDate>
         </item>
         
         <item>
@@ -162,40 +42,166 @@
         </item>
         
         <item>
+            <title>[NATIONAL] Separate and alone: How Nicolás Maduro and his wife can expect to be treated in jail - CNN</title>
+            <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE5mMVdtMnlRZFNHRVZ0X2tpeUVKcHRRUjdZMjdVNXdZeUtmTmMybTNfbUVkTTBNcTRKRjdTQUoyamIwbC0wTFJqZXRpVGd4Z2ozeG4zX3dLclZqN1VWQm9PNWhkeUxhd2JYQWF1aVJxNW01NXowOURIMVlMTGQ?oc=5</link>
+            <pubDate>Wed, 07 Jan 2026 17:29:55 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Ray Jayawardhana Appointed Caltech&#x27;s Tenth President - Caltech</title>
+            <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNRUZCTFJha0NBcFk0bTRJb0dySWdPRUxWS3NaUUxFckVNd3Noc3NHMjJuQVpoc29jWDVpaDlMYjBEQTYzMDYzYlBySHYwY1FrRG9FSmdVSVVrZmF0cE5SUE54cHhfU1VxVVhIamV0UXVuekhzMUdWVEtfaV9GS2JZX2pKSHoya3pPUlVUS1NR?oc=5</link>
+            <pubDate>Tue, 06 Jan 2026 19:14:30 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Chris Mason: UK grapples with new era of US unpredictability - BBC</title>
+            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UOFFaWFpzRTFFYzZ2ZUQ3TVR0YU9CeGxCT1g2OVEwekZuNUY1M1l5OUpjMm03WXBncXBoS2dtblgyb1JVb0JIeGNLUjBKNmt5cHQ3SVlhRmZWUQ?oc=5</link>
+            <pubDate>Wed, 07 Jan 2026 04:06:51 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NFL] Bama QB Simpson says he&#x27;s headed to NFL draft</title>
+            <link>https://www.espn.com/college-football/story/_/id/47539318/alabama-qb-ty-simpson-says-entering-nfl-draft</link>
+            <pubDate>Wed, 7 Jan 2026 13:15:00 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Application portal for Erie Sports Commission Facility Grant Program now open</title>
+            <link>https://talkerie.com/2026/01/06/application-portal-for-erie-sports-commission-facility-grant-program-now-open/</link>
+            <pubDate>Tue, 06 Jan 2026 18:00:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] WATCH: Briaunna Malone live at the JET 24, CBB blood drive!</title>
+            <link>https://www.yourerie.com/news/local-news/watch-briaunna-malone-live-at-the-jet-24-cbb-blood-drive/</link>
+            <pubDate>Wed, 07 Jan 2026 15:36:08 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Wellness Wednesday: Keeping health and fitness resolutions</title>
+            <link>https://www.yourerie.com/on-our-air/wellness-wednesday-keeping-health-and-fitness-resolutions/</link>
+            <pubDate>Wed, 07 Jan 2026 17:42:09 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] A&#x27;s denied &#x27;Athletics&#x27; trademark ahead of LV shift</title>
+            <link>https://www.espn.com/mlb/story/_/id/47531275/a-denied-athletics-trademarks-ahead-move-las-vegas</link>
+            <pubDate>Wed, 7 Jan 2026 12:30:48 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Two Erie County IT employees charged</title>
+            <link>https://talkerie.com/2026/01/02/two-erie-county-it-employees-charged/</link>
+            <pubDate>Fri, 02 Jan 2026 19:00:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NHL] Standouts and biggest surprises (both good and bad) from the 2026 World Juniors</title>
+            <link>https://www.espn.com/nhl/story/_/id/47527887/world-junior-championship-2026-nhl-best-prospects-draft-teams-players-usa-canada</link>
+            <pubDate>Wed, 7 Jan 2026 11:24:29 EST</pubDate>
+        </item>
+        
+        <item>
             <title>[NBA] LeBron says it&#x27;s on him to bend game around Luka</title>
             <link>https://www.espn.com/nba/story/_/id/47536437/lebron-james-says-to-bend-game-luka-doncic-not-other-way-around</link>
-            <pubDate>Wed, 7 Jan 2026 06:58:26 EST</pubDate>
+            <pubDate>Wed, 7 Jan 2026 12:22:04 EST</pubDate>
         </item>
         
         <item>
-            <title>[NHL] Declining Devils author &#x27;embarrassing&#x27; 9-0 loss</title>
-            <link>https://www.espn.com/nhl/story/_/id/47535825/new-jersey-devils-lose-9-0-flat-embarrassing-effort</link>
-            <pubDate>Wed, 7 Jan 2026 02:45:41 EST</pubDate>
+            <title>[MLB] Sources: Cubs, Marlins close to Cabrera trade</title>
+            <link>https://www.espn.com/mlb/story/_/id/47539960/sources-cubs-close-landing-edward-cabrera-trade-marlins</link>
+            <pubDate>Wed, 7 Jan 2026 12:30:48 EST</pubDate>
         </item>
         
         <item>
-            <title>[MLB] Offseason grades: Blue Jays make another splash by signing Japanese 3B Okamoto</title>
-            <link>https://www.espn.com/mlb/story/_/id/46994593/2025-26-mlb-offseason-grades-free-agency-trade-analysis</link>
-            <pubDate>Tue, 6 Jan 2026 12:01:12 EST</pubDate>
+            <title>[LOCAL] Erie native Shawnna Pasquale killed in Ohio, family reflects on her life</title>
+            <link>https://www.yourerie.com/news/local-news/erie-native-shawnna-pasquale-killed-in-ohio-family-reflects-on-her-life/</link>
+            <pubDate>Wed, 07 Jan 2026 15:03:03 +0000</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] WQLN responds after Corporation for Public Broadcasting announces shutdown</title>
-            <link>https://www.yourerie.com/news/local-news/wqln-responds-after-corporation-for-public-broadcasting-announces-shutdown/</link>
-            <pubDate>Tue, 06 Jan 2026 22:18:18 +0000</pubDate>
+            <title>[LOCAL] Christ United Methodist Church is this week&#x27;s winner of Loving Giving Local</title>
+            <link>https://www.yourerie.com/on-our-air/loving-giving-local/christ-united-methodist-church-is-this-weeks-winner-of-loving-giving-local/</link>
+            <pubDate>Wed, 07 Jan 2026 15:13:35 +0000</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Millcreek Twp. approves leasing two new fire command vehicles</title>
-            <link>https://www.yourerie.com/news/local-news/millcreek-twp-approves-leasing-two-new-fire-command-vehicles/</link>
-            <pubDate>Tue, 06 Jan 2026 22:48:35 +0000</pubDate>
+            <title>[LOCAL] PHMC launches “Pennsylvania 250: The Keystone of American History”</title>
+            <link>https://talkerie.com/2026/01/02/phmc-launches-pennsylvania-250-the-keystone-of-american-history/</link>
+            <pubDate>Fri, 02 Jan 2026 22:00:00 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Russia sends navy to guard oil tanker being pursued by US forces - BBC</title>
-            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMW5ySE1fR0VpMDRQSnViUG9lLVdWMU9JV0JoT1pZNXg4cTVOcl9kSWozM2FrTWhueHFpMm5pQlFPSkdrMEhCdTc0akpIOV9qMVJ3NUFOYnRrZ9IBX0FVX3lxTE5FWlZNLTRab2t6WlhBcnNzUlZSNEJCMmo4WDNCVW1TbTlVMkJfUUFhNmNmeUd3N2tKTVdNTTBRRkctOFRDclZOLVBiV18ya05PalA5V3Vvak5hWUlFWWpr?oc=5</link>
-            <pubDate>Wed, 07 Jan 2026 10:17:08 GMT</pubDate>
+            <title>[LOCAL] Period to claim refund from St. Jude raffle ends</title>
+            <link>https://www.yourerie.com/news/local-news/period-to-claim-refund-from-st-jude-raffle-ends/</link>
+            <pubDate>Wed, 07 Jan 2026 17:35:11 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Warren residents speak on WGH no longer offering labor and delivery</title>
+            <link>https://www.yourerie.com/news/local-news/warren-residents-speak-on-wgh-no-longer-offering-labor-and-delivery/</link>
+            <pubDate>Tue, 06 Jan 2026 23:44:23 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] At least 36 people killed during Iran protests, rights group says - BBC</title>
+            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE40NVJGcnB5bDZxZE1yTXFWT3NFQTBfUHVJdnBfdmJIVzZpVlo4MGVva0ItblpTZTdlQW9Ic3h4U0g0T1RfTGVQT0FVZ2NsQWpScnA2UWNHMG55Z9IBX0FVX3lxTE5KOEpPY2x5aDFXMk1BN1pjSWJnQVUtNlpnMFNWYlZiUFpaV2lXbkd5cnpRaFdSRWxabEhMUGdNMmlrUkRoNi1odnllRXd6WmpzMGduNk12a3pFQjFjcmdZ?oc=5</link>
+            <pubDate>Tue, 06 Jan 2026 23:31:03 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NBA] Roster overhaul, six pillars and the Pittsburgh Steelers: Inside the Kings&#x27; latest revamp</title>
+            <link>https://www.espn.com/nba/story/_/id/47530219/can-sacramento-kings-fixed-next-trade-deadline</link>
+            <pubDate>Wed, 7 Jan 2026 10:25:07 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Erie’s 2026 Visitor Guide showcases the region as a four-season destination</title>
+            <link>https://talkerie.com/2026/01/07/eries-2026-visitor-guide-showcases-the-region-as-a-four-season-destination/</link>
+            <pubDate>Wed, 07 Jan 2026 14:31:23 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Office of Public Affairs | Justice Department Sues Arizona and Connecticut for Failure to Produce Voter Rolls - Department of Justice (.gov)</title>
+            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV3h1dGs0SlY3RE9LUjFKM1pwbFhfQmhlVjhpSFQ4dVBLZWlzUUFnWmI5VVRsZ1N5M2MweVg3bWVrSGRvM1hmQW40eXN3UU00MGU3Tl9WbElRY01pQTZPaGp2akp1N2NIN3VRZ1NLMjVkclNhNjd2NDc2NzJ0SEtVZnJVSm9seXE3WXBCOENvOGRrNk80eGFTaEwzTjliZ3dqQmlVNDJkWkVRUQ?oc=5</link>
+            <pubDate>Tue, 06 Jan 2026 22:01:08 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Rep. Doug LaMalfa, a steadfast advocate for California’s North State, dies at 65 - CalMatters</title>
+            <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE1rWlVURWFidThabXBuN1JoZkR4bGtmQ0M2c3EwZGY5aDdnUzlUdFV6UUpid05hMU1Ra1ZxUnI0VG5mNURFWkt4cWpKVWxBUk1kRzZ1b3pGWWR6UmJ5Rk81bXhTWmNQVE9IUzY5T2l3?oc=5</link>
+            <pubDate>Tue, 06 Jan 2026 17:38:53 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] National Fuel projects gas supply costs for Pennsylvania customers next winter</title>
+            <link>https://talkerie.com/2025/12/31/national-fuel-projects-gas-supply-costs-for-pennsylvania-customers-next-winter/</link>
+            <pubDate>Wed, 31 Dec 2025 19:00:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NFL] Harbaugh out as Ravens coach after playoff miss</title>
+            <link>https://www.espn.com/nfl/story/_/id/47531459/john-harbaugh-coach-ravens-sources-say</link>
+            <pubDate>Wed, 7 Jan 2026 13:15:00 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] &quot;Put up or shut up now&quot;: Walz unleashed after announcing political exit - Axios</title>
+            <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPTndOOUhuYVM0OFBaanlvQ0EyQTZqbXJwMXo5ejk2dFVKSmh4Y2lTa2VaMGRZWF9tamQ5UUN1ay0waG9RZU1YTktmXzFOT252cmZfR1Vmd3hVelN1M0Q0VVhyZjJKRDNraURsZi1JSTFnVnhXVUJZdExQMThtWDRtTTIxa0VNOVhqTnB6eFd0Smc0X3J6TXMwUmZMNA?oc=5</link>
+            <pubDate>Wed, 07 Jan 2026 12:33:54 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Fact Sheet: Trump Administration Resets U.S. Nutrition Policy, Puts Real Food Back at the Center of Health - Department of Health and Human Services (HHS) (.gov)</title>
+            <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFVpX2hTVVhNZjdTS3cxWlRCaTRPUTJ2VjJFZHlqQ1hQUnB6VTBzTjk3TnNfX01RYzF5aGRUak40NkJVZE5rdi1WeXhRVVkzYzgtSXV1V3Vsa21UN0pUcDhLWGFFd0VlOEh3T1dkNVJvbkd4ZW15Q2luV0xsbUVLWGJZbEJFOE1sYVg1ZGNhRQ?oc=5</link>
+            <pubDate>Wed, 07 Jan 2026 15:29:52 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Mayor Daria S. Devlin announces Mayor’s Office restructuring and additional hires</title>
+            <link>https://talkerie.com/2026/01/06/mayor-daria-s-devlin-announces-mayors-office-restructuring-and-additional-hires/</link>
+            <pubDate>Tue, 06 Jan 2026 17:00:00 +0000</pubDate>
         </item>
         
     </channel>
-    </rss><!-- Updated: Wed Jan  7 12:35:57 UTC 2026 -->
+    </rss><!-- Updated: Wed Jan  7 18:25:48 UTC 2026 -->
