@@ -6,165 +6,39 @@
         <description>Filtered national sports and local Erie headlines</description>
         
         <item>
-            <title>[NHL] Panthers, Sharks goalies throw punches in scrum</title>
-            <link>https://www.espn.com/nhl/story/_/id/47665658/florida-sergei-bobrovsky-san-jose-alex-nedeljkovic-trade-punches</link>
-            <pubDate>Tue, 20 Jan 2026 07:17:05 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] EMTA now accepting donations for annual Winter Goods Drive</title>
-            <link>https://www.yourerie.com/news/local-news/emta-now-accepting-donations-for-annual-winter-goods-drive/</link>
-            <pubDate>Mon, 19 Jan 2026 21:38:53 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Israel begins dismantling process of banned UNRWA&#x27;s Jerusalem headquarters - The Jerusalem Post</title>
-            <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wRjdYS2ZEUF8tamJfSWtGamtyYkNaVmJ5Z044WC1XMjN1UEtxOWdxOG9wYnN2dWl2QjRUazdYVXJjYnRQVWJ6Wm9oLWF2R09aUXNLNXpNa2xUeTVa?oc=5</link>
-            <pubDate>Tue, 20 Jan 2026 07:47:53 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Two Lakers score 20 in Mercyhurst&#x27;s victory over Central Connecticut</title>
-            <link>https://www.yourerie.com/news/local-news/two-lakers-score-20-in-victory-over-central-connecticut/</link>
-            <pubDate>Tue, 20 Jan 2026 04:02:58 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Stars and Stripes Gymnastics Invitational and MLK Cup return to Erie</title>
-            <link>https://talkerie.com/2026/01/14/stars-and-stripes-gymnastics-invitational-and-mlk-cup-return-to-erie-2/</link>
-            <pubDate>Wed, 14 Jan 2026 19:00:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] Sources: Titans finalizing deal to make Saleh coach</title>
-            <link>https://www.espn.com/nfl/story/_/id/47667622/sources-titans-finalizing-deal-make-robert-saleh-coach</link>
-            <pubDate>Tue, 20 Jan 2026 01:40:48 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NBA] King James aversion: LeBron not an ASG starter</title>
-            <link>https://www.espn.com/nba/story/_/id/47662714/lakers-lebron-james-not-voted-all-star-game-starter</link>
-            <pubDate>Tue, 20 Jan 2026 01:47:18 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] One person transported following Millcreek house fire Monday</title>
-            <link>https://www.yourerie.com/news/local-news/one-person-transported-following-millcreek-house-fire-monday/</link>
-            <pubDate>Mon, 19 Jan 2026 18:47:11 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Ribbon cutting marks opening of the Second Harvest Marketplace</title>
-            <link>https://talkerie.com/2026/01/14/ribbon-cutting-marks-opening-of-the-second-harvest-marketplace/</link>
-            <pubDate>Wed, 14 Jan 2026 19:30:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NBA] Sources: Warriors&#x27; Butler tears ACL, ending season</title>
-            <link>https://www.espn.com/nba/story/_/id/47667747/warriors-jimmy-butler-helped-knee-injury-vs-heat</link>
-            <pubDate>Tue, 20 Jan 2026 03:45:37 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Trump threatens 200% tariff on French wines as Macron reportedly snubs &#x27;Board of Peace&#x27; seat - CNBC</title>
-            <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQMW43SktUOUk4YzF6d1VfQ0VFRUVRczloWDg5R3Z2V0lMa2FoUVdIcGhWNWNRVmZwR2tWU01KWGx1cHFSUlRTRXAwVkVWTDF2LUtBTXpvWG1nZWZMQ3NIWE5CMndVMGRPZzJPVTF4TVZpb2xGQ1hNVEN0ZjNoaDZySkhaQ2k1NUFCdjMtMnJoUW5zUjFLbmlZeTdxZldES1VZcVdBRNIBqgFBVV95cUxQRkg5bnNmblhCZFBtYWVSdkl1cEU2aGhySDJFRlhaOWZSUzdTUUQ4YlFSOC1HdEFKcVJFNVZmdXVqdmxPNURxQ1ZkTy16TkZKWklBcWxVRGlZSm13N0l0dVA4eTliUEhOQl9lWjJLN044SGpOUEdSVUtYT1o0QVdtNk5DZDlCZkQ2MUttYzlWMzNXSV9ERnFnSlBjemZ2ZThXdEJQQi1EUzZ1UQ?oc=5</link>
-            <pubDate>Tue, 20 Jan 2026 05:35:07 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Netflix revises its offer for Warner Bros. Discovery. Now, it’s all cash - CNN</title>
-            <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnJLbFV0YldhclpQREE4YjBvOTVYTUxjeXBXNlItTkhia0pobmdFaWxndWVUcmcxTFJKbVkwaUhTYUNfZzNPeUJ0M21uOFY0UVA5RUNvUDVBTzN3bGNGbUdfNzBzZmZVcEt3d1REdkJidWxKeE5EeTN6UmdPcmxEZ1Mzdk16d2g5?oc=5</link>
-            <pubDate>Tue, 20 Jan 2026 12:05:04 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] 2026 Martin Luther King Jr. Memorial March</title>
-            <link>https://www.yourerie.com/news/local-news/2026-martin-luther-king-jr-memorial-march/</link>
-            <pubDate>Mon, 19 Jan 2026 23:18:47 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Dow futures tumble nearly 700 points after Trump threatens new tariffs over Greenland: Live updates - CNBC</title>
-            <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFB6aFhReFdKU1ZXQVpTNlFRalk5VkduNFp6cXh2aFd2bGxzcTVyb2ZrZkEwbm1XeU50N1hIZFRoTDN5REhLQVI5Rk52VHlIMlQ1SkN1bXlUUWQ5N3dLbF9KRkNyeEJHTktXcHlUYUdDLVA0YkxrT1Vj0gF8QVVfeXFMUGpoZU5NM24zWG5MNmVVUUFHRmdQMTh1QjdKZnBmWEZZc0R4ZktxSUVHeWR6bDBULU9zQm1TTlNSc3J6SUp2Z0VweENMaml4TER5cTRVWTJvYk1oVlBwM1lHRHEtbm5PYVBhRGJHNlhSb2RoeE13cGxNQnJaOA?oc=5</link>
-            <pubDate>Tue, 20 Jan 2026 12:12:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Prince Harry v Daily Mail live: Prince Harry and Liz Hurley in court for second day - BBC</title>
-            <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRS1LU3RLLVRSLVduOFRJcVNoNXYwRGVmbkNacy1vdW1UMk1SMGwzTmR0TGZFTmNySWFvRUtBMHFNSWpXQzVhY3FQQ2lqSzBaZEJoQg?oc=5</link>
-            <pubDate>Tue, 20 Jan 2026 12:35:57 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] ‘Like an Earthquake’: How 40 People Died in a Spanish Train Crash - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPeHRTclJfU3BCNEg3U2pHVkhBVWxhNjVYa3I1NGszSW9JMzNxaUNiTmIzcHhqc0dwWGFyci1rMzdOMDNER1JUUmVsVHBRckJQaDdoREhUUFk4Q2d5RVpGbklhcExZLWpfZzhJTW5BTkJHUHpramVvcThvc0F3MWk4cEFnNm5YcDA2TTF5cmFB?oc=5</link>
-            <pubDate>Mon, 19 Jan 2026 20:56:37 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] EMTA invites public to share input through Transit Development Plan survey</title>
-            <link>https://talkerie.com/2026/01/14/emta-invites-public-to-share-input-through-transit-development-plan-survey/</link>
-            <pubDate>Wed, 14 Jan 2026 18:30:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] Source: Rangers add to bullpen with RHP Junis</title>
-            <link>https://www.espn.com/mlb/story/_/id/47655106/source-rangers-signing-reliever-jakob-junis-one-year-deal</link>
-            <pubDate>Mon, 19 Jan 2026 14:02:30 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Powell Ave, Asbury Road closed in Millcreek Township due to weather</title>
+            <title>[LOCAL] Powell Ave, Asbury Road reopened Millcreek Township Tuesday</title>
             <link>https://www.yourerie.com/news/local-news/powell-ave-asbury-road-closed-in-millcreek-township-due-to-weather/</link>
             <pubDate>Mon, 19 Jan 2026 20:14:51 +0000</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] It&#x27;s more the cold than the snow for now…</title>
-            <link>https://www.yourerie.com/news/local-news/its-more-the-cold-than-the-snow-for-now/</link>
-            <pubDate>Tue, 20 Jan 2026 06:05:57 +0000</pubDate>
+            <title>[NFL] Trespassing charge vs. Vikings&#x27; Addison dropped</title>
+            <link>https://www.espn.com/nfl/story/_/id/47672675/state-drops-trespassing-charge-vikings-jordan-addison</link>
+            <pubDate>Tue, 20 Jan 2026 13:16:27 EST</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Alexander brothers set to face federal sex trafficking charges - ABC News</title>
-            <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPSWV2NzFpQ21NTTBqN05ERXF4bkZMNFZUNEZrWTl4UnpOb2YweTJuRTJla2dwWkF3elM3Z28xUV9pMnh0OUFBSFpxZ1M2RzZYQWVIWDVMdlAycVh5SEVDYzV6Y1NNUGpkeldab2dHeUpNcFI4V2xZa0hod1ZsQnZpS0dwS1hUbE9lZzJodUgxb2ZuUlYxdGVjV0F4YmxhM1k0T0dURmxTUdIBrAFBVV95cUxNbFFvZnRWU2NUcTRzYngtdnFoM3BnbVF5NW9BRGFrUVE1c2VxV0VRZmJlNEFaMmF6Y3lHZFRyWDFmM3ZrdWkzOE4tWUdkWEtJbDkxUU5hb09Gc1hQdGc4amtaY0dkakhDdXFnSHZ4OHNTSDZLb1J2YS1kOGgwUWpBWmotZ085LVVEYUtqNFdpajU1N19XWk5QYUFrNGs2TFozVGt4NTN2bXN4WE9k?oc=5</link>
-            <pubDate>Tue, 20 Jan 2026 10:07:32 GMT</pubDate>
+            <title>[NATIONAL] Trump’s a T-Rex and ‘pathetic’ leaders need to confront him, rages California’s Newsom - politico.eu</title>
+            <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd091NmtwVVQ0YmN2T0pQUGlwcG53UDZkd0VhUk8yeW42cUlNRGs5b0huMVZUaGNQTjZlREtxZXFLM28zaWxlS1MwMUFjTEwteDE0QlVuSU9VQWFlQkZJZ2Q3MktqS1Q2enpWTWx2WFF6bmRHQm1fLUVFT3NfZ1hjaW1fcFJENnVO?oc=5</link>
+            <pubDate>Tue, 20 Jan 2026 12:37:00 GMT</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Speed limits restored on NWPA interstates Monday</title>
-            <link>https://www.yourerie.com/news/local-news/penndot-lowers-speed-limits-on-nwpa-interstates-monday/</link>
-            <pubDate>Mon, 19 Jan 2026 16:48:04 +0000</pubDate>
+            <title>[NATIONAL] The Trump Drama Hits Davos - The New York Times</title>
+            <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQbUNMWDhJSW9XTGtTcGxIZzNEUWVGOWk3SmdCTng3X1prd1UwaEE4azV3NWpRQXZ0eHhyRkM5VWpwVkVHSEFFY0Mxb3prSjZmMjZoYVpaaXRRVmFPMjhVVnBZMTdBSlFmZ2VmS0ZwRDRTWk5TcGF6MkZRNm43aW50MzN1WmM1LTFGVkVyQ3Y2Z3A?oc=5</link>
+            <pubDate>Tue, 20 Jan 2026 13:18:10 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Australia set to pass tougher laws on guns, hate crimes after Bondi shooting - Reuters</title>
-            <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWUNzTk5jU3Y4cGw5LUp5ZFpzZ3F0M2JwSkswb0I3azM5bExNS3FldHRtUWdPeHVFdjAxcVFfZWx6SEYyLUxjRGprY3l3UnFFME9nUHNiTkUyMXZfQVJxTWRvMHZCSmt6RmMtX0VCR1J1OW5SVDFHWVVVTVVBajFEUmpQV1UtMjhLd045RkFkcnZIdy1faXViRjA0bWhib3VZT2txRlFEYzFUR0dwSnp6Vm1zbWctQjI2c0xRa3E1VFlUT2pwVDk3RA?oc=5</link>
-            <pubDate>Tue, 20 Jan 2026 05:42:00 GMT</pubDate>
+            <title>[NATIONAL] Opinion | Canada will regret cozying up with China to troll Trump - The Washington Post</title>
+            <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPSXNkU2pIRkNSQ0dDYzRCdFVMaXpXOUdYMUhkTk94M21ieGptdzYzLW9qWjJvMV9KQXdUR0JHSGtBM0p3NV81Ymxlb1R4dURVdDd0S05wX0JKS0RsQWxEZVYwVHBhdkI4S3hFbnk1cnRVM2I1VUNjOHE3aGxYVzdKemRqRllSa2M?oc=5</link>
+            <pubDate>Tue, 20 Jan 2026 18:17:13 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NHL] Toews gets rousing ovation in return to Chicago</title>
-            <link>https://www.espn.com/nhl/story/_/id/47666543/jonathan-toews-gets-standing-ovation-special-return-chicago</link>
-            <pubDate>Tue, 20 Jan 2026 07:17:05 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] The Caleb throw, a controversial call and mistakes: Barnwell on 11 key plays</title>
-            <link>https://www.espn.com/nfl/story/_/id/47642980/nfl-playoffs-divisional-round-2026-key-plays-broncos-seahawks-patriots-rams</link>
-            <pubDate>Tue, 20 Jan 2026 01:41:02 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Zurich Insurance Makes $10 Billion Bid for U.K. Specialist Insurer - The Wall Street Journal</title>
-            <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT2sybnBDQkRxX0doOE1fTjFZM1RfWUNuZXZncUxVbEZrSDZIaDlQcU1jWVIxbTFoOHdkN0taXzlsMnBOeTFZRkxsRnd1eUk4N2JZZGllVk0zSjBSRDdOaWxtdlYyWnBLYk5TNWprNXVaUDE3SkRfNUt2aWFucVc1MHhDN1cxamNFVjNsbGRPWFZaMEp4NDhuZ1lnVmlFMkx5OWRyRFQzVmJnRGZfWTZDaktnMzk5UWl1NVcwY2YyOEF6SWp4NjdSNg?oc=5</link>
-            <pubDate>Mon, 19 Jan 2026 23:23:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] Braves agree with Mateo after Kim injures finger</title>
-            <link>https://www.espn.com/mlb/story/_/id/47661864/braves-agree-jorge-mateo-ha-seong-kim-hurts-finger</link>
-            <pubDate>Mon, 19 Jan 2026 14:02:30 EST</pubDate>
+            <title>[NFL] Sources: Titans hiring 49ers&#x27; Saleh as new coach</title>
+            <link>https://www.espn.com/nfl/story/_/id/47667622/sources-titans-finalizing-deal-make-robert-saleh-coach</link>
+            <pubDate>Tue, 20 Jan 2026 13:16:27 EST</pubDate>
         </item>
         
         <item>
@@ -180,10 +54,136 @@
         </item>
         
         <item>
-            <title>[LOCAL] Chestnut Street renamed to James C. Sherrod Way to honor longtime MLK Center executive director</title>
-            <link>https://www.yourerie.com/news/local-news/chestnut-street-renamed-to-james-c-sherrod-way-to-honor-longtime-mlk-center-executive-director/</link>
-            <pubDate>Mon, 19 Jan 2026 21:51:30 +0000</pubDate>
+            <title>[NATIONAL] Lawmakers release final measures to fund the government close to deadline to avert partial shutdown - CBS News</title>
+            <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPZG8zeVJkS2REcnVRcndqS2tjdVg5eWx2RkZFTFotVjQ5U1YtbW02OGdWQmRIWjZ4R0daS0E2REMxbV9NUzRYaFRYVzA0ZVdWVlBMd2J1MHVrbWV0LU5IWEtVRXFHZTYzeV9KRkpEUGUweVNWc1VGTGc2M2UxVTVXa2wyYlQwS1A1YWZWQm1BQzJYd08wU3V3c2EzV3VwclBFcWtoTlYzSdIBrAFBVV95cUxPQlduSzFGLW56YUpIZl9OR3RqYlNBaWwyaGlQVE5lX20wdFVyNm02S1lDcWc0dzFoUWgtTUYwdFp0aW5lS0pyM2VCSzcxRHpYcDRwZjBYMjRkSkFOVmdCcUFaRGpLZ1d5OEdHcUZWSHNCeEFVZ0xvR0RIRnNfSWpxOXgzQWxpdDdGVUZVZ083X2hUZmVwZi1xWnRtdS11azhYNkFGc1FQLXhTSG40?oc=5</link>
+            <pubDate>Tue, 20 Jan 2026 14:25:41 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Erie County gets $4.2 in grant funding for infrastructure upgrades</title>
+            <link>https://www.yourerie.com/news/local-news/erie-county-gets-4-2-in-grant-funding-for-infrastructure-upgrades/</link>
+            <pubDate>Tue, 20 Jan 2026 17:36:01 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] City of Warren police arrest man allegedly involved in fatal hit-and-run crash</title>
+            <link>https://www.yourerie.com/news/local-news/city-of-warren-police-arrest-man-allegedly-involved-in-fatal-hit-and-run-crash/</link>
+            <pubDate>Tue, 20 Jan 2026 14:57:24 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Dow drops 600 points as Trump&#x27;s Greenland scheme sparks U.S. capital flight, fear of global trade war: Live updates - CNBC</title>
+            <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFB6aFhReFdKU1ZXQVpTNlFRalk5VkduNFp6cXh2aFd2bGxzcTVyb2ZrZkEwbm1XeU50N1hIZFRoTDN5REhLQVI5Rk52VHlIMlQ1SkN1bXlUUWQ5N3dLbF9KRkNyeEJHTktXcHlUYUdDLVA0YkxrT1Vj0gF8QVVfeXFMUGpoZU5NM24zWG5MNmVVUUFHRmdQMTh1QjdKZnBmWEZZc0R4ZktxSUVHeWR6bDBULU9zQm1TTlNSc3J6SUp2Z0VweENMaml4TER5cTRVWTJvYk1oVlBwM1lHRHEtbm5PYVBhRGJHNlhSb2RoeE13cGxNQnJaOA?oc=5</link>
+            <pubDate>Tue, 20 Jan 2026 17:49:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Speed limits restored Tuesday on I-86, I-90</title>
+            <link>https://www.yourerie.com/news/local-news/speed-limits-lowered-again-tuesday-on-i-86-i-90/</link>
+            <pubDate>Tue, 20 Jan 2026 16:30:26 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Economic blackout day planned in Minnesota to protest ICE surge - The Guardian</title>
+            <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPS2xEUkpEcXVxdUpPRGR2bDR6Z0JtaDBhVEhtanppaGlibzljVWJrRGdlRVRmcWVONG9qMGtOZUhJOFdxQ1ZVZ2s2amMzLTg2V3lRR3kxY09kbldXNmlyLVdmaGJrUGZKMG1HdEZxVmpldE1Cc1F2bG9UYk5XbXRfTzM2dDdRbWkzVXkxQ1IwSDU1aTNj?oc=5</link>
+            <pubDate>Tue, 20 Jan 2026 11:01:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Ribbon cutting marks opening of the Second Harvest Marketplace</title>
+            <link>https://talkerie.com/2026/01/14/ribbon-cutting-marks-opening-of-the-second-harvest-marketplace/</link>
+            <pubDate>Wed, 14 Jan 2026 19:30:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Homeowners prepare for forecasted single digit temperatures</title>
+            <link>https://www.yourerie.com/news/local-news/homeowners-prepare-for-forecasted-single-digit-temperatures/</link>
+            <pubDate>Tue, 20 Jan 2026 15:25:28 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NHL] Sharks roll as goalies engage in rare fisticuffs</title>
+            <link>https://www.espn.com/nhl/story/_/id/47665658/florida-sergei-bobrovsky-san-jose-alex-nedeljkovic-trade-punches</link>
+            <pubDate>Tue, 20 Jan 2026 07:17:05 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Speed limits restored on NWPA interstates Monday</title>
+            <link>https://www.yourerie.com/news/local-news/penndot-lowers-speed-limits-on-nwpa-interstates-monday/</link>
+            <pubDate>Mon, 19 Jan 2026 16:48:04 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NBA] King James aversion: LeBron not an ASG starter</title>
+            <link>https://www.espn.com/nba/story/_/id/47662714/lakers-lebron-james-not-voted-all-star-game-starter</link>
+            <pubDate>Tue, 20 Jan 2026 01:47:18 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] Phillies prez: Bichette joining Mets &#x27;a gut punch&#x27;</title>
+            <link>https://www.espn.com/mlb/story/_/id/47672631/phillies-president-laments-losing-ss-mets</link>
+            <pubDate>Tue, 20 Jan 2026 13:16:00 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Supreme Court to Hear Case Testing Limits of Hawaii Gun Law - The New York Times</title>
+            <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPWWpxLXNJbUxTdmZ3Sy1RcTV5d2JmVU5CZUZJWWdweXZtclNYOUZPYUFtVHVlQlV3bEp2TXd2UXV2ZVdpUDNTXzFqZWVyVjRDajBseElNRk1qTl90Z05DcGVEUG5Sb2ltOUtTSzBNM3lpVlF5Q29pc0hZNjI2MTY3RHhtWGIyU2s?oc=5</link>
+            <pubDate>Tue, 20 Jan 2026 10:02:28 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] EMTA invites public to share input through Transit Development Plan survey</title>
+            <link>https://talkerie.com/2026/01/14/emta-invites-public-to-share-input-through-transit-development-plan-survey/</link>
+            <pubDate>Wed, 14 Jan 2026 18:30:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NBA] Warriors&#x27; Butler suffers torn ACL, ending season</title>
+            <link>https://www.espn.com/nba/story/_/id/47667747/warriors-jimmy-butler-helped-knee-injury-vs-heat</link>
+            <pubDate>Tue, 20 Jan 2026 01:47:18 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] US citizen says ICE forced him from his home without clothes in subfreezing weather - The Guardian</title>
+            <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1OZkhxaXJ1d0dhTVAwcFE2RUd2YS1ZMTJQNDJCRGZsMDYyTDV5N1RYY0pnVmpOLVlrbVc2RnNHRnpPZG4zWkY5bmE3Rk1oMGtjRmhrVm9MR3gteDRVSTJVWVNnc0F5Q0tVZmV1ZEE2M2ZFcjZIdEliel93ZGJ1TW8?oc=5</link>
+            <pubDate>Tue, 20 Jan 2026 16:10:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NHL] Toews gets rousing ovation in return to Chicago</title>
+            <link>https://www.espn.com/nhl/story/_/id/47666543/jonathan-toews-gets-standing-ovation-special-return-chicago</link>
+            <pubDate>Tue, 20 Jan 2026 07:17:05 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Stars and Stripes Gymnastics Invitational and MLK Cup return to Erie</title>
+            <link>https://talkerie.com/2026/01/14/stars-and-stripes-gymnastics-invitational-and-mlk-cup-return-to-erie-2/</link>
+            <pubDate>Wed, 14 Jan 2026 19:00:00 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] 2026 Martin Luther King Jr. Memorial March</title>
+            <link>https://www.yourerie.com/news/local-news/2026-martin-luther-king-jr-memorial-march/</link>
+            <pubDate>Mon, 19 Jan 2026 23:18:47 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] Braves agree with Mateo after Kim injures finger</title>
+            <link>https://www.espn.com/mlb/story/_/id/47661864/braves-agree-jorge-mateo-ha-seong-kim-hurts-finger</link>
+            <pubDate>Tue, 20 Jan 2026 13:16:00 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Tuesday Tails: The &#x27;D&#x27; litter (Rottweiler/German Shepard mix puppies)</title>
+            <link>https://www.yourerie.com/on-our-air/tuesday-tails/tuesday-tails-the-d-litter-rottweiler-german-shepard-mix-puppies/</link>
+            <pubDate>Tue, 20 Jan 2026 17:55:01 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Putin invited to join US-led Gaza &#x27;Board of Peace&#x27;, Trump says - BBC</title>
+            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zeTZNdU5yU3Yxa1d3TjlUWEZEUVZ0dXNZVUp4dkJpWEI2bWdHeGNFc25MM2kxazdTZ285Ry0zWm1TM1JHMVZ1SWgtaUZzRmZmTnNNRkJDaHNid9IBX0FVX3lxTE84Z0F4OHZiYktQT0JDTGFJcFJuY1VfeWIxZFR4aFZLOWpCWUpzU2c2VXlJRDNkSUU3MHZKUlFYbUR2dlRjc1phNzNWcm9PMGw1STA3cGw0LTRBTFZfWHFz?oc=5</link>
+            <pubDate>Tue, 20 Jan 2026 16:58:42 GMT</pubDate>
         </item>
         
     </channel>
-    </rss><!-- Updated: Tue Jan 20 12:39:30 UTC 2026 -->
+    </rss><!-- Updated: Tue Jan 20 18:28:52 UTC 2026 -->
