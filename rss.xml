@@ -6,75 +6,9 @@
         <description>Filtered national sports and local Erie headlines</description>
         
         <item>
-            <title>[LOCAL] NY man accused of bringing 8 kilos of cocaine to Erie sentenced</title>
-            <link>https://www.yourerie.com/news/local-news/ny-man-accused-of-bringing-8-kilos-of-cocaine-to-erie-sentenced/</link>
-            <pubDate>Thu, 19 Mar 2026 19:49:33 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] New Life &amp; Spirit Revival Center set to expand after purchasing new building</title>
-            <link>https://www.yourerie.com/news/local-news/new-life-spirit-revival-center-set-to-expand-after-purchasing-new-building/</link>
-            <pubDate>Thu, 19 Mar 2026 18:46:30 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NBA] LeBron ties Parish&#x27;s record with 1,611th game</title>
-            <link>https://www.espn.com/nba/story/_/id/48253906/lebron-james-ties-robert-parish-nba-games-played-record</link>
-            <pubDate>Fri, 20 Mar 2026 01:17:33 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy - CNBC</title>
-            <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEd2VVdQSWxVemFuM1d5MjJIUjhRTGNoVmo0TkZFbS1JVU9PdU1LOGZWQzlzY2NuUmtzSXU0SFdLWk5iZ3pMcXRITzVZRHlJZ1pUeUI2dmNnR2c2V1pvTk5vZXJtZURNbFk4VDBuMnNYUHdlakpCTm5rOS1zQkRiTHB1elF5Z9IBiwFBVV95cUxNeU5KdDV4bEFEVkxOMTZvRk9tZVlaaVdWSFFSS25qNEtOel9pNmREQ29FVHFoaGhMSG1FSWQ0SlJTaVlSbC1QNDN6MkV3Wm1YSElMMDduSW5ZSWFScVB0R0V3R2wtRnpHazhtd09nNXFiOFkzREtCTm10QjV2UEI4UVhac1ZrX21TSVE0?oc=5</link>
-            <pubDate>Fri, 20 Mar 2026 01:03:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Nashville immigration reporter Estefany Rodríguez released from ICE custody - CNN</title>
-            <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQTExCdzhPREdqOGVzNk02bVp3M2RpQUpCQVk3YjZfYjJGc2ExVFFIZWdGZVp1MlJGblFKczJnM2RZY1I2dmVvOWVtMUZKWkNNc0NPQVhEdldib0ZVUE8yMzMxLURWOGpQR3FFNjY1aTB4ZXY3aGlKMGNvRk53QTRKeHVZbms?oc=5</link>
-            <pubDate>Thu, 19 Mar 2026 23:57:30 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] WBC title game ratings nearly double from 2023</title>
-            <link>https://www.espn.com/mlb/story/_/id/48253204/world-baseball-classic-title-game-ratings-nearly-double-23</link>
-            <pubDate>Fri, 20 Mar 2026 08:31:44 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] 10th annual Laughter in the Limelight to feature familiar JET 24 faces</title>
-            <link>https://www.yourerie.com/news/local-news/10th-annual-laughter-in-the-limelight-to-feature-familiar-jet-24-faces/</link>
-            <pubDate>Thu, 19 Mar 2026 20:55:48 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Presque Isle fully re-opens after wind damage</title>
-            <link>https://www.yourerie.com/news/local-news/presque-isle-fully-re-opens-after-wind-damage/</link>
-            <pubDate>Thu, 19 Mar 2026 17:26:13 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] 10 great signings, six great trades: The NFL free agency moves that Walder graded with an &#x27;A&#x27;</title>
-            <link>https://www.espn.com/nfl/story/_/id/48226368/2026-nfl-free-agency-signings-ranking-best-deals-contracts-fits-values</link>
-            <pubDate>Thu, 19 Mar 2026 10:52:24 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Erie businesses gear up for summer rush</title>
-            <link>https://www.yourerie.com/news/local-news/erie-businesses-gear-up-for-summer-rush/</link>
-            <pubDate>Thu, 19 Mar 2026 20:09:02 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Venango County man held for court on fatal Feb. DUI crash charges</title>
-            <link>https://www.yourerie.com/news/local-news/venango-county-man-held-for-court-on-fatal-feb-dui-crash-charges/</link>
-            <pubDate>Thu, 19 Mar 2026 21:10:34 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Death of American College Student in Spain Was Likely an Accident, Police Say - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeW1zNTdvNVJyaGhtQ1hlSGNZbldscDBWN0NVVklxdUNWaGhNbDVKX1dPR0ktQjFfeG8xS2xyVU1QWmZtTmNfM2RvUFNfTDN1TVV2Rld6Q3hOdTRWb2NiMzBQcFd6LUZpV1BhQWk1eElJTWFnd3RHb0lHRTR4S1M1aHpMbDBSclVZR0tpOWRPY2hFZHN2TWpzdVJiaEhFVGpmbUFPZ1RieXU5Zw?oc=5</link>
-            <pubDate>Fri, 20 Mar 2026 11:28:29 GMT</pubDate>
+            <title>[NATIONAL] CBS News lays off 6% of staff and shutters radio division, kickstarting a Bari Weiss-led overhaul - CNN</title>
+            <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5qd2VYNWRvSlF5bno3TGF5cDlhd0RJRDJVejljWUJ6d3RxNlUtODg2ZEREejhsY3dCYjhZYWNhZ2ZJZnBtSVZ5bEZIVFppelRma1R3eGZUZWp5SFBUREJ6d0xNRXFLcnlWckpPNUtCYVFjMmJoUW9QclpHOHZEMjQ?oc=5</link>
+            <pubDate>Fri, 20 Mar 2026 14:27:50 GMT</pubDate>
         </item>
         
         <item>
@@ -84,21 +18,33 @@
         </item>
         
         <item>
-            <title>[NHL] Leafs&#x27; Matthews (MCL surgery) down 12 weeks</title>
-            <link>https://www.espn.com/nhl/story/_/id/48252480/maple-leafs-star-auston-matthews-undergoes-surgery-mcl-tear</link>
-            <pubDate>Thu, 19 Mar 2026 19:36:01 EST</pubDate>
-        </item>
-        
-        <item>
             <title>[NATIONAL] U.S. Mint can begin to produce Trump commemorative gold coin - NPR</title>
             <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOc2xGR0NqTE45R1pLcHNGUjlzYjRVSFg0T0tGZzRCS0ZUdThycjB3SDdlVlJ5RVNFc0l5aEdKOGdoNFo1eEJsVnlVeElKY0JjdUtVQ25nSGlJeGxRTTk1U1BaRldEdmdlSkFmVV9kZ0hkT05hNEF2b2w3VmlwT3ZkeDR0YXRpOGtqbWRpSjNNdUNrTWJiNUVmcVpZenVnTTZaMndz?oc=5</link>
             <pubDate>Fri, 20 Mar 2026 05:39:33 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Travelers face Friday rush and unpredictable airport wait times as TSA officers go unpaid - CNN</title>
-            <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPcGg1MzllRXh1YkFicVo4UlVGSHhYRVNMcjRaSjZqLTU4Zklsd3o5TkVxWVFLQUx3emIycXdtYl92RkRtZWZ5VXVPUURlS0R2OFpfR09XWlNwQWtNSWYwWXBMVDZiQmppR28zdzBtc013dmRVTUdvaW5RcGtscEVMWGx3?oc=5</link>
-            <pubDate>Fri, 20 Mar 2026 12:22:00 GMT</pubDate>
+            <title>[NATIONAL] On a Holiday of Renewal, Iranians Are Mourning and Fearful - The New York Times</title>
+            <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOaUZ2X0ZnN0dFSndFSTV3TjFqYjZ4ZW9hSTBnNXBCdjdPbEVEZnFPQnZKRk5odno3T3lNMzU4NkdhbGdIM1BOZ21maVplaVVqeW9HVE50VnZmNTZXVU1yRlNOVXEyUmlmSS1mSkF3eXZWVDBldzZHLUl6Um1mOTVHd2Vudw?oc=5</link>
+            <pubDate>Fri, 20 Mar 2026 15:16:57 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NBA] Luka drops 60, gets MVP chants from Heat crowd</title>
+            <link>https://www.espn.com/nba/story/_/id/48255013/luka-doncic-puts-60-vs-heat-lakers-win-streak-hits-8</link>
+            <pubDate>Fri, 20 Mar 2026 09:17:11 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NBA] LeBron ties Parish&#x27;s record with 1,611th game</title>
+            <link>https://www.espn.com/nba/story/_/id/48253906/lebron-james-ties-robert-parish-nba-games-played-record</link>
+            <pubDate>Fri, 20 Mar 2026 09:17:11 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Warren police put out warning over impersonation scam</title>
+            <link>https://www.yourerie.com/news/local-news/warren-police-put-out-warning-over-impersonation-scam/</link>
+            <pubDate>Fri, 20 Mar 2026 16:18:09 +0000</pubDate>
         </item>
         
         <item>
@@ -108,21 +54,33 @@
         </item>
         
         <item>
-            <title>[MLB] Mets experiment with pitch calls from the dugout</title>
-            <link>https://www.espn.com/mlb/story/_/id/48254389/mets-experiment-dugout-relaying-pitch-calls-catcher</link>
-            <pubDate>Fri, 20 Mar 2026 08:31:43 EST</pubDate>
+            <title>[NHL] Leafs&#x27; Matthews (MCL surgery) down 12 weeks</title>
+            <link>https://www.espn.com/nhl/story/_/id/48252480/maple-leafs-star-auston-matthews-undergoes-surgery-mcl-tear</link>
+            <pubDate>Fri, 20 Mar 2026 14:29:52 EST</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report - Al Jazeera</title>
-            <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQOHE5S2xLZUpQUkhlMkRUUFhGV2pyTWRoem00LU8yUDdfRmhReW9LUnNycENYUUdGdEJGYnVDTm5URzZqc3NWVktLQTFLVHpWVEVXaV9KdDY0Y1ZZVHN5ZWoxR1U1SElBYlY5QWpPMExYbmV4dWEtRTNZN3BSQVk3cHNMWDltN09xTm5aemlQYjVUQlU4SFhCVTJodDRPVS1hMVhLOS1XQ3NkclZWTXfSAbMBQVVfeXFMTlB1T3ZSdTZoRFd0UjhzaFNZTGxPYm1rb1lEQVNqcHh2cUhhc0xEdzFpVDl2MTBUN3B2Z0tDZEhfSWtfU1lSelIweHBmLVdnT1JFcU9jZWdrNmRrYm9PYy1LeThoQmFqMGlQbjc2RF9SYkFvcVJvOTBfYzh5bmRWc0Z4X1pCZTdabUJDU0wtUG1XZzJvRnZyVnRDNW83NTF1VEttcm9TM2Y3d1ZjSEtXTGgyOTA?oc=5</link>
-            <pubDate>Fri, 20 Mar 2026 10:22:42 GMT</pubDate>
+            <title>[NATIONAL] Iran Spokesman Dies After Issuing Defiant Statement - newser.com</title>
+            <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM0xFSFFOMTQ3RFFtc3NHd0hmcmJYT0ZBeHVQdmZmaWFQZGUzREFmWC1tNk5PVWpPSGxvZFo3bjk0Mk5CMHRNWjdJZkRkUkhRNjZLWVZ4S01GdUVzYzNhVDRaYTFUMTN2RkRNVmZKZXYzanRqb3c3TGlQdHFDN0tUV1JRSDJxRzItZkZN?oc=5</link>
+            <pubDate>Fri, 20 Mar 2026 09:38:00 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NHL] Islanders moving AHL affiliate to Hamilton, Ontario</title>
-            <link>https://www.espn.com/nhl/story/_/id/48253554/new-york-islanders-plan-move-their-ahl-affiliate-hamilton-ontario</link>
-            <pubDate>Thu, 19 Mar 2026 19:36:01 EST</pubDate>
+            <title>[NFL] 10 great signings, six great trades: The NFL free agency moves that Walder graded with an &#x27;A&#x27;</title>
+            <link>https://www.espn.com/nfl/story/_/id/48226368/2026-nfl-free-agency-signings-ranking-best-deals-contracts-fits-values</link>
+            <pubDate>Thu, 19 Mar 2026 10:52:24 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] Olney: The 7 things I took away from MLB spring training</title>
+            <link>https://www.espn.com/mlb/story/_/id/48251150/mlb-2026-spring-training-takeaways-lessons-mcgonigle-mclain-skubal-lombard</link>
+            <pubDate>Fri, 20 Mar 2026 13:39:24 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] SUV severely damages building after slamming into Dollar Tree</title>
+            <link>https://www.yourerie.com/news/local-news/suv-severely-damages-building-after-slamming-into-dollar-tree/</link>
+            <pubDate>Fri, 20 Mar 2026 14:06:10 +0000</pubDate>
         </item>
         
         <item>
@@ -132,33 +90,45 @@
         </item>
         
         <item>
-            <title>[NATIONAL] Cesar Chavez abuse allegations: Dolores Huerta speaks with ABC News on camera for first time after sharing - ABC7 Los Angeles</title>
-            <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQS1ZUVF0TzMwTFNmYjVjb0tMYXRvVjBSbjhtMnpIZkJIVThfalQ0cmxSdHk1OGZhci1VaWFlb2JPUVcxMjNNSFF0NG5mNnBhekZoN3plYU9sV1lnY1NHMFAwWGZRbDNFVzhsbEZidXhhNE9OWmYwbTNjczVFWmhJOTdlbjd1QXJVRlE4MXd3YmZOQ0t1RzdVdmg1cmJqbVdZTmFTRkN6SUZMUmd6TVVVRklGTE1uSzVWeWg40gHAAUFVX3lxTE41MkxVZ0t6NXVhUndCOTViTDN0SFRLX2xBdDZ5YzBqYmN0eHprcE0tQjh3bXh5ZUp1ZkxyMzFXd0Z1bHQ1QzJpck1RYzgxMGxhaFFCSGNSNzA2ZVRsRjBwUVVQWFVlVTl1U1RHTFYySDJBTXlrRG5VbEZQV1BnUlJfYkR2b3M0UExoSERhZzVZZU5HcDlDWkMzckxrejYwQVRLRHBSYzF1aC1HMnM3RkZUcWhlLWlRVUpOTG9MMTJCNw?oc=5</link>
-            <pubDate>Thu, 19 Mar 2026 22:08:46 GMT</pubDate>
+            <title>[NHL] Islanders moving AHL affiliate to Hamilton, Ontario</title>
+            <link>https://www.espn.com/nhl/story/_/id/48253554/new-york-islanders-plan-move-their-ahl-affiliate-hamilton-ontario</link>
+            <pubDate>Fri, 20 Mar 2026 14:29:52 EST</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Teenager among first to be executed over Iran&#x27;s anti-government protests - BBC</title>
-            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QNy1rRzhSaFAtUGd1LU5GeU0wbFhpQkNYZ1BWNWdJbDBzTlZqZHF5SFluY3Awb09KS19peEJFay1OOG1LMmN2c1NvUm9aRHhkdk1jWDhXTGpuZw?oc=5</link>
-            <pubDate>Thu, 19 Mar 2026 22:07:17 GMT</pubDate>
+            <title>[NATIONAL] U.S.-Israeli rift widens over potential endgame in Iran - The Washington Post</title>
+            <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQYmZfME91R3NldEZfc0VrTzVsWTR6ZGdZWkNsMVp3M2FCOTIzcG10NkJTTzliT29aOHdydm1nT1o3U2oweEN0VXBZYVl4djFuYUhoWVJlZVVWaUQ3eEw1ZjVvT1UxU0ZTLVg1emh5RFJpaGI1TnpHbFJsRjV1QWkya0JkQnZ1d3pNd2hDSy1fVWQ3c1FFWWhsMTlZS25hdw?oc=5</link>
+            <pubDate>Fri, 20 Mar 2026 15:02:18 GMT</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Millcreek teachers raise concerns after district proposes healthcare switch</title>
-            <link>https://www.yourerie.com/news/local-news/millcreek-teachers-raise-concerns-after-district-proposes-healthcare-switch/</link>
-            <pubDate>Thu, 19 Mar 2026 19:42:25 +0000</pubDate>
+            <title>[LOCAL] Sports tourism boosts Erie economy</title>
+            <link>https://www.yourerie.com/news/local-news/sports-tourism-boosts-erie-economy/</link>
+            <pubDate>Fri, 20 Mar 2026 13:51:07 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] RFK Jr. went too far with comments about gender care for minors, judge rules - Politico</title>
-            <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPNDFoWmoxSDBIOHByZmJoSG0wbUc5QjlkVXRoSTBLQXdFZk8tY0swRWFWQjFRSFJVZDBhU2RSV2p2bWtwYzdEaFpRYUE4TXo3enhCdnBXa3YtN1lvaE45UlVURGpqZFV3b2xFbDQ4aVYxZl9qS3hIREVpSVluLTNQRUY1N0dPWHFrbVM0RDhpQmllSmJQMU9ocFZvR3lhN1FxTkNJLURVc0hzeElXNktEN21MdUxWVUVXMEZDbFd3?oc=5</link>
-            <pubDate>Fri, 20 Mar 2026 05:03:05 GMT</pubDate>
+            <title>[NATIONAL] Trump Administration Sues Harvard Over Accusations of Antisemitism - The New York Times</title>
+            <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZSHJURjNOald3ekZaX1lLNTlXY3hsSlZKbHNYNEJxNlFVeGhFT0VkYzJuajhoNjNlelJuUE9ObktJUVpGNzRuVzlZc2Z4X0t4Y2QyQi1kOE5qd2gxQ1h5RU9KeS1QUUh6TlVEbFEzNVE5YkRHWkVZX1FZUXUwWkk?oc=5</link>
+            <pubDate>Fri, 20 Mar 2026 17:39:43 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NBA] Luka drops 60, gets MVP chants from Heat crowd</title>
-            <link>https://www.espn.com/nba/story/_/id/48255013/luka-doncic-puts-60-vs-heat-lakers-win-streak-hits-8</link>
-            <pubDate>Fri, 20 Mar 2026 01:17:33 EST</pubDate>
+            <title>[LOCAL] Venango County man held for court on fatal Feb. DUI crash charges</title>
+            <link>https://www.yourerie.com/news/local-news/venango-county-man-held-for-court-on-fatal-feb-dui-crash-charges/</link>
+            <pubDate>Thu, 19 Mar 2026 21:10:34 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] TSA lines are miserably long. Don’t miss your flight because of them. - The Washington Post</title>
+            <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3R3ZTFla1VvSmJZZFZ4OEdQdVg1Vm16UC1XUUtieEctYmFTRHZrbFNXWlhtMUNfY0pIWHhSOVhRUEhkNWt5QTU1U3hkRFNJSVNNQllwMG53N1gxdUI1SDVEQWpZdXJ6R2thcEZ0ckMwRnNmajg0alRsaE9aNlh5X1RPVHhDVVZi?oc=5</link>
+            <pubDate>Fri, 20 Mar 2026 17:25:13 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] More Marines are headed to Middle East as Iran war reaches the 3-week mark - NPR</title>
+            <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNT2xrYnF6TlNvRDZoS0RtX1kxQV8zUEk3WGVPaHFHdWhZekRRWS1CMUdkQ04yTEZDUnVwd2x4dXVhaWlLb01Nb3hHRUtsbkFrQjhBWEx2YWlpb0VWN3laRXRBVHRhV1R3UWVoM0QxWTA3ckZVTVVoMlhOMGZ6M3BhWjcxa0JETFNJZXV5Yw?oc=5</link>
+            <pubDate>Fri, 20 Mar 2026 18:01:57 GMT</pubDate>
         </item>
         
         <item>
@@ -168,10 +138,28 @@
         </item>
         
         <item>
-            <title>[NATIONAL] Trump stretches ‘America First’ on Iran. His voters are going along with it. - Politico</title>
-            <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOSFdMY085MlNuS1ZyalZHSjhGQnRYdkVFMEZ5Szg2Z1hMcnJsQ1QxTHAtTURYRlRvRHozTnUzWkg5d01TNTlpcmJBWDUzRS1HZEJ5VUppUEFLN3hRRDhPdHdZMGNLN0htVVZEbVBvbmJLdlI4a09nOTZVUFE0WWdYOVEteWlYRENDc0E?oc=5</link>
-            <pubDate>Fri, 20 Mar 2026 09:00:00 GMT</pubDate>
+            <title>[NATIONAL] US college student’s death in Barcelona was likely an accident, Spanish police say - AP News</title>
+            <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQalpnTlZIa3ZtalcxcjNoM3h2V2o0ckdydHVfX3ByWXJzNHNIWjN0a2tzQzhYR0p3YThyc3B1U2hqT25lNjBqQS1KMFEzc2w4QmVmTHFlRi1WbExaWWUtNV9ZdGxublA3QXRTVXlOY1ozcjIxbXdKZW5NRWR2bzhwRXBTVUY3aFNkUGdIRkVUVlZRc3RESTlZ?oc=5</link>
+            <pubDate>Fri, 20 Mar 2026 13:23:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] Clase, Ortiz put on unpaid non-disciplinary leave</title>
+            <link>https://www.espn.com/mlb/story/_/id/48259978/guardians-clase-ortiz-moved-unpaid-non-disciplinary-leave</link>
+            <pubDate>Fri, 20 Mar 2026 14:34:15 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Trump mulls risky Kharg Island takeover to force Iran to open strait - Axios</title>
+            <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5iVnlabUVqOG9OaTlkOW9DYmJ1MHNhOERtd2tVMU4zd0hqVExiaWlGRHAwaHN6bWtCSDRkeDY3cDVENmJRWXJUQ1VaX1d3Z3NENk15TDB4Yl8zeVdHYnZJb2xYeG5xV250OVNiR1BqREtwc05FSXhSVjkzTEJrQQ?oc=5</link>
+            <pubDate>Fri, 20 Mar 2026 10:29:03 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Local celebrities test out &#x27;tight five&#x27; at annual comedy fundraiser</title>
+            <link>https://www.yourerie.com/news/local-news/local-celebrities-test-out-tight-five-at-annual-comedy-fundraiser/</link>
+            <pubDate>Fri, 20 Mar 2026 14:14:04 +0000</pubDate>
         </item>
         
     </channel>
-    </rss><!-- Updated: Fri Mar 20 12:50:05 UTC 2026 -->
+    </rss><!-- Updated: Fri Mar 20 18:40:30 UTC 2026 -->
