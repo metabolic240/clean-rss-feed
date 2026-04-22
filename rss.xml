@@ -6,117 +6,39 @@
         <description>Filtered national sports and local Erie headlines</description>
         
         <item>
-            <title>[LOCAL] Erie First&#x27;s Collins makes college hoops choice</title>
-            <link>https://www.yourerie.com/sports/local-sports/erie-firsts-collins-makes-college-hoops-choice/</link>
-            <pubDate>Wed, 22 Apr 2026 04:04:38 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Man Is Charged With Providing Gun to Louisiana Shooter - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOdThiUjZpbXE4QlcxQkJlMWM2SmdQX0FsZnJKdlVHWTc5TVh6LW1OWmN1TlZ4b2gyRTZTQzNxVGxiZ3l2RzNJMmw2MDhzdy1JNzk2QnlXenVkZjNrM1RLSDg1NFlibDlDOEp2clo5WGFYSnhYbER3UE5nLUszQ0hxMG5vZXV0Zm5FVGRwTEkyNm0?oc=5</link>
-            <pubDate>Wed, 22 Apr 2026 04:35:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Mexico shooting: Tourists injured amid shooting at Teotihuacán pyramids; gunman ID&#x27;d as Julio Cesar Jasso, Columbine relation - ABC7 Los Angeles</title>
-            <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSGh1NW5UQXBrbzJXLUxyQWd0SGdBZU5Ka2UxdENvTG5PS0xhTUE4elZJazZoaEdCcDY4TGpCZGxLQUthNmF2cTg0NVlVYTFibUtmYzdsaGZyZkV0UkFTSGU4MVAtSUVJSkhDV1drY0dCUzZwdGNXTUhNcXJ6cjItM2FqRXdtSEkwMWFoTWoyMFgtUTgySEl6c2UzVk1BcURJcjUyVmItVFdEWUVRdUZSRnQ0ZGJ2RmoyMDcyLTA1RGpxZkJmNFRlN3IyRHptbEpZV2x2anFJVUrSAd4BQVVfeXFMTUxjbW9NVDdxWWw1c0JOVFk2bV9JbUp1REN1LUpkSTFpTTF5LUh6Uk9RYjhJWFhPSEFOOC1oaVQ0M3dwbk1acmk2YWg0eXlCOW5kUTBKd2c2Sk5GYmx6ZHhUZGhqMHJSWkIzTjZvUkZ5RnpBSEN5cXdlSEpLdHpsUnpLLVQtbkdhSVJkWlNTcVpvTWZ5TEs5MGptM0drWXZXaUVEVjZsTEFYWkg5aVc0WHFwY3pGc2Z1dm91UC1MVk81aXdxUG91NHYwNVV2LUdaRGk2ZS1wRWZIRndaWG13?oc=5</link>
-            <pubDate>Tue, 21 Apr 2026 15:40:22 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Gannon embraces AI education to equip students for workforce</title>
-            <link>https://www.yourerie.com/news/local-news/gannon-embraces-ai-education-to-equip-students-for-workforce/</link>
-            <pubDate>Tue, 21 Apr 2026 22:36:56 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Transportation Secretary Duffy on concerns of AI replacing air traffic controllers: &quot;That&#x27;s not gonna happen&quot; - CBS News</title>
-            <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE9IdVZHTU1KU3VHaEFrdURQQm9QZDhZNTF1aFk4cTNDY2cyTU9BbVpFeWtBMFJIVE9oMW1SSmd2X1hKcENVbFVONl9lNmJUVG9obkJUMUNXQXZHbGNBN2VRRzBiRXltV2V0SHRteE5RcnRzOHVZMmFJYnVKWnLSAYIBQVVfeXFMTUhmMGY2LTFNeTVHMkE1QVV3aUg3c2ZwTFR4bjdmUkNNV3pZNng2NDNnWXpFbjd4N3ZJS2g4ajJiQlZ3Y0ZTcExZZXIwamZNTTgzQzhrY3B6VU9nQjJLMHhPY19zZDJhSnhOb2lCTm5hMlRoTEFsRHNrd0hCUzVnd2FWQQ?oc=5</link>
-            <pubDate>Wed, 22 Apr 2026 00:19:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[MLB] Phillies&#x27; Wheeler set for first start since August</title>
-            <link>https://www.espn.com/mlb/story/_/id/48554573/phillies-zack-wheeler-set-return-saturday-vs-braves</link>
-            <pubDate>Wed, 22 Apr 2026 08:12:52 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] &#x27;Drive like you&#x27;re invisible&#x27; - Motorcycle riders urge safe driving</title>
-            <link>https://www.yourerie.com/news/local-news/drive-like-youre-invisible-motorcycle-riders-urge-safe-driving/</link>
-            <pubDate>Tue, 21 Apr 2026 22:04:46 +0000</pubDate>
+            <title>[NATIONAL] Druzhba pipeline restarts Russian oil flows to Europe, unblocking E.U. loan for Kyiv - NBC News</title>
+            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQMjJ0T1kwNmpnN1BITWFfOGdnakotbUE0Y29aVmVBbC1TQmVXVGhKOHhIN3VGbV95WjhROHFYNDF4MmZ5UzhTY2xhMWNFaERYWjdrU0RMdUdWS09nTHpaSWFraEk4VjB5aENkVTZ3Z0RkbE5Lek54QVZpcDZHMEtrQ3ZtMjJXX08tYndlbG5FUTlpOGVtUDkyQ0tMbkVsT2ozdmFpTkxIWkFsUVJCZ2wxWkdKY0FzRmY3U0E?oc=5</link>
+            <pubDate>Wed, 22 Apr 2026 13:21:27 GMT</pubDate>
         </item>
         
         <item>
             <title>[MLB] Williams&#x27; collapse in 9th brings Mets&#x27; slide to 12</title>
             <link>https://www.espn.com/mlb/story/_/id/48555783/mets-lose-12th-straight-williams-ninth-inning-collapse</link>
-            <pubDate>Wed, 22 Apr 2026 08:28:47 EST</pubDate>
+            <pubDate>Wed, 22 Apr 2026 14:00:57 EST</pubDate>
         </item>
         
         <item>
-            <title>[NBA] Takeaways as Spurs lose Game 2 to Trail Blazers without Wemby</title>
-            <link>https://www.espn.com/nba/story/_/id/48506452/2026-nba-playoffs-western-conference-round-one-takeaways</link>
-            <pubDate>Wed, 22 Apr 2026 01:25:30 EST</pubDate>
+            <title>[NFL] Cowboys won&#x27;t talk long-term deal with Pickens</title>
+            <link>https://www.espn.com/nfl/story/_/id/48561830/cowboys-say-talk-long-term-deal-george-pickens</link>
+            <pubDate>Wed, 22 Apr 2026 14:28:25 EST</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Today&#x27;s Top Stories: April 21, 2026</title>
-            <link>https://www.yourerie.com/news/local-news/todays-top-stories/todays-top-stories-april-21-2026/</link>
-            <pubDate>Tue, 21 Apr 2026 22:59:19 +0000</pubDate>
+            <title>[NATIONAL] Iran fires on 2 ships in Strait of Hormuz after Trump extends ceasefire - Fox News</title>
+            <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5HdTg0YW9GY1M2Tzk5c3F4YV9fWlBiZklFXzJVX1J2ejlJWTBNeHlJYzg4ZjZGV0tFVkNhbUtSbmpnaUM1NURfZnh5YnFTRGZXb1BfSU1aODJ0OUthVjcxRF9uX1pfZV95ejBuS1pWOFJwMzA5eDNlUHpB0gF_QVVfeXFMTzl4Wk5ZLVJWTjE3SEpwelBmLWRFNFdTdTUwSi1SSUUwMWVSQkxwdHdlazFjUTRtRmRFR1JrUWJnQzJGWFFZYWlKcy1sSnltTE1zQlRyOEtHS2hMdFF3M21sVllJUUtvY0JCcDNEODlHU3gtNzNmR2RsYWF2MUI4Yw?oc=5</link>
+            <pubDate>Wed, 22 Apr 2026 16:31:28 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Texas can require public schools to display Ten Commandments in classrooms, court rules - AP News</title>
-            <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPTnVRel9ua3habUxyQnRkeURoNVJ4SG83TXYwV0J0TXk0Q2E1bU5QMEw3SzVfeVRTM193Qy1qN1NjdS01U1NjU2RtY3VTdmJ0MFBSSFdZNFVZZ2xHSXIzTkJTSXpPbzBuZkZUOXJDcVlRR3hlYkpNUjJ2X0tLQkM2UFdtazhmWk11OVZzQlBfMW1lX1owMlgwdG9wUElVSHpvcGFMWnpBZGV0b1B6?oc=5</link>
-            <pubDate>Wed, 22 Apr 2026 03:47:00 GMT</pubDate>
+            <title>[NATIONAL] UK bans a generation of children from smoking: How it works - Al Jazeera</title>
+            <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHRYMmhjZUNITkRySVY3MFd0dDBHdlpvcm9lVU5jZHJzUEZZZ21LTFRZTGhMUWZ4cHBBSHlKNHVRRlJRaHNnUHRmbTBESXZRaHVnQjFYNS0wWW9SbjNySGVoM3Vzalk0SDZ6TWxmZkxPT0ZXTVRGZWt0M28ycnRncGx3SHJDWFRzZUxWVGpPOFY0d3VkYTJ1c29XM0hhaGkyaFdDY2hn0gGrAUFVX3lxTE9LcnB6NF9DZEduSnI2OXBqUWRYZXF3QTBteEw5OHZzb1VFNGl5RG53U2VxbE9vNjIwLWdXNVZYajRDVE52R2JWV1JRRG9RWnY0a3hJTDh4Z0pRUWl5SjFveWhmWW11bTJFVXd2b213SE9ZdE4tOVo1ZDJPMVZRQjNwS2p4eTBMVjBFQzRsOFJvVV9RQmM1U2VqYkdpZmF3UHlENjhsRjZXS2hMUQ?oc=5</link>
+            <pubDate>Wed, 22 Apr 2026 12:01:56 GMT</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Harbor Creek softball grabs region six lead with 10-8 win over Bison</title>
-            <link>https://www.yourerie.com/sports/local-sports/harbor-creek-softball-grabs-region-six-lead-with-10-8-win-over-bison/</link>
-            <pubDate>Wed, 22 Apr 2026 04:05:00 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] NFL Nation mock draft: Our team reporters predict landing spots in the first round</title>
-            <link>https://www.espn.com/nfl/draft2026/story/_/id/48494104/mock-draft-2026-nfl-nation-first-round-predictions</link>
-            <pubDate>Wed, 22 Apr 2026 07:16:06 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Trump gives Iran days to end power struggle, return to peace talks - Axios</title>
-            <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE5OeWlURTduNm0ya3lRNVFNUjA2UDJsREZySGxiVkVSZFp0MjBaUTc2TE02Nl9VcC0ydE1KUzJXVEFnVkxIbTBwWmhKemxtbFpodlpkRU5BMEZ4QngtdU1VMkZPcmtKRlJoZVlJRGNuS1ZsejJTbEpoRHdFSUM?oc=5</link>
-            <pubDate>Wed, 22 Apr 2026 04:15:01 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NFL] Schrager projects all 32 first-round picks: Four huge trades dominate his final NFL mock draft</title>
-            <link>https://www.espn.com/nfl/draft2026/story/_/id/48550650/2026-nfl-mock-draft-peter-schrager-insider-intel-final-first-round-picks-predictions</link>
-            <pubDate>Wed, 22 Apr 2026 07:16:07 EST</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Live updates: Iran war news, Iran says it has seized two ships crossing Strait of Hormuz - CNN</title>
-            <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1pUcWVOb1k4dUZudVI4ZllXLXlkNDZZOXA4LVpVZVZCQmVSek9KZTFmQnhMQTBvSjE2dGFKZDlKeGVKaktWUEVidnF6MHl6SGNfQ1NjMW9MVzgzaW9hMEx6WTRmQ1dsVHFqZ2JlNkJhTG1uSnlUMHZQdDdubk56MGwzZXoybHozaTRR?oc=5</link>
-            <pubDate>Wed, 22 Apr 2026 11:54:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Trump administration sues Southern Poverty Law Center on fraud charges - Al Jazeera</title>
-            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ3NfazhIMzR3MHN3RU5zcGZaZnZGckVMX2Y2bWh1ZkhQazhneFdKWXJJakdLc3pGXzNtejF0T1VWLUNGU0tvWVlnYWlKTmpwaXhaelZTSXcteWZlWDZaSm03elJGSzVPaEZ5eVR5QU05MUFVbHhaRTRRT2ZmR0FyVk9OVGhEa0tmQ2hjY3AzcXBGMGEzazAxZ2hDTkxZTVpydndxS2ZEa2tEQXJCQ1dTaNIBtgFBVV95cUxNd0RiWEl1emMxZHFibUF4eHJkcC01bDFRaUtjQ0R2cFBvUTV2QTJXX2h0WXZ3Y29xLU9BNVU2TWVPMWJHaUhrbXlha2pOQjMteEI5ZWxweWI2bEJCdVUwdTFLYzRfbWVWMVdVYXR3dTUwMFdkRTBtemdpRVdXdnFXMjJwal9DaGVDeC1wV0FmVWVaWVRhVjNFMXowUjFrb21aMmt3ZEZmUkl6dTdLMjF4b25oSDhndw?oc=5</link>
-            <pubDate>Tue, 21 Apr 2026 23:12:17 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Officials say stay alert for large gull presence along West 12th Street</title>
-            <link>https://www.yourerie.com/news/local-news/officials-say-stay-alert-for-large-gull-presence-along-west-12th-street/</link>
-            <pubDate>Tue, 21 Apr 2026 21:12:41 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] With Virginia vote, Democrats gain edge over Trump&#x27;s national GOP redistricting push - NPR</title>
-            <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQNHdRRTZmQkRsTUZ3ZmFsR2Q2eGdCdFJONmFzS0ctZE1SOG5MOFhnUWFyWUxhRUl4ZHpkZVBOTEVnc3BOcFF5Yk12NlJtT08zbVlIUk5Md0E5dXAxTFY3LWNqOTRBRzRNc096SmpqS2lqdnUtOXFLXzh4QU9pRE1UWTFpcU9kU1R1UWVJblNncw?oc=5</link>
-            <pubDate>Wed, 22 Apr 2026 09:00:00 GMT</pubDate>
+            <title>[LOCAL] Wellness Wednesday: Focusing on movement, nutrition and structure</title>
+            <link>https://www.yourerie.com/on-our-air/wellness-wednesday/wellness-wednesday-focusing-on-movement-nutrition-and-structure/</link>
+            <pubDate>Wed, 22 Apr 2026 16:40:25 +0000</pubDate>
         </item>
         
         <item>
@@ -126,52 +48,118 @@
         </item>
         
         <item>
+            <title>[LOCAL] Erie woman, former labor department employee, facing federal fraud charges</title>
+            <link>https://www.yourerie.com/news/local-news/erie-woman-former-labor-department-employee-facing-federal-fraud-charges/</link>
+            <pubDate>Wed, 22 Apr 2026 14:37:46 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NFL] Kiper&#x27;s final 2026 Big Board: Ranking the top 150 NFL draft prospects, plus position reports</title>
+            <link>https://www.espn.com/nfl/draft2026/story/_/id/46573669/2026-nfl-draft-rankings-mel-kiper-big-board-top-prospects-players-positions</link>
+            <pubDate>Wed, 22 Apr 2026 14:23:15 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Trump gives Iran days to end power struggle, return to peace talks - Axios</title>
+            <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE5OeWlURTduNm0ya3lRNVFNUjA2UDJsREZySGxiVkVSZFp0MjBaUTc2TE02Nl9VcC0ydE1KUzJXVEFnVkxIbTBwWmhKemxtbFpodlpkRU5BMEZ4QngtdU1VMkZPcmtKRlJoZVlJRGNuS1ZsejJTbEpoRHdFSUM?oc=5</link>
+            <pubDate>Wed, 22 Apr 2026 12:20:51 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NBA] Edgecombe makes history with 30-10 to stun C&#x27;s</title>
+            <link>https://www.espn.com/nba/story/_/id/48555963/vj-edgecombe-tyrese-maxey-star-76ers-tie-first-round-series-vs-celtics</link>
+            <pubDate>Wed, 22 Apr 2026 12:50:43 EST</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Senators grill RFK Jr. on vaccines, drug prices and more at hearing - NPR</title>
+            <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPUVZsUEdORHcwd2NVcDE0WXFEMlN0SktfZFFHYV85OTRyekN5SjBkeGRyb21uWWh4OVZ4aHRPbFJPXzh5ME13ZkdGdG1sTUVFUHFVSXRFM29mRWtmNENDRlg2Q3ctdmo0ZUpjcFZkSl9nUWpZQUhRenRnLTRBYld3T0N4eGpuQ0czRVM3aUtJak1IREFwNmhBYXIxc2dVNEo3Skpabw?oc=5</link>
+            <pubDate>Wed, 22 Apr 2026 09:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] STAT MedEvac called on scene for Waterford car crash</title>
+            <link>https://www.yourerie.com/news/local-news/stat-medevac-called-on-scene-for-mill-village-car-crash/</link>
+            <pubDate>Wed, 22 Apr 2026 14:09:58 +0000</pubDate>
+        </item>
+        
+        <item>
             <title>[NHL] Kings coach hit by shattered glass as panel breaks</title>
             <link>https://www.espn.com/nhl/story/_/id/48557129/celebrating-fans-cause-glass-panel-shatter-kings-avs</link>
-            <pubDate>Wed, 22 Apr 2026 01:06:33 EST</pubDate>
+            <pubDate>Wed, 22 Apr 2026 13:28:33 EST</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Gierlak&#x27;s split softball doubleheader in father-son head coaching matchup</title>
-            <link>https://www.yourerie.com/sports/local-sports/gierlaks-split-softball-doubleheader-in-father-son-head-coaching-matchup/</link>
-            <pubDate>Wed, 22 Apr 2026 04:04:48 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NHL] Bruins &#x27;played to our identity&#x27; in Game 2 victory</title>
-            <link>https://www.espn.com/nhl/story/_/id/48557340/boston-bruins-bounce-back-even-series-game-2-victory</link>
-            <pubDate>Wed, 22 Apr 2026 01:06:33 EST</pubDate>
+            <title>[LOCAL] Absolute Love Adoptions is this week&#x27;s winner of Loving Giving Local</title>
+            <link>https://www.yourerie.com/on-our-air/loving-giving-local/absolute-love-adoptions-is-this-weeks-winner-of-loving-giving-local/</link>
+            <pubDate>Wed, 22 Apr 2026 13:52:53 +0000</pubDate>
         </item>
         
         <item>
             <title>[NBA] Wemby concussed on hard fall in Spurs&#x27; G2 loss</title>
             <link>https://www.espn.com/nba/story/_/id/48555708/spurs-wembanyama-concussion-protocol-exits-vs-blazers</link>
-            <pubDate>Wed, 22 Apr 2026 04:07:37 EST</pubDate>
+            <pubDate>Wed, 22 Apr 2026 12:50:43 EST</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Immigration Agent Is Charged With Assaulting a Colorado Protester - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNeTg0b054THpvelBfeTQ4cDF2U0FTNGFJMUczQzh4b1ZIZUljQ0g2c2JFNWZFbndCelY5MXdYMnFBM0N3OW1VeEZ3V2s5aFB5bWI5blRaN0ZOc2pQU2xCNk1vRUVtZWI1V2VSX29JX3BoUGJQSEVYU0lLQ0toQVR5Y1RRQnJoQ2I2Sl9IMDA4SHlRSlJ2UlRrRzdUQQ?oc=5</link>
-            <pubDate>Wed, 22 Apr 2026 02:50:41 GMT</pubDate>
+            <title>[NHL] Pens&#x27; Crosby: &#x27;Urgency is heightened&#x27; down 0-2</title>
+            <link>https://www.espn.com/nhl/story/_/id/48561652/crosby-says-urgency-heightened-penguins-0-2</link>
+            <pubDate>Wed, 22 Apr 2026 13:28:33 EST</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Wild Stuff: How red pandas help with biodiversity</title>
-            <link>https://www.yourerie.com/on-our-air/wild-stuff-how-red-pandas-help-with-biodiversity/</link>
-            <pubDate>Tue, 21 Apr 2026 21:55:37 +0000</pubDate>
+            <title>[NATIONAL] California Candidates to Appear in First Major Debate After Swalwell - The New York Times</title>
+            <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQam5Ic1VNSVpHRzl1V0x0aUdfYXNsTFkwaWtzMG4wdTFyNjA2SHg2bXZPNEF5emJ6WUg5Y2Z0eUFwaHYtMVJUUVNfNE9BUDJGQ0VLYVVZWnB6MHMxdDJZTWpMRHpjaVBEa0hJMENjXzRmYXpIcm9DSG1qaWtEeEUwYmdrcWdiOTd4RFJR?oc=5</link>
+            <pubDate>Wed, 22 Apr 2026 18:07:17 GMT</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Local boy looks to help local firefighters with homemade pickles</title>
-            <link>https://www.yourerie.com/news/local-news/local-boy-looks-to-help-local-firefighters-with-homemade-pickles/</link>
-            <pubDate>Tue, 21 Apr 2026 21:21:54 +0000</pubDate>
+            <title>[NATIONAL] Man charged with lying to police about gun used by Louisiana shooter - The Washington Post</title>
+            <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQRU5EUUNPaDc5ZDI5X2tOM0NKbmRDRURMblZYTGRidkQzVWs0TmpFZkFoR0J0b1lhbWwwQzFQVnIzZXNfa2ViYklvLWpvOFUyOUJEM3RPNlFIek5LYkQzRklFWUVWbU5QRURIUDk0YVZ5S1hnSmVkZ2Q5eTQ1dXROTWNoaGM3T3NnT0w0Rg?oc=5</link>
+            <pubDate>Wed, 22 Apr 2026 17:22:18 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Americans’ disapproval rating of Congress matches historic high - Politico</title>
-            <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPZGF3LWNWckJkTFIzbElCeWZ4cDlJX3dGNGdGeFFxNUJSNzl0dURLcnpYTlJqZ01KaW5Ua0hXcnlGQUY5QlB1TEZhVnRTVy1MdVpmRXhwYnJ3UldrejkwNEtPV2dsSU4yNVNzLWNVS0FoLTFackw3QkUtbjM2dnNMV0Vxd0pFLTdOYjJjSEV3dnI5d1hPbVV2bzg5VG5hRjQ?oc=5</link>
-            <pubDate>Wed, 22 Apr 2026 12:05:00 GMT</pubDate>
+            <title>[LOCAL] Fort LeBoeuf coach Rick Freeburg honored for 50 years of dedication</title>
+            <link>https://www.yourerie.com/news/local-news/fort-leboeuf-coach-rick-freeburg-honored-for-50-years-of-dedication/</link>
+            <pubDate>Wed, 22 Apr 2026 14:16:06 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Virginia approves redistricting measure, boosting Democrats&#x27; hopes for midterms - BBC</title>
+            <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xb3RwT1VhM19KdTFzRllTNjlUZk1EemVlV3VqeHVnZVprbGkwYlhtMllYU1pVTTM5Q2Rkb0tZbGs1RTl4bUo1cVlGMUhZZWsyT0ozYmdtSDhodw?oc=5</link>
+            <pubDate>Wed, 22 Apr 2026 13:49:15 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Mexico to beef up security at tourist sites after shooting at pyramids in lead up to World Cup - AP News</title>
+            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0FRZkFwRlhsRGFzZ0JIbXVtTDNxVDlOVVlRSmx2TWQzTFRib0JNV0xEbjJ1NG9WM2RsU3l0SDNMandHbXlERV9pUDlibkdkMUQwWjdRd0E1WGFmbDdYcTJxbnZMTDZKdnpual9WSFlpdGZLRG1uZERJX2JLYXQ1TC1LQzVyRTM2M193NEtqZlBUQmhhUTJzUkpvS0phdnoyRTk3SkNPUzMzZw?oc=5</link>
+            <pubDate>Wed, 22 Apr 2026 04:01:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Country Fair Flagship Store celebrates one year in business</title>
+            <link>https://www.yourerie.com/news/local-news/country-fair-flagship-store-celebrates-one-year-in-business/</link>
+            <pubDate>Wed, 22 Apr 2026 16:00:25 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Rep. David Scott, a Georgia Democrat, dies at 80 - NBC News</title>
+            <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOd0JmRjdEaVdHZ25ZUi1UUzJia2RyMGtvbC1mX0ZUcHB1dUZGbEliZmFjVEFOV0lPTC1lN1ZsWElKRU9JM2p6dXRudVkxQmkzVGxfM2h2ZnlWSTg3LUNoUThHVnRLcDF3Y0RlTWZvWkZiV0RrQi0yU3BqeWN5NkZ4XzlVS0g2VVUxLTB3Rg?oc=5</link>
+            <pubDate>Wed, 22 Apr 2026 18:25:32 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Warren County basement fire sends one to hospital</title>
+            <link>https://www.yourerie.com/news/local-news/warren-county-basement-fire-sends-one-to-hospital/</link>
+            <pubDate>Wed, 22 Apr 2026 16:14:25 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[MLB] The eight most astounding stats of MLB&#x27;s season start</title>
+            <link>https://www.espn.com/mlb/story/_/id/48553796/mlb-2026-early-season-stats-walk-rate-average-miller-astros-mets-red-sox</link>
+            <pubDate>Wed, 22 Apr 2026 12:40:23 EST</pubDate>
         </item>
         
     </channel>
-    </rss><!-- Updated: Wed Apr 22 13:15:49 UTC 2026 -->
+    </rss><!-- Updated: Wed Apr 22 19:05:47 UTC 2026 -->
