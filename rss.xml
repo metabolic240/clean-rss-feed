@@ -6,51 +6,9 @@
         <description>Filtered national sports and local Erie headlines</description>
         
         <item>
-            <title>[LOCAL] Breaking News: Broad Street shooting</title>
-            <link>https://www.yourerie.com/news/local-news/breaking-news-broad-street-shooting/</link>
-            <pubDate>Fri, 07 Aug 2026 22:38:03 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Pirro, Trump’s longtime champion, is on the outs over Reflecting Pool move - The Washington Post</title>
-            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0F0TUV3RlpITW4wUXA5OXJOMGtsVE54VHlQZWZhN1FuMTk0R2dSRlFBeHFrdExpUDd4b20xNFZkcVBHMDIwLU5WVnpQNzU5SjZJWDBwbXpOSVlKa19XdEhhT0RBRmxPMjJYdDdudzlqOVk0Wkk0cUgwR2FiNUtPanVRb3ZZdjNTR0xpQXdlNUVrM1Bpakt6RWVKQVJRbjliOFBZOHNjUXZWRXYzcnhKUU01dHdyb2VXeEQ5eXJyaXM3OWM?oc=5</link>
-            <pubDate>Sat, 08 Aug 2026 16:17:53 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Todd Blanche is narrowly confirmed as Trump&#x27;s attorney general in an overnight Senate vote - AP News</title>
-            <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNVVFqcS02ZHV5ZjlaeVFZdTlteEs3VjRqcVhQN3hxZHRQYjFjNUhKenE5MnVQR1J3R1d0cTA2NXJGTHZfcjU0RXM0T0dvSHFUUWItbktmV3JLMVFPaURkMzh5RUhCQmRyY3JUb3NNWGJqSlZvYXhBdzFfeU5hY3d6YVRMRkg5SWt4ZVJSVUpJZWxuYi0tZ2ExbXd5SGdmQzVWWnRvOE5JUm9HOXk4LUVV?oc=5</link>
-            <pubDate>Sat, 08 Aug 2026 15:04:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] L&#x27;Arche Erie&#x27;s &#x27;Longest Table&#x27; brings community together</title>
-            <link>https://www.yourerie.com/news/local-news/larche-eries-longest-table-brings-community-together/</link>
-            <pubDate>Sat, 08 Aug 2026 16:01:22 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Conservatives meet to make birthright citizenship their long-term project - Politico</title>
-            <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQYXAxQ1ZzUUxZN2JCZHJSQzRlQ1I2V3NhVmkybkllYmplNXZUcTdoMU5wN2d2WHdiQ0tZS3pUWnlreDFJNGZlQkVkZUtrS3RMbjBoM1M3OGkzYkYyT0p5N3FPemtXNWdVMDBiVTVIMFhyVHpoaU54Y2ZVMnQtaU1WVl8xM01PVXdDbzVUUlZyZVRjWDdQc3g3dGM3VlNsLTR3dmZ2c0s1aFpjQUZjMnZ3WFdLNmY5WUtPekZyN0Q1VVJQNk1oUk9JMGZfN1k?oc=5</link>
-            <pubDate>Sat, 08 Aug 2026 14:00:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] New affidavit reveals possible motive after 17-year-old accused of killing 2 men in DeLand - WESH</title>
-            <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNTXJfeTE0XzFMQ1REeUEyU0lPWlFmTC1qeHNkOTlYeDJLazJHbFduZTlVVUJIbGd3MDlSMFM0RXA1QmZWTUVWNnFNUXpNTFFkS1NqMHpyWDE5cVpHZWhWVkc1ZGp2cU05YXlhajZRLTRRTE9oZFc4a0tkUTdNdWEwRkxIemhOaUVPbGd4V3ZCYw?oc=5</link>
-            <pubDate>Sat, 08 Aug 2026 14:26:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] One sent to the hospital after shooting on Erie&#x27;s east side</title>
-            <link>https://www.yourerie.com/news/local-news/one-sent-to-the-hospital-after-shooting-on-eries-east-side/</link>
-            <pubDate>Sat, 08 Aug 2026 02:22:57 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Friday Night Lights part one (8-7-26)</title>
-            <link>https://www.yourerie.com/sports/friday-night-lights/friday-night-lights-part-one-8-7-26/</link>
-            <pubDate>Sat, 08 Aug 2026 04:20:41 +0000</pubDate>
+            <title>[NATIONAL] Pentagon presses defense firms to build weapons as Iran war depletes stocks - The Washington Post</title>
+            <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEVSY1poSEdoWXlVam44MEZhT2RqY3lRYWE1M001R2tlb2E3aUlWdEJHeWFvem5wY0ZXRzdKMzNTMTBCdUdHTWtxV2hucWRnVmk3SExENGk5M1lUeTN2RzA1V1F1RU54S041Q2U5WG5iZVdTUkhSUG5jQ3hna0tEeDNDNWVJN2E3ZzRRNl9lSmlrOXFtWFFKU3E0MmtrVkFQSmVqcmoyNDh5U29ZS1hRQ00wY3hKd1RNdklWWkZUaGo?oc=5</link>
+            <pubDate>Sat, 08 Aug 2026 22:34:42 GMT</pubDate>
         </item>
         
         <item>
@@ -60,39 +18,63 @@
         </item>
         
         <item>
-            <title>[NATIONAL] Hunter Biden talks about how his father’s cancer has spread and is causing him pain - The Guardian</title>
-            <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE04Q2NHbGFCZFVBUkhTQUpZSnVkV2lEa0xGNGhFd19WdXJmZWNUODR1Q3FNMnUtV3dpaE1mV0xISjNIMWUydzN3d2plZzBRdHR2eEk0SmJuNVQyVnZtakl4eDFveEsyRTdUenA3YjI4Qng2SlZsVkpWYS1qNA?oc=5</link>
-            <pubDate>Sat, 08 Aug 2026 15:14:00 GMT</pubDate>
+            <title>[NATIONAL] Video shows Alabama deputies wrangling a 1,500-pound runaway bull: &quot;Oversized escape artist&quot; - cbsnews.com</title>
+            <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE90QzVhSFo3RFJFYmItZU5QelotQ09qblFlNjlIZkxjQk9IaEpXbDMzV25GampFa1REYmRzcnFhak9SYWx6VVEtMWxCeksxZ1BGbkNfVDVodldoV0p0b1hTbEoxdHUyUFhCLUc2Y2xoeUI5b0hvalJGOWNR?oc=5</link>
+            <pubDate>Sat, 08 Aug 2026 19:27:25 GMT</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Local business owners reflect on National Black Business Month</title>
-            <link>https://www.yourerie.com/news/local-news/local-business-owners-reflect-on-national-black-business-month/</link>
-            <pubDate>Fri, 07 Aug 2026 22:44:21 +0000</pubDate>
+            <title>[LOCAL] L&#x27;Arche Erie&#x27;s &#x27;Longest Table&#x27; brings community together</title>
+            <link>https://www.yourerie.com/news/local-news/larche-eries-longest-table-brings-community-together/</link>
+            <pubDate>Sat, 08 Aug 2026 16:01:22 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Iran says deal on Strait of Hormuz is close but is not enough to open the waterway - Reuters</title>
-            <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5</link>
-            <pubDate>Sat, 08 Aug 2026 15:22:02 GMT</pubDate>
+            <title>[LOCAL] Friday Night Lights part one (8-7-26)</title>
+            <link>https://www.yourerie.com/sports/friday-night-lights/friday-night-lights-part-one-8-7-26/</link>
+            <pubDate>Sat, 08 Aug 2026 04:20:41 +0000</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] North Carolina pastor taken by ICE had a stroke in detention, family says - NBC News</title>
-            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNRWQtR2tSZWlpOEtzblREeklJOGJvUzVlSFVwS25iN3lndUpCMDBWQ2c1ckZEdW9yWG43Q2JqUjIzMVlRUmpBRkhQLWJaX0xxb0d2WlhVQkJnWVFvU3pkcGtObzlfbVhFaWhTUlRnQXI3SC0tQkZ3SkxPdWNsQ3Z5RWJnSXY2dE1PcHFZZ2R6NnUtVDJiTjVaWHR6WVpsY2FUSGFqNjQ1bkdJTGM3NDZTNGlFbFZLZlB5X1E?oc=5</link>
-            <pubDate>Sat, 08 Aug 2026 10:00:41 GMT</pubDate>
+            <title>[NATIONAL] Dems blast Blanche as enabler of ‘Trump’s corruption’ after AG confirmation - The Hill</title>
+            <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3NIUlkzWUlFSl81MHNjQUFKQkFiQk12VmNTRHhJcTE1YUoxa2Y0OU03dG5GcTVlNjM5Y2N6S3NfZF9xUkp0ekxOMVBpTm1GU0dDOFFhdUVKU3RKSHJzSEtmeFFETTR3UmJlbGRCMlBiU2pYRUdJWVJybzJCM05Vaks4Z1MxbHBhNHfSAY8BQVVfeXFMUDlyLVlYTXBFRzN4VFdRT1BYbk8xQ3prWXpVUVI1cU14aTQ1MzZKb2FCdWlweFlFWmp6SWtUNXJPSDFxU29oODFlcnNwOWlnQ2MzNUZWV2NZNXcxbjZ6MVZXdDViZ3ZaY01Ca29MM2JGdHVuSjAxTmd0NnRKNmU4Z3c2T1dOX2FwTXBvZnpzUzA?oc=5</link>
+            <pubDate>Sat, 08 Aug 2026 19:45:00 GMT</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] Today&#x27;s Top Stories: Aug. 7, 2026</title>
-            <link>https://www.yourerie.com/news/local-news/todays-top-stories/todays-top-stories-aug-7-2026/</link>
-            <pubDate>Fri, 07 Aug 2026 22:45:15 +0000</pubDate>
+            <title>[NATIONAL] 2 firefighters killed after helicopter crashes near Widemouth 2 Fire - KSL.com</title>
+            <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0RHbVg3Mm93X215WmFYbHZ0anNnWTl5NkJEWmZXSzNCd196b3VuUzdDN09VeEpDTDM1bG4tT1hIQ0lxS3BLYjVzdGFTT3Z3OE03R0k5dmE1cFd2SkNRMDlVNF9sUF93V3RxY1hLZzRQUXRvOEpsdmRRQUREdV85dHdFOFJadlZvcXlmaXV4SlN2VXBhVkJxVQ?oc=5</link>
+            <pubDate>Sun, 09 Aug 2026 00:05:13 GMT</pubDate>
         </item>
         
         <item>
-            <title>[NATIONAL] Live updates: Teen gunman dead after killing teachers in Thailand’s worst school shooting in years - CNN</title>
-            <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWFEcUVzSTFyQUVDMHBURExPR1drS3I4eTF0a3NIRmc3NUUyQ2hxcEVEd3E0TXppNWJzSlpueVl3TENZTUg5Y2JaaExQRnYyNTRPNlhIVVl0aEJlcWNpZWNzemJIVnB0YjZXcGtJZ0tTckp3Nzg5MjRpejFPZFVERjF4ZWRfakNfSjVnMw?oc=5</link>
-            <pubDate>Fri, 07 Aug 2026 17:47:00 GMT</pubDate>
+            <title>[NATIONAL] Hunter Biden Says His Father’s Cancer Is Worsening - The New York Times</title>
+            <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPNS1uT1J2NkhyR0hTSElTSy1FSnZnS3JzUUNvaUV5N2M3TjlPUWJCVWFEVG81emlyOHlhc3A3b0hRSmtseDVOM2NSRmhVTWJ1SjZibXJtcnpMTC0yZ2hPOUlOTEhWYjJWaFFlQUxfVEZ2LTVyMHBHNU5iTS1Gd0loNm9aM0tZWVNYbkF4MlRod1FCOEFCNUVCdmZYemlJTUZMUS1v?oc=5</link>
+            <pubDate>Sat, 08 Aug 2026 22:07:48 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Local Civil Air Patrol, JROTC cadets clean up Presque Isle beach</title>
+            <link>https://www.yourerie.com/news/local-news/local-civil-air-patrol-jrotc-cadets-clean-up-presque-isle-beach/</link>
+            <pubDate>Sat, 08 Aug 2026 22:14:59 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Trump’s White House ballroom foes face ‘very tough argument’ at Supreme Court, legal experts say - Fox News</title>
+            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNajB3Z0x0c2dfMXJiTFJsMnlCTjROWHUtYzZTOWNGYUZScHBLX2tlRDRzY3lNRlAyX0NHQnN6NWFrSkY2QjZnTm1rQzFOQkZSRjl0UGM2RjRjcVZDYXlGSXJ5VGxnUlI4dEFwaDNueXl6S1BKVF9YQjNDZjFtNW11akM3UGhaVHllLTFiazdxUXNlbnZKRWtSVzA5dTRmUkpTUjZLNHNBd1ZZMWN3b2xaX0Z6WVM1ZjI2R3ZsOUpyQdIBxAFBVV95cUxQSUtnZUhpTHhDcWZMQmhQTTUwaUZlaklPaHdKYmxkVVg3d0s2M2RyODFUM0hLbjg5OTBXang0Mnk4dEh5d1Bxd0ZlU050N0xBbS14VUhfS1lCaWtJVDNScXVxaVNHYTFTbnl1N19wMl8tcjZRSEVHX0dndXVKcnhQSHRBRlU0Y3RFUXI2TzFnLU9SSnZ5bk1XUjJFcHI0bDRTY2lLVFExNkNma0Y5Z0ltVlJYelNYOU82Smhib1JDVGJtWDZ1?oc=5</link>
+            <pubDate>Sat, 08 Aug 2026 20:50:13 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Annual &#x27;Glinodo Goat Fest&#x27; to celebrate environment with local farms, artists</title>
+            <link>https://www.yourerie.com/digital-first/digital-exclusive/annual-glinodo-goat-fest-to-celebrate-environment-with-local-farms-artists/</link>
+            <pubDate>Sat, 08 Aug 2026 20:04:47 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] DEI dispute delayed wildfire grants for area engulfed in blazes - Politico</title>
+            <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGhZSTJPdzJZZG1QLVhkN2Q2RURnTXdHYzJpYWJQUnVkVm5JOXhOWWRNbF9pUkg2VU1zUGoyaG4yMzhZaXZEZGhfNmNKNUNTaXBHZG9kZEJUc1ZYWU5BZTJmQ3p4SFU2bzQyVDB5UG5wSExOWkljbTdFR2F1TGtESVdnVTZtVTVwSnk3UkpoMTg3NDBfaXE5amRn?oc=5</link>
+            <pubDate>Sat, 08 Aug 2026 20:00:00 GMT</pubDate>
         </item>
         
         <item>
@@ -102,9 +84,9 @@
         </item>
         
         <item>
-            <title>[NATIONAL] Democrats Vow to Unite Behind Abdul El-Sayed in Michigan, but Tensions Remain - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOa01acU5YOWtNbXZFV29VRXpoMHhialdGQnJNeW9IdjJLanpVZ3NsVS1ST3pRYURhbWdPQXJEVTA5MHZaZGdmYy1Ic2hGQll3MGViU0xwVC1OTzROX2I1MTBtbjR0cnlSQWxwcnU2aUYybFY5VkdpX0RvSTNEc1dvMm9iaEhuT1lXeWJfbDNzOXp5dUk?oc=5</link>
-            <pubDate>Sat, 08 Aug 2026 09:02:00 GMT</pubDate>
+            <title>[NATIONAL] Iran says deal on Strait of Hormuz is close but not enough to open the waterway - Reuters</title>
+            <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5</link>
+            <pubDate>Sat, 08 Aug 2026 22:54:58 GMT</pubDate>
         </item>
         
         <item>
@@ -114,10 +96,34 @@
         </item>
         
         <item>
-            <title>[NATIONAL] Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPenBTdmd1U2FCOXlVWXJ6SS1ObEc1aGZodV9HMGFjakgtWDdWX2owTjRzT3E4MTVmVmxuWjRReGYzalZhcGVUbUZKSVo2OTRiTV8wVW1XVUliUlpPNFJLbk9FQ2pQUjRTbDNqMTdoYmJIMHFiZ1pQaFNySkZrSjNKeDZPVm1RcExEc1BKdHJ1dUU?oc=5</link>
-            <pubDate>Sat, 08 Aug 2026 08:04:22 GMT</pubDate>
+            <title>[LOCAL] St. Paul&#x27;s Italian Fest returns to Erie</title>
+            <link>https://www.yourerie.com/news/local-news/st-pauls-italian-fest-returns-to-erie/</link>
+            <pubDate>Sat, 08 Aug 2026 22:16:11 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Erie Pride 365 hosts annual block party</title>
+            <link>https://www.yourerie.com/news/local-news/erie-pride-365-hosts-annual-block-party/</link>
+            <pubDate>Sat, 08 Aug 2026 22:17:04 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] Trump is about to get &#x27;unchecked authority&#x27; to impose tariffs of up to 100% on top trading partners - Fortune</title>
+            <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNRGtJa2tldncwZFRKUWRHUGd3VkV1N0dhLWFmMkw4RXkzNmcycS1JT3VlbnQ0SDZlYmVxd3ljSC1wcW9PMThjRWZMSXVUUzZValF3dlpPcDNPUnNSQ3ppaS1wZ3FPQVNIbW43bHRIZjJxX1ZLcjh6UmVNeUQxQ3FMWFo2cWNKVGRvX3RhTUw1TkVZSVc0eUpmdjdiVnQxWFVud21F?oc=5</link>
+            <pubDate>Sat, 08 Aug 2026 17:23:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Rides for the Rise festival supports Erie youth</title>
+            <link>https://www.yourerie.com/news/local-news/rides-for-the-rise-festival-supports-erie-youth/</link>
+            <pubDate>Sat, 08 Aug 2026 22:14:09 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[NATIONAL] El-Sayed faces ‘risky bet’ with Michigan’s Black voters - The Hill</title>
+            <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQNV9ucldnc09mQ0JFNG5uU3NzR0NDMHFMRXNHbXB0aDJIX21YUE1NbFo0ZVFTaGIwOEdmbkxVX2hXdl84U1VxS05kcGsyUkUyaTR6eFotcVZtaVJxYWJrVE80MUJQWEdvb3U5b083TmZBY0E3aG91REVucklVR1VfNnlLUW45VkZKNWEza9IBkgFBVV95cUxOS0NJNXVOMkt5QmFJeFY2OVEzMXY0Z0ItWmlMaEtNbXpwTm5kanZqcUVidEt5SnRKTENLRDZ1LWx4cFRBcjlHOUllNDk0cGhvTEtoZmtOZ2EtTXdYcUs1SXptSGtXcXZOSWZNck1HV2lWSEF4M2tPQ0NGR3NibWtJeDBsdkJ0MkYyclpGZ3Q0aG8ydw?oc=5</link>
+            <pubDate>Sat, 08 Aug 2026 21:00:00 GMT</pubDate>
         </item>
         
     </channel>
-    </rss><!-- Updated: Sat Aug  8 18:28:39 UTC 2026 -->
+    </rss><!-- Updated: Sun Aug  9 01:15:53 UTC 2026 -->
