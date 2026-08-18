@@ -6,63 +6,15 @@
         <description>Filtered national sports and local Erie headlines</description>
         
         <item>
-            <title>[NATIONAL] Trump’s approval rating sinks to new low at 33 percent - Al Jazeera</title>
-            <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeU0wQ21sWnFpTTZxT2tGVGtVbG5ucFkwLTVYY01CQTdHLUVOYy1NZFJDWnRxSnFMbGl6eU54QkhrdURuNExLYmJ0R21WQjdQZ0pKVFBob2lLNVViZ3Q0aEUwSzM1Y3VpWEc0dXZWZDhmMng5SG5reEtpN21JcVc4Z01MWlpHRXRjTWg40gGQAUFVX3lxTFBiTlY0c1hYeFBueHVDT29taXFUWC0xSEc3U2R2NGlISW9Oa1dzX0REYVA3Q2M0cjlDSFBQb3JvNEkwNUx2cVlnSnQzRmM3TUlPdG1vcDBWakFXTk9iT2kyeEZDWnlDUV9jRS1oNnJWNVM5V3p3VU54MF9OLWpsaTdvaFFCRDQ0RXNHWmFNc1V6ZQ?oc=5</link>
-            <pubDate>Mon, 17 Aug 2026 20:44:29 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Judge delays Mangione’s state trial after lawyers sought dismissal - The Washington Post</title>
-            <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOSHIzVFRvWVhldjlneVdMNFJ6cEo1YjhwUUhrSDNwLWp6cXZrck1LblRHbmF0UmE5VU9mTG1aRkYtN1UzVEZYRXZVdkl0MkpSX3VXakZXQlRNVmtBOUpFdHo2LVViYkJsdlROSXktVXFtODBkZzJESTEzeEt5T3JQX3E1Q2RBLUpwallIdGVucU9TdGd2R2lKMzk1YU1fc2VMUVdNNlFpNnBmcERBN3FMaW5aZUQzQQ?oc=5</link>
-            <pubDate>Tue, 18 Aug 2026 04:22:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Code enforcement process explained as property concerns persist</title>
-            <link>https://www.yourerie.com/news/local-news/code-enforcement-process-explained-as-property-concerns-persist/</link>
-            <pubDate>Mon, 17 Aug 2026 21:00:45 +0000</pubDate>
-        </item>
-        
-        <item>
             <title>[LOCAL] Your Money: Taking full advantage of retirement plans</title>
             <link>https://www.yourerie.com/on-our-air/your-money-taking-full-advantage-of-retirement-plans/</link>
             <pubDate>Mon, 17 Aug 2026 21:40:24 +0000</pubDate>
         </item>
         
         <item>
-            <title>[LOCAL] State police continue move, old station to close this week</title>
-            <link>https://www.yourerie.com/news/local-news/state-police-continue-move-old-station-to-close-this-week/</link>
-            <pubDate>Mon, 17 Aug 2026 21:05:18 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Trump administration briefly pauses contentious border project in Texas&#x27; Big Bend National Park - AP News</title>
-            <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5vVk54X1dmbDBBVXItdUpaZy1nM1doRDQ1TFh6WE9ibHBzdDFTMjh3aTVJa255TTlpZkNaNzY0NnAzSUJnVHJZM2FVOWhDcVh3MzU0UEdLQVhPLUtHVE14S1NLR182VXFRS0dlQjNpNzdES1BPUFJfbU0yT1ltN2tCVlZTcDFRLTUyUGI1akpDZzJDOUtKa0Z4YlJHbkVaUXpEdWFERGhHNWM?oc=5</link>
-            <pubDate>Mon, 17 Aug 2026 23:10:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Legenderie to open again in new location</title>
-            <link>https://www.yourerie.com/news/local-news/legenderie-to-open-again-in-new-location/</link>
-            <pubDate>Mon, 17 Aug 2026 21:19:01 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Chocó, Colombia, Faces Deeper Hardship After an Earthquake - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQdmR5ek4wamFDVkRBeWVYSnEzaC1GOVZ1aktJU2xFc2ZpTVp1eWc5ZVNIMU1nNVBDOHZxOFlQRlQzUlg2a19WcTFXUHI1NDA5RkNJZWZ1V096MHRIcGJxNFVBNXdrQnBzaWlVdGU4QlN5enhOQ3piMWQ3NXZWcUlybFE4SDkzREU?oc=5</link>
-            <pubDate>Tue, 18 Aug 2026 09:19:25 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Trump&#x27;s Oman bomb threat an attempt to get their &#x27;attention,&#x27; says former ambassador - CNBC</title>
-            <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmNIbjN3eXVyMkpCaFZaMHg0NHNPQUhEQjM2QmNTTllUdFhENXNabXp0SGl6LUtodTE3WGFmN2FhaHVsbndwUTVIWXlVMjA3NTJ3MklSa1BPUS1mTFR5VjUyUzdfenpfWXNZZlM0S05SekstNlA2RDFoYjFjN1d2QkhhWFUtTFlYMDdLZEFjaWlhNWwzMTFTX2MtOWzSAaIBQVVfeXFMUHRPcHFyUW0ya1NIS241cXhCaXdmRl9QZ2JSWEJwUWYycXBXU0tpb2tFdFM3LXRBUXVIdkJJNUl6VmlDYVhNQjZxX2dOdWdYYXU0akx1QUlZY0JkVW1HeUc2c2tFZjN4bzZIUG55WlpXOERpOU0tbHVFWU9mNFJfcHpqZkRpWGU3QVVVVTFUZ1hkTmZNS3RyZ3dGNm04Wk55SWFB?oc=5</link>
-            <pubDate>Tue, 18 Aug 2026 04:01:13 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Russia is shipping explosives to Iran to bolster its missile and drone arsenal in U.S. war - NBC News</title>
-            <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxQbF8wR1I1bFRQZ19BMTFONWpQdnJhSk1aVlpZWkU5WFVRMjlTSWFwS1h6czRvLUlraS1TY3RIQ1ViVGFrLWIxa2U4SUlBRnZ2U1Y2eF9Ga0JCTVN3Zk5FeVBZSjVPb0NVb3d0MDU2SG1RLW1uMjg1YkI2bXBlemhvNTdhR1lSWTJGcTlaMnhLQll6TkhjS3ZzNlhvaTNFU0NQRkNYLU02c3VoOHp3Nk5lRXpISU1vZ1FKRVp3eWNtRHF0dWlWSVhDdlJn?oc=5</link>
-            <pubDate>Mon, 17 Aug 2026 22:54:41 GMT</pubDate>
+            <title>[LOCAL] Senator Chuck Schumer visits grape growers in New York</title>
+            <link>https://www.yourerie.com/news/local-news/senator-chuck-schumer-visits-grape-growers-in-new-york/</link>
+            <pubDate>Tue, 18 Aug 2026 15:53:38 +0000</pubDate>
         </item>
         
         <item>
@@ -72,39 +24,9 @@
         </item>
         
         <item>
-            <title>[NATIONAL] 60 days after signing Iran deal, Trump stuck in quagmire as war drags on - The Washington Post</title>
-            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPVW11cldIazMtZ3FxdFMxclNuV2E0bkxXS1NQTW5fdlVtTmk4WWgyemVPSEJvOE5VWk5RRS1PckxxOWtqdURsOTJ0YTcxZERta1lkSm1UbkQ5TXpMRGh2UEw4NzIwa3kxZ2R2MkgtSk1EbTRsaGplZnpLdGJWcmM1ci1FTXJlM2tkZk1rcmxGbS0xS2J5UWJpQm9RbFdYVjViOWdGbWNLb2NzdTNmaUtLeTFjZG1PVUN4S1JlZEhOOA?oc=5</link>
-            <pubDate>Tue, 18 Aug 2026 04:20:35 GMT</pubDate>
-        </item>
-        
-        <item>
             <title>[LOCAL] Witnesses take the stand in January 2025 homicide trial</title>
             <link>https://www.yourerie.com/news/local-news/witnesses-take-the-stand-in-january-2025-homicide-trial/</link>
             <pubDate>Mon, 17 Aug 2026 22:20:03 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] Florida Primary Underscores State’s New Identity as a Republican Juggernaut - The New York Times</title>
-            <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmdicGZGRFBfd0t6T3dkdUQ5eGpMYXVxUlFyaHRoLVVpZDNqc0RVTnI5X3RHdWEtbTRfaGFocXd3THdPZU5VUmFreDFGN2ZodS1RQVlobDFsZU1qSzZKT3ZaUVZOby1TSFo0M3piR2lrZnE5N1ctWEh4bkRJNUZ3QlZsdV9kR2p1MWZOQmNGTVQxQQ?oc=5</link>
-            <pubDate>Tue, 18 Aug 2026 09:03:48 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian</title>
-            <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5</link>
-            <pubDate>Tue, 18 Aug 2026 10:53:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>[LOCAL] Erie&#x27;s Public School welcome new educators at New Teacher Induction Day</title>
-            <link>https://www.yourerie.com/news/local-news/eries-public-school-welcome-new-educators-at-new-teacher-induction-day/</link>
-            <pubDate>Mon, 17 Aug 2026 21:39:49 +0000</pubDate>
-        </item>
-        
-        <item>
-            <title>[NATIONAL] UK will support Ukraine &quot;100%&quot; despite Russian warning, PM Burnham says - Reuters</title>
-            <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUVfTGNVRktRc2R4dkg0YXI4SndIblJaQngxMHlLNFZ5Z285ZzF3UHBIMTl2VGVUanpfRmhSR1BXcDJoNTNPNV9GUFZDSTcyMGFSQU4wblUtWm9zOWZ0cFU3eEdxc0dtNDdsS2tBUWRlX3hTOGtzemJiSi1nek1QWm9lb3c3NC1ZYllvb3RiTS1yX1ZrdHNrbzFJZi1uNHVzTGJfUHFB?oc=5</link>
-            <pubDate>Tue, 18 Aug 2026 11:39:43 GMT</pubDate>
         </item>
         
         <item>
@@ -114,10 +36,22 @@
         </item>
         
         <item>
-            <title>[LOCAL] Local seniors fill Bayfront for annual fair, older living expo</title>
-            <link>https://www.yourerie.com/news/local-news/local-seniors-fill-bayfront-for-annual-fair-older-living-expo/</link>
-            <pubDate>Mon, 17 Aug 2026 21:10:34 +0000</pubDate>
+            <title>[LOCAL] Tuesday Tails: Tater and Tot &amp; Patrick and Porter</title>
+            <link>https://www.yourerie.com/on-our-air/jet-pet/tuesday-tails-tater-and-tot-patrick-and-porter/</link>
+            <pubDate>Tue, 18 Aug 2026 16:47:52 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Crawford Gives 2026 set to kick off</title>
+            <link>https://www.yourerie.com/news/local-news/crawford-gives-2026-set-to-kick-off/</link>
+            <pubDate>Tue, 18 Aug 2026 15:58:30 +0000</pubDate>
+        </item>
+        
+        <item>
+            <title>[LOCAL] Erie County Haz-Mat responds to Edinboro chemical leak</title>
+            <link>https://www.yourerie.com/news/local-news/erie-county-haz-mat-responds-to-edinboro-chemical-leak/</link>
+            <pubDate>Tue, 18 Aug 2026 14:45:16 +0000</pubDate>
         </item>
         
     </channel>
-    </rss><!-- Updated: Tue Aug 18 12:33:58 UTC 2026 -->
+    </rss><!-- Updated: Tue Aug 18 18:28:53 UTC 2026 -->
